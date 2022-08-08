@@ -1,0 +1,10 @@
+原/b 标题/n ：/w 医学/n 前景/n ：/w 十大/mq 仿生/b 肢体/n 器官/n (/w 图/n )/w 
+具有/v 触觉/n 的/ude1 仿生手/nz 
+可以/v 探测/vn 疾病/n 的/ude1 鼻子/n 
+人造/b 眼睛/n 
+1/m 手指/n U/x 盘/qv 
+芬兰/nsf 程序员/nnt 杰里·贾拉瓦/nrf 在/p 一次/mq 摩托车/n 交通事故/nz 中/f 失去/v 了/ule 一根/mq 手指/n 。/w 在/p 医师/nnt 的/ude1 帮助/vn 下/f ，/w 他/rr 安装/v 了/ule 一根/mq 假/a 手指/n ，/w 并/cc 使/v 手指/n 成为/v [2/m G/x]/mq 容量/n 的/ude1 U/x 盘/qv ，/w 只需/v 剥下/nz 假指甲/nz ，/w 将/d 手指/n 插入/v 电脑/n 便/d 能/v 读取/vn U/x 盘/qv 数据/n 。/w 
+2/m 人造/b 眼睛/n 
+近期/t ，/w [美国/nsf 康奈尔/nrf 医学院/nis]/nt 的/ude1 科学家/nnt 成功/a 研制出/v 一种/mq 人造/b 眼睛/n ，/w [人造/b 视网膜/n]/nz 中/f 的/ude1 芯片/n 转换/v 图像/n 成为/v [电子/n 信号/n]/nz ，/w [微型/b 投影仪/n]/nz 转换/v [电子/n 信号/n]/nz 成为/v 光线/n 。/w 目前/t 这种/r 人造/b 眼睛/n 能够/v 使/v 失明/vn 的/ude1 老鼠/n 恢复/v 视力/n 。/w 
+3/m [人造/b 胰腺/n]/nz 
+[人造/b 胰腺/n]/nz 能/v 自动/d 将/d 胰岛素/n 注射/v 人体/n 中/f ，/w 还有/v 一个/mq 监视器/n 监控/v 人体/n 血糖/n ，/w 及时/ad 调整/v 胰岛素/n 数量/n 。/w 

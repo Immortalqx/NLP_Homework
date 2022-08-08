@@ -1,0 +1,74 @@
+
+[海南省/ns 气象/n 服务/vn 中心/nis]/nt 2014年1月2日05时/t 提供/v 的/ude1 [天气/n 预报/vn]/nz 
+陆地/n [天气/n 预报/vn]/nz 
+2日/t 白天/t 到/v 夜间/n ：
+北部/f ,多/a 云/vg ,[最低/a 气温/n]/nz [11/m -13/m 度/qv]/mq ,[最高/a 气温/n]/nz [22/m -24/m 度/qv]/mq 
+中部/f ,多/a 云/vg ,[最低/a 气温/n]/nz [12/m -14/m 度/qv]/mq ,[最高/a 气温/n]/nz [23/m -25/m 度/qv]/mq 
+东部/f ,多/a 云/vg ,[最低/a 气温/n]/nz [12/m -14/m 度/qv]/mq ,[最高/a 气温/n]/nz [23/m -25/m 度/qv]/mq 
+西部/f ,多/a 云/vg ,[最低/a 气温/n]/nz [13/m -15/m 度/qv]/mq ,[最高/a 气温/n]/nz [23/m -25/m 度/qv]/mq 
+南部/f ,多/a 云/vg ,[最低/a 气温/n]/nz [15/m -17/m 度/qv]/mq ,[最高/a 气温/n]/nz [25/m -27/m 度/qv]/mq 。
+[西沙/ns 永兴岛/ns]/nz ,多/a 云/vg ,东北风/n [5/m 级/q]/mq ,[22/m -25/m 度/qv]/mq 
+中/f 沙/n 黄岩岛/nr ,多/a 云/vg ,东北风/n [5/m 级/q]/mq ,[22/m -25/m 度/qv]/mq 
+南沙/ns 永暑礁/ns ,多云间阴/n 天/qt 有/vyou 小/a 阵雨/n ,东北风/n [6/m 级/q]/mq ,[26/m -28/m 度/qv]/mq 
+3日/t 白天/t 到/v 夜间/n ：
+北部/f ,多/a 云/vg ,[最低/a 气温/n]/nz [12/m -14/m 度/qv]/mq ,[最高/a 气温/n]/nz [23/m -25/m 度/qv]/mq 
+中部/f ,多/a 云/vg ,[最低/a 气温/n]/nz [13/m -15/m 度/qv]/mq ,[最高/a 气温/n]/nz [23/m -25/m 度/qv]/mq 
+东部/f ,多/a 云/vg ,局/n 地/ude2 有/vyou 小/a 阵雨/n ,[最低/a 气温/n]/nz [13/m -15/m 度/qv]/mq ,[最高/a 气温/n]/nz [23/m -25/m 度/qv]/mq 
+西部/f ,多/a 云/vg ,[最低/a 气温/n]/nz [14/m -16/m 度/qv]/mq ,[最高/a 气温/n]/nz [24/m -26/m 度/qv]/mq 
+南部/f ,多/a 云/vg ,[最低/a 气温/n]/nz [17/m -19/m 度/qv]/mq ,[最高/a 气温/n]/nz [25/m -27/m 度/qv]/mq 。
+[西沙/ns 永兴岛/ns]/nz ,多/a 云/vg ,东北风/n [5/m 级/q]/mq ,[22/m -25/m 度/qv]/mq 
+中/f 沙/n 黄岩岛/nr ,多/a 云/vg ,东北风/n [5/m 级/q]/mq ,[22/m -25/m 度/qv]/mq 
+南沙/ns 永暑礁/ns ,多云间阴/n 天/qt 有/vyou 小/a 阵雨/n ,东北风/n [6/m 级/q]/mq ,[26/m -28/m 度/qv]/mq 
+4日/t 白天/t 到/v 夜间/n ：
+北部/f ,多/a 云/vg ,[最低/a 气温/n]/nz [12/m -14/m 度/qv]/mq ,[最高/a 气温/n]/nz [23/m -25/m 度/qv]/mq 
+中部/f ,多/a 云/vg ,[最低/a 气温/n]/nz [12/m -14/m 度/qv]/mq ,[最高/a 气温/n]/nz [23/m -25/m 度/qv]/mq 
+东部/f ,多/a 云/vg ,[最低/a 气温/n]/nz [13/m -15/m 度/qv]/mq ,[最高/a 气温/n]/nz [23/m -25/m 度/qv]/mq 
+西部/f ,多/a 云/vg ,[最低/a 气温/n]/nz [14/m -16/m 度/qv]/mq ,[最高/a 气温/n]/nz [24/m -26/m 度/qv]/mq 
+南部/f ,多/a 云/vg ,[最低/a 气温/n]/nz [16/m -18/m 度/qv]/mq ,[最高/a 气温/n]/nz [25/m -27/m 度/qv]/mq 。
+[西沙/ns 永兴岛/ns]/nz ,多/a 云/vg ,东北风/n [5/m 级/q]/mq ,[22/m -25/m 度/qv]/mq 
+中/f 沙/n 黄岩岛/nr ,多/a 云/vg ,东北风/n [5/m 级/q]/mq ,[22/m -25/m 度/qv]/mq 
+南沙/ns 永暑礁/ns ,多云间阴/n 天/qt 有/vyou 小/a 阵雨/n ,东北风/n [6/m 级/q]/mq ,[26/m -28/m 度/qv]/mq 
+[海南省/ns 气象/n 服务/vn 中心/nis]/nt 2014年1月2日05时/t 提供/v 的/ude1 [天气/n 预报/vn]/nz 
+陆地/n [天气/n 预报/vn]/nz 
+2日/t 白天/t 到/v 夜间/n ：
+北部/f ,多/a 云/vg ,[最低/a 气温/n]/nz [11/m -13/m 度/qv]/mq ,[最高/a 气温/n]/nz [22/m -24/m 度/qv]/mq 
+中部/f ,多/a 云/vg ,[最低/a 气温/n]/nz [12/m -14/m 度/qv]/mq ,[最高/a 气温/n]/nz [23/m -25/m 度/qv]/mq 
+东部/f ,多/a 云/vg ,[最低/a 气温/n]/nz [12/m -14/m 度/qv]/mq ,[最高/a 气温/n]/nz [23/m -25/m 度/qv]/mq 
+西部/f ,多/a 云/vg ,[最低/a 气温/n]/nz [13/m -15/m 度/qv]/mq ,[最高/a 气温/n]/nz [23/m -25/m 度/qv]/mq 
+南部/f ,多/a 云/vg ,[最低/a 气温/n]/nz [15/m -17/m 度/qv]/mq ,[最高/a 气温/n]/nz [25/m -27/m 度/qv]/mq 。
+[西沙/ns 永兴岛/ns]/nz ,多/a 云/vg ,东北风/n [5/m 级/q]/mq ,[22/m -25/m 度/qv]/mq 
+中/f 沙/n 黄岩岛/nr ,多/a 云/vg ,东北风/n [5/m 级/q]/mq ,[22/m -25/m 度/qv]/mq 
+南沙/ns 永暑礁/ns ,多云间阴/n 天/qt 有/vyou 小/a 阵雨/n ,东北风/n [6/m 级/q]/mq ,[26/m -28/m 度/qv]/mq 
+3日/t 白天/t 到/v 夜间/n ：
+北部/f ,多/a 云/vg ,[最低/a 气温/n]/nz [12/m -14/m 度/qv]/mq ,[最高/a 气温/n]/nz [23/m -25/m 度/qv]/mq 
+中部/f ,多/a 云/vg ,[最低/a 气温/n]/nz [13/m -15/m 度/qv]/mq ,[最高/a 气温/n]/nz [23/m -25/m 度/qv]/mq 
+东部/f ,多/a 云/vg ,局/n 地/ude2 有/vyou 小/a 阵雨/n ,[最低/a 气温/n]/nz [13/m -15/m 度/qv]/mq ,[最高/a 气温/n]/nz [23/m -25/m 度/qv]/mq 
+西部/f ,多/a 云/vg ,[最低/a 气温/n]/nz [14/m -16/m 度/qv]/mq ,[最高/a 气温/n]/nz [24/m -26/m 度/qv]/mq 
+南部/f ,多/a 云/vg ,[最低/a 气温/n]/nz [17/m -19/m 度/qv]/mq ,[最高/a 气温/n]/nz [25/m -27/m 度/qv]/mq 。
+[西沙/ns 永兴岛/ns]/nz ,多/a 云/vg ,东北风/n [5/m 级/q]/mq ,[22/m -25/m 度/qv]/mq 
+中/f 沙/n 黄岩岛/nr ,多/a 云/vg ,东北风/n [5/m 级/q]/mq ,[22/m -25/m 度/qv]/mq 
+南沙/ns 永暑礁/ns ,多云间阴/n 天/qt 有/vyou 小/a 阵雨/n ,东北风/n [6/m 级/q]/mq ,[26/m -28/m 度/qv]/mq 
+4日/t 白天/t 到/v 夜间/n ：
+北部/f ,多/a 云/vg ,[最低/a 气温/n]/nz [12/m -14/m 度/qv]/mq ,[最高/a 气温/n]/nz [23/m -25/m 度/qv]/mq 
+中部/f ,多/a 云/vg ,[最低/a 气温/n]/nz [12/m -14/m 度/qv]/mq ,[最高/a 气温/n]/nz [23/m -25/m 度/qv]/mq 
+东部/f ,多/a 云/vg ,[最低/a 气温/n]/nz [13/m -15/m 度/qv]/mq ,[最高/a 气温/n]/nz [23/m -25/m 度/qv]/mq 
+西部/f ,多/a 云/vg ,[最低/a 气温/n]/nz [14/m -16/m 度/qv]/mq ,[最高/a 气温/n]/nz [24/m -26/m 度/qv]/mq 
+南部/f ,多/a 云/vg ,[最低/a 气温/n]/nz [16/m -18/m 度/qv]/mq ,[最高/a 气温/n]/nz [25/m -27/m 度/qv]/mq 。
+[西沙/ns 永兴岛/ns]/nz ,多/a 云/vg ,东北风/n [5/m 级/q]/mq ,[22/m -25/m 度/qv]/mq 
+中/f 沙/n 黄岩岛/nr ,多/a 云/vg ,东北风/n [5/m 级/q]/mq ,[22/m -25/m 度/qv]/mq 
+南沙/ns 永暑礁/ns ,多云间阴/n 天/qt 有/vyou 小/a 阵雨/n ,东北风/n [6/m 级/q]/mq ,[26/m -28/m 度/qv]/mq 
+[海洋/n 天气/n 预报/vn]/nz 
+2日/t 白天/t 到/v 夜间/n ：北部湾/ns 海面/n ,本/rz 岛/n 四周/f 海面/n ,多/a 云/vg ,东/f 到/v 东北风/n [5/m 级/q]/mq ,西沙/ns 、[中/f 沙/n 群岛/n]/ns 附近/f 海面/n ,多/a 云/vg ,东北风/n [5/m 级/q]/mq ,阵风/n [6/m 级/q]/mq ,[南沙/ns 群岛/n]/ns 附近/f 海面/n ,多/a 云/vg 有/vyou 阵雨/n ,东北风/n [6/m 级/q]/mq ,阵风/n [8/m 级/q]/mq 。
+3日/t 白天/t 到/v 夜间/n ：北部湾/ns 海面/n ,本/rz 岛/n 四周/f 海面/n ,多/a 云/vg ,东北风/n [5/m 级/q]/mq ,阵风/n [6/m 级/q]/mq ,西沙/ns 、[中/f 沙/n 群岛/n]/ns 附近/f 海面/n ,多/a 云/vg ,东北风/n [5/m -6/m 级/q]/mq ,阵风/n [7/m 级/q]/mq ,[南沙/ns 群岛/n]/ns 附近/f 海面/n ,多/a 云/vg 有/vyou 阵雨/n ,东北风/n [6/m 级/q]/mq ,阵风/n [8/m 级/q]/mq 。
+4日/t 白天/t 到/v 夜间/n ：北部湾/ns 海面/n ,本/rz 岛/n 四周/f 海面/n ,多/a 云/vg ,东北风/n [5/m 级/q]/mq ,阵风/n [6/m 级/q]/mq ,西沙/ns 、[中/f 沙/n 群岛/n]/ns 附近/f 海面/n ,多/a 云/vg ,东北风/n [5/m -6/m 级/q]/mq ,阵风/n [7/m 级/q]/mq ,[南沙/ns 群岛/n]/ns 附近/f 海面/n ,多/a 云/vg 有/vyou 阵雨/n ,东北风/n [6/m 级/q]/mq ,阵风/n [8/m 级/q]/mq 。
+海南/ns [热点/n 新闻/n]/nz 推荐/v ：
+民生/n 实事/n ：[老/a 有所/v 依/v]/nz 海南/ns [7/m 家/q]/mq 新建/v 敬老院/nis 落成/vi 
+三/m 沙/n 书记/nnt 市长/nnt 肖杰/nr ：2014/m 是/vshi 建设/vn 发展/v 机遇/n 之/uzhi 年/qt 
+海南/ns 2013年/t 十件/nz 民生/n 实事/n 完成/v 接受/vn 群众/n 检阅/v 
+[三亚/ns 中/f 院/n]/nt 办公楼/n 成/v 危楼/n 追踪/v ：整修/v 即将/d 完成/v 
+《三/m 沙/n 新闻/n 》元旦/t 首发/v 肖杰/nr 签名/vi 送/v 本/rz 网/n 记者/nnt 
+本/rz 网/n 关注/v ：特困户/n 黄仕宣/nr 新年/t 将/d 圆/v 电动车/n 梦想/n 
+海口/ns 环海/v 大厦/n 百余/mq 业主/n 苦/a 等/udeng 8年/t 仍/d 未/d 拿/v 房产证/nz 
+视频/n ：阿婆/n 为/p 受/v 虐/ag 者/k 作证/vi 遭/v 殴/vg 派出所/nis 无/v 下文/n 
+元旦/t 海南/ns 游/v 账单/n 写/v 满/a 盈/vg 字/n 游客/n 乐游/nz 新景点/n 
+海南/ns 实施/v 新/a 交规/nz 一年/mq ：共/d 对/p 近/a [88/m 万名/q]/mq 驾驶/v 人/n 记分/vn 

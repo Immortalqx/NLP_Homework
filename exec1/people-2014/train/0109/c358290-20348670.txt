@@ -1,0 +1,10 @@
+何义富/nr ，/w 男/b ，/w [医学/n 博士/nnt]/nnt ，/w 肿瘤内科/nit [副/b 主任医师/nnt]/nnt ，/w 副教授/nnt 、/w [硕士生/nnt 导师/nnt]/nnt 、/w 肿瘤科/nit 行政/n 副主任/nnt 。/w 1997年/t 毕业/v 于/p [山东/ns 医科/n 大学/nis 临床/vn 医学系/nit]/nt ，/w 同年/d 推荐/v 到/v [安徽/ns 省立/b 医院/nis]/nth 工作/vn 。/w 1997年/t 毕业/v 后/f 一直/d 从事/vi 肿瘤内科/nit 临床/vn 、/w 教学/vn 与/cc [科研/n 工作/vn]/nnt 。/w 2003年/t -/w 2006年/t 在/p [中山大学/ntu 附属/vn 肿瘤/n 医院/nis]/nth 师从/v 国内/s 著名/a 的/ude1 肿瘤学/gb 专家/nnt 姜文奇/nr 教授/nnt ，/w 获/v 肿瘤学/gb [硕士/nnt 学位/n]/nz 。/w 2006年7月/t 再次/d 回/v [安徽/ns 省立/b 医院/nis]/nth 继续/v 从事/vn 肿瘤内科/nit 工作/vn ，/w 2009年/t 在/p [安徽/ns 医科/n 大学/nis]/ntu 获/v [肿瘤/n 药理学/n]/nz [博士/nnt 学位/n]/nz ，/w 师从/v 国内/s 著名/a 的/ude1 [临床/vn 药理学/n]/nz 专家/nnt 魏伟/nr 教授/nnt 。/w 
+现在/t [专业/n 方向/n]/nz 、/w 技术/n 特长/n :/w (/w 1/m )/w 消化道/n 肿瘤/n [诊断/vn 与/cc 治疗/vn]/nz (/w 2/m )/w 淋巴瘤/nhd 的/ude1 诊断/vn 和/cc 治疗/vn (/w 3/m )/w 肺癌/nhd 以及/cc 乳腺癌/nhd 的/ude1 诊断/vn 和/cc 治疗/vn (/w 4/m )/w [分子/n 靶向/nz 治疗/vn]/nz 
+[发表/v 论文/n]/nz 与/cc 论著/n ：/w 发表/v [学术/n 论文/n]/nz 40余篇/m ，/w 包括/v ：/w Cancer/x 、/w AnnHematol/x 、/w JClinPharmTher/x 、/w CanJGastroenterol/x 等/udeng 国际/n 著名/a 杂志/n 。/w 参加/v 翻译/vn 魏伟/nr 教授/nnt 著作/gi 《/w [临床/vn 药理学/n]/nz 原理/n 》/w 。/w 
+主要/b 社会/n 兼职/vn ：/w 
+1/m ./w [中华/nz 医学会/nis 肿瘤学/gb 分会/nis]/nt [青年/n 委员会/nis]/nt 委员/nnt 
+2/m ./w [安徽省/ns 肿瘤/n 学会/v]/nt [青年/n 委员会/nis]/nt [副主任/nnt 委员/nnt]/nnt 
+3/m ./w [安徽省/ns 抗癌/vn 协会/nis]/nt 理事/nnt 
+4/m ./w [安徽省/ns 肿瘤/n 治疗/vn 中心/nis]/nt 秘书/nnt 
+5/m ./w [安徽省/ns 心身/n 委员会/nis]/nt 委员/nnt 
+6/m ./w 《/w [安徽/ns 医学/n]/nz 》/w 特邀/vn 审稿/vi 专家/nnt 

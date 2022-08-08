@@ -1,0 +1,9 @@
+ITgirl/x 造型/n 
+BlakeLively/x （/w 布莱克·莱弗利/nrf ）/w 
+单品/nz 搭配/v 推荐/vn 
+Aqua/x 毛衣/n ,/w 售价/n 约/d [530/m 元/q]/mq 
+Forever21/x 千鸟格/nz 牛仔裤/n ,/w 售价/n 约/d [139/m 元/q]/mq 
+Pixiemarket/x 墨镜/n ，/w 售价/n 约/d [90/m 元/q]/mq 
+Claires/x 耳环/n ，/w 售价/n 约/d [51/m 元/q]/mq 
+Shopprimadonna/x 单肩包/nz ，/w 售价/n 约/d [242/m 元/q]/mq 
+Milly/x 平底鞋/n ,/w 售价/n 约/d [120/m 元/q]/mq 

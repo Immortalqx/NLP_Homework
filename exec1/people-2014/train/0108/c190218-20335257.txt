@@ -1,0 +1,10 @@
+资料/n 图/n ：/w 曙光/n 研发/v 现场/s （/w 科学报/n 图片/n ）/w 
+中国/ns 高性能计算机/gi 告别/vi “/w 科研/n 盆景/n ”/w 
+—/w —/w “/w [曙光/n 一号/mq]/nz ”/w 20年/t 回眸/vi 
+当/p 你/rr 吃/v 一碗/mq 热腾腾/z 的/ude1 米饭/nf 时/ng ，/w 你/rr 或许/d 能/v 联想/vn 到/v 是/vshi [杂交/vn 水稻/n]/nz 解决/v 了/ule 温饱/n ，/w 但/c 高性能计算机/gi 为/p 现代/ntc 育种/vn 进行/vn [几千/m 万/d 次/qv]/mq 的/ude1 [基因/n 配对/vi]/nz ，/w 你/rr 知道/v 吗/y ？/w 
+当/p 你/rr 开车/vi 出行/vi ，/w 或许/d 想到/v 是/vshi 油田/nis 工人/nnt 的/ude1 辛苦/a 劳作/vi ，/w 保证/v 了/ule 你/rr 的/ude1 便利/an 出行/vi ，/w 但/c 高性能计算机/gi 协助/v [南海/ns 油田/nis]/nt 开采/vn 进行/vn 的/ude1 [几千/m 万/d 次/qv]/mq 计算/v ，/w 鲜/a 有人/r 知/v 。/w 
+甚至/d 去/vf 看/v 贺岁片/n ，/w 你/rr 会/v 惊叹/vn 于/p 逼真/a 的/ude1 特效/b 。/w 但/c 殊不知/v ，/w 高性能计算机/gi 为/p 渲染/v 特效/b ，/w 要/v 进行/vn [几千/m 万/d 次/qv]/mq 的/ude1 计算/vn 。/w 
+在/p 这个/rz 越发/d 便捷/a 的/ude1 时代/n 里/f ，/w 高性能计算机/gi 像/v 是/vshi 个/q 沉默/a 的/ude1 幕后/s 推手/n —/w —/w 计算/v 改变/vn 生活/vn ，/w 这/rzv 恰/d 是/vshi [高性能/n 计算/v]/nz 的/ude1 意义/n 之/uzhi 所在/n 。/w 
+[岁末/t 年初/t]/nz ，/w “/w [曙光/n 一号/mq]/nz ”/w 高性能计算机/gi 诞生/vi 20/m [周年/q 纪念/v]/nz 活动/vn 在/p 京/b 举行/v 。/w 这/rzv 20年/t ，/w 正是/v 中国/ns 高性能计算机/gi 的/ude1 飞速/d 发展/vn 期/qv 。/w 
+身为/v 国内/s 最大/gm 的/ude1 高性能计算机/gi 研发/v 与/cc 生产/v 企业/n ，/w 曙光/n 高性能计算机/gi 的/ude1 [市场/n 份额/n]/nz 和/cc 运算/vn 量级/n 都/d 发生/v 了/ule 天翻地覆/al 的/ude1 变化/vn 。/w 从/p 最初/d 只/d 卖出/v [3/m 台/q]/mq 机器/n ，/w 到/v 如今/t 连续/a 5年/t 占据/v 国内/s 第一/m 的/ude1 [市场/n 份额/n]/nz ；/w 从/p [亿/m 次/qv]/mq 计算/v 到/v [千万/m 亿/m 次/qv]/mq ，/w 计算/v 的/ude1 速度/n 增长/v 了/ule [400/m 多/a]/mq 万倍/nz …/w …/w 更/d 难得/a 的/ude1 是/vshi ，/w 中国/ns 的/ude1 [高性能/n 计算/v]/nz 产业/n 告别/vi 了/ule “/w 科研/n 盆景/n ”/w ，/w 正/d 渗入/v 人们/n 的/ude1 生活/vn 。/w 
+代表/nnt 着/uzhe “/w 中国/ns 速度/n ”/w 的/ude1 [高性能/n 计算/v]/nz ，/w 印证/v 了/ule 科技/n 对/p [经济/n 增长/v]/nz 的/ude1 推动/vn 。/w 曙光/n 的/ude1 发展/vn ，/w 亦/d 是/vshi 中国/ns 科技型/b 创新/vi 企业/n 发展/vn 的/ude1 缩影/n 。/w 

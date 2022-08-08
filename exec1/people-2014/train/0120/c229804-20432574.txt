@@ -1,0 +1,6 @@
+2013年/t 春季/t 黑客/n 将/d 自己/rr 的/ude1 病毒/n 作品/n 出售/v ，/w 标价/n 为/p [2000/m 美元/q]/mq 。/w 
+据/p 俄罗斯/nsf 《/w [共青团/nis 真理报/nz]/nz 》/w 1月19日/t 报道/v ，/w 圣彼得堡/nsf 少年/n 编写/v [电脑/n 病毒/n]/nz “/w Ка/x pt/x оха/x ”/w 窃取/v 数百万/m 美国人/nz 的/ude1 银行卡/nz 信息/n 。/w 
+由/p 圣彼得堡/nsf 黑客/n 少年/n 编写/v 的/ude1 [电脑/n 病毒/n]/nz 在/p 美国/nsf 热门/a 交易网/nz 《/w 目标/n 》/w 上/f 窃取/v 了/ule 近/a [1/m 亿/m 1/m 千万/m 名/q]/mq 客户/n 的/ude1 银行卡/nz 信息/n 。/w 
+据/p 《/w IntelCrawler/x 》/w 网/n 专家/nnt 称/v ，/w 这种/r 病毒/n 程序/n 名为/v “/w картоха/x ”/w ，/w 最早/d 于/p 去年/t 春季/t 在/p 互联网/n 黑市/n 上/f 出现/v ，/w 售价/n [2000/m 美元/q]/mq 。/w 通过/p 付费/v 可以/v 下载/v 该/rz 病毒/n ，/w 并/cc 安装/v 在/p 任何/rz 方便/a 使用/v 的/ude1 地方/n 。/w 同时/c 如果/c 凶犯/n 允诺/v 分赃/v 由/p 病毒/n 窃取/v 而/cc 来/vf 的/ude1 利益/n ，/w 那么/c 相应/vi 地/ude2 在/p 购买/v 此/rzs 病毒/n 时/ng 他/rr 可以/v 获得/v 一定/b 的/ude1 优惠/vn 。/w 
+[纽约/nsf 时报/n]/nz 周六/t 报道/v 称/vn ，/w 这种/r 危害性/n 极大/a 的/ude1 病毒/n 一共/d 被/pbei 下载/v 了/ule [60/m 多次/mq]/mq 。/w 《/w IntelCrawler/x 》/w 公司/nis 怀疑/v ，/w 这/rzv 一/m 罪行/n 带有/v “/w 俄罗斯/nsf 痕迹/n ”/w ，/w 正如/v 事实/n 所示/nz ，/w 部分/n [恶意/n 代码/n]/nz 是/vshi 拿/v 俄语/n 写/v 的/ude1 。/w 
+回顾/v 之前/f ，/w 1月12日/t 美国/nsf 交易/v 网站/n 《/w 目标/n 》/w 的/ude1 代表/nnt 人/n 曾/d 表示/v ，/w 黑客/n 成功/a 地/ude2 盗取/v 了/ule 数百万/m 客户/n 的/ude1 [私人/n 信息/n]/nz ，/w 其中/rz 包括/v [电话/n 号码/n]/nz ，/w [电子/n 邮箱/n]/nz 地址/n 及/cc [通讯/n 地址/n]/nz 。/w 

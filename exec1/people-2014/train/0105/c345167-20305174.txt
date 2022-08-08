@@ -1,0 +1,5 @@
+救援/vn 现场/s 
+4日/t 凌晨/t 2点58分/t 左右/f ，/w 成都/ns 郫县/ns 红光镇/ns 西北/ns 公寓/n 一/m 变电站/nis 发现/v 一名/mq 男子/n 挂/v 在/p 电压/n 器/ng 上/f ，/w 情况/n 危机/n 。/w [成都市/ns 消防/b 支队/nis]/nt [二/m 十六/m 中队/nis]/mq 接警/v 后/f 立即/d 赶赴/v 现场/s 展开/v 救援/vn ，/w 但/c 该/rz 男子/n 不幸/a 已/d 触电/vi 身亡/vi 。/w 
+据/p 当地/s 派出所/nis 民警/nnt 介绍/v ，/w 该/rz [输电/vn 线路/n]/nz 为/p [10/m 千伏/q]/mq 的/ude1 高压线/n ，/w 该/rz 男子/n 患有/v 精神病/nhd ，/w 夜晚/n 翻墙/nz 闯入/v 该/rz 变电站/nis ，/w 导致/v 触电/vn 身亡/vi 。/w 
+指挥员/nnt 立即/d 指挥/v 救援/vn 队员/nnt 勘察/vn 现场/s 环境/n 情况/n ，/w 同时/c 通知/n 供电局/nis 立即/d 断电/vi 。/w 救援/v 人员/n 将/d 救援/vn 的/ude1 防护/vn 装备/n 穿戴/v 好/a ，/w 爬上/vf 电线杆/n 顶部/f ，/w 将/d 安全/an 卡口/v 扣/v 在/p 绳子/n 上/f ，/w 来到/v 遇难者/n 遗体/n 处/n ，/w 将/d 救援/v 绳/ng 的/ude1 一头/d 用/p 救生/vn 结绳/nz 法/n 系/v 到/v 遇难者/n 的/ude1 腰部/n 捆绑/v 固定/a ，/w 下面/f 的/ude1 救援/vn 队员/nnt 将/d 救援/v 绳/ng 的/ude1 一端/n 紧紧/d 拉住/v ，/w 慢慢/d 放下/v 绳子/n ，/w 将/d 男子/n 的/ude1 遗体/n 缓缓/d 地/ude2 放到/v 地上/s 。/w 
+随后/d ，/w 经/p 当地/s 供电局/nis [工作/vn 人员/n]/nnt 紧急/a 修复/v ，/w 该/rz 路段/n 开始/v 恢复/vn 供电/vn 。/w (/w 汪洋/n 记者/nnt 杜成/nr )/w 

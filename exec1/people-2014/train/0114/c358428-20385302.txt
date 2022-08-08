@@ -1,0 +1,2 @@
+据/p [中央/n 电视台/nis 新闻/n 中心/nis]/nt 官方/n 微博/n “/w 央视/j 新闻/n ”/w 消息/n ，/w 今天/t [10/m 点/qt]/mq 多/a ，/w [安徽/ns 淮南/ns 矿业/nis 集团/nis]/nt 朱/ag 集/q 煤矿/nis 发生/v 巷道/n 垮/vi 落/v 事故/n ，/w 目前/t 井/n 下/f 通风/vi 情况/n 良好/a ，/w 已有/v 一名/mq 伤员/n 被/pbei 救出/vf ，/w 仍/d 有/vyou [20/m 人/n]/mq 被/pbei 堵/v 井/n 下/f 。/w 
+安徽省/ns 副省长/nnt 杨振超/nr 已/d 赶赴/v 现场/s 指挥/v 救援/vn 。/w 

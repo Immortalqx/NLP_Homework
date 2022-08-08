@@ -1,0 +1,11 @@
+[美国/nsf 涉外/vn 情报/n 调查/vn 法院/nis]/nt 3日/t 再次/d 裁定/vn ，/w [美国/nsf 国家/n 安全局/nis]/nto 可以/v 继续/v 从/p 手机/n 制造商/nnd 处/n 收集/v 美国/nsf 民众/n 手机/n 数据/n 。/w 
+可追踪/nz [通话/vi 记录/v]/nz 
+[美国/nsf 国家/n 情报/n 总监/nnt]/nz 办公室/nis 发言人/nnt 特纳/nrf 3日/t 说/v ，/w 涉外/vn 情报/n 调查/v 法院/nis 延长/v 了/ule [国家/n 安全局/nis]/nt 手机/n [数据/n 收集/v]/nz 项目/n 的/ude1 期限/n 。/w 特纳/nrf 没有/v 提及/v 法院/nis 授权/v 更多/ad 细节/n 。/w 按惯例/nz ，/w 授权/v 期限/n 一般/ad 为/p [90/m 天/qt]/mq ，/w 即/v 3个月/t 。/w 
+这/rzv 一/m 项目/n 自/p 2006年/t 启动/v ，/w [情报/n 机构/n]/nz 定期/d 向/p 涉外/vn 情报/n 调查/v 法院/nis 申请/v 授权/vn 延期/vi 。/w 一名/mq 美国/nsf 官员称/nz ，/w 最近/t 的/ude1 授权/vn 令/v 涵盖/v 所有/b 手机/n 制造商/nnd 。/w 
+特纳/nrf 在/p 声明/n 中/f 说/v ，/w 过去/vf 7/m 年间/n ，/w 涉外/vn 情报/n 调查/v 法院/nis [15/m 名/q]/mq 法官/nnt [36/m 次/qv]/mq 裁定/vn ，/w [国家/n 安全局/nis]/nt 收集/v 美国/nsf 国内/s 手机/n 数据/n 合法/a 。/w 
+[国家/n 安全局/nis]/nt 的/ude1 项目/n 主要/b 是/vshi 收集/v 手机/n “/w 元数据/gi ”/w ，/w 通过/p 这种/r 数据/n ，/w [情报/n 机构/n]/nz 可以/v 追踪/vn 用户/n 何时/ryt 给/p 何人/ry 打电话/vi 。/w 这/rzv 是/vshi [国家/n 安全局/nis]/nt 承包商/nnt 前/f 雇员/nnt 斯诺登/nrf 去年/t 揭露/v 并/cc 引发/v 公众/n 愤怒/a 的/ude1 政府/nis 监视/v 项目/n 之一/rz 。/w 
+美/b 政府/nis 多次/mq 吃官司/vi 
+斯诺登/nrf 去年/t 曝光/vi [美国/nsf 情报/n 机构/n]/nz 监视/v 项目/n 后/f ，/w 一些/mq 美国/nsf 团体/n 分别/d 在/p [联邦/n 法院/nis]/nt 起诉/v ，/w 指控/v [美国/nsf 政府/nis]/nt 监视/v 民众/n 手机/n 数据/n 违法/vn ，/w 要求/n 法院/nis 禁止/v 这种/r 监视/v 项目/n 。/w 
+而/cc 美国/nsf 两家/mq 法庭/nis 最近/t 就/d 收集/v 手机/n 记录/v 是否/v 合法/a 给/p 出/vf [截然/d 相反/vi]/nz 的/ude1 裁决/vn 结果/n 。/w 
+去年/t 12月16日/t ，/w 设在/v 华盛顿/nsf 的/ude1 [联邦/n 法院/nis]/nt 法官/nnt 利昂/nrf 裁定/vn ，/w 国安局/nz 大规模/b 收集/v 国内/s 手机/n 信息/n 项目/n 可能/v 违宪/vn ，/w 下令/v 政府/nis 停止/v 这/rzv 一/m 监听/vn 项目/n 并/cc 销毁/v 现存/vn 记录/v 。/w 而/cc 设在/v 纽约/nsf 的/ude1 [南区/ns 联邦/n 法院/nis]/nt 法官/nnt 波利/nrf 12月27日/t 裁决/vn ，/w [国家/n 安全局/nis]/nt 收集/v [手机/n 用户/n]/nz 数据/n 符合/v 宪法/n ，/w 同意/v 政府/nis 的/ude1 撤案/nz 申请/v 。/w 
+就/d 去年/t 12月16日/t 的/ude1 裁决/vn ，/w [美国/nsf 司法部/nto]/nt 律师/nnt 本月/r 3日/t 来到/v [美国/nsf 联邦/n]/nz 上诉/v [巡回/vn 法庭/nis]/nz ，/w 申请/v 推翻/vn 法官/nnt 利昂/nrf 的/ude1 裁决/vn 。/w （/w 新华社/nt 专稿/n ）/w 

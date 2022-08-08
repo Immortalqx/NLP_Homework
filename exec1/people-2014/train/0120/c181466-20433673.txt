@@ -1,0 +1,6 @@
+据/p 国外/s 媒体/n 1月20日/t 报道/v ，/w 华为/ns 近日/t 发布/v 了/ule AscendP6/x 的/ude1 升级版/nz AscendP6S/x ,/w 机身/n 加厚/v ，/w 处理器/n 升级/vi 。/w 
+
+资料/n 图/n 
+AscendP6S/x 的/ude1 厚度/n 为/p [6/m ./w 5/m 毫米/q]/mq ，/w 比/p AscendP6/x 厚/a [0/m ./w 3/m 毫米/q]/mq ，/w 搭载/v [2000/m 毫安时/nz]/mq 电池/n 。/w 处理器/n 方面/n ，/w 由/p 原来/d 主频/n [1/m ./w 5/m GHz/x]/mq 的/ude1 芯片组/nz 升级/vi 到/v 现在/t [1/m ./w 6/m GHz/x]/mq 的/ude1 [四核/nz 处理器/n]/nz 。/w [双/q 卡/n 双/q 待/vi]/nz ，/w 但/c 不/d 支持/v [4/m G/x]/mq 网络/n 。/w 
+AscendP6S/x 其他/rzv 规格/n 则/d 没有/v 太大/d 变化/vn ，/w 仍/d 采用/v [4/m ./w 7/m 英寸/q]/mq 、/w 分辨率/n 为/p [720/m p/x]/mq 屏幕/n ，/w [2/m GM/x]/mq [运行/vn 内存/n]/nz ，/w [16/m GM/x]/mq 储存/v 容量/n ，/w 配备/v [800/m 万/d 像素/gi]/mq 后/f 置/v 摄像头/n 和/cc [500/m 像素/gi]/mq 前/f 置/v 摄像头/n ，/w 运行/vn 基于/p Android4/x ./w 2/m 定制/n 的/ude1 EmotionUI2/x ./w 0/m 操作系统/n 。/w 我们/rr 预计/v 华为/ns 以后/f 会/v 将/d 系统/n 升级/vi 为/p KitKat/x 。/w 
+华为/ns AscendP6S/x 将/d 率先/d 在/p [中国/ns 市场/n]/nz 发售/v 。/w (/w 实习/vn 编译/v ：/w 山玉梅/nr 审稿/vi ：/w 陈薇/nr )/w 

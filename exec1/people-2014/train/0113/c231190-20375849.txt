@@ -1,0 +1,33 @@
+[中/f 金/b 招标/vn 有限/a 责任/n 公司/nis]/nt 受/v [海口市/ns 公安局/nis]/nto 委托/vn ，/w 对/p [海口市/ns 公安局/nis]/nto 系统工程/n —/w 视频/n [警务/n 督察/vn]/nz 系统/n 项目/n 进行/vn 公开招标/v ，/w 现/tg 邀请/v 国内/s 合格/vi 的/ude1 供应/vn 或/c 制造商/nnd 来/vf 参加/v [密封/vn 投标/vn]/nz 。/w 
+1/m ./w 招标/vn 编号/n ：/w //w 
+2/m ./w [招标/vn 项目/n]/nz 及/cc 范围/n ：/w [海口市/ns 公安局/nis]/nto 系统工程/n —/w 视频/n [警务/n 督察/vn]/nz 系统/n 项目/n （/w [1/m 个/q]/mq 包/v ）/w 。/w 
+包/v 号/q ：/w 项目/n 本身/rz 采购/v 数量/n 一批/mq ，/w 详细/a 清单/n 及/cc 详细/a 技术/n 要求/n 或/c [招标/vn 项目/n]/nz 的/ude1 性质/n 详见/nz [招标/vn 文件/n]/nz 《/w [技术/n 规格/n]/nz 及/cc 要求/n 》/w 部分/n 。/w 
+3/m ./w 供应商/nnt 资格/n 要求/n 
+3.1/m 、/w 3.1/m 、/w 符合/v [政府/nis 采购/vn 法/n]/nz [第二/m 十二/m 条/q]/mq 之/uzhi 规定/n ；/w 
+3.2/m 、/w 投标人/n 必须/d 具有/v [计算机/n 系统/n 集成/vn]/nz 省级/b 同等/b 或/c 以上/f 资质/n 和/cc [安防/nz 工程/n]/nz 企业/n 二级/b 以上/f （/w 含/v 二级/b ）/w 资质/n ；/w 
+3.3/m 、/w 管理/v [监控/vn 平台/n]/nz 、/w 视频/n 编码器/n 和/cc [网络/n 存储/vn]/nz 软硬件/n 必须/d 为/p 同一/b 品牌/n ；/w 
+3.4/m 、/w 具有/v 管理/vn [监控/vn 平台/n]/nz 、/w 视频/n 编码器/n 和/cc [网络/n 存储/vn]/nz 的/ude1 生产/vn 厂家/n 针对/p 本/rz 项目/n 的/ude1 授权/vn （/w 非/b 生产/v 厂商/nnd 投标/vn 适用/vi ）/w ；/w 
+3.5/m 、/w 管理/v [监控/vn 平台/n]/nz 、/w 视频/n 编码器/n 和/cc [网络/n 存储/vn]/nz 生产/v 厂家/n 出具/v 的/ude1 加盖/nrf 公章/n 的/ude1 [技术/n 参数/n]/nz 确认函/nz ；/w 
+3.6/m 、/w 管理/v [监控/vn 平台/n]/nz 的/ude1 生产/vn 厂家/n 须/d 提供/v 公安部/nto [检测/vn 报告/n]/nz ；/w 
+3.7/m 、/w 管理/v [监控/vn 平台/n]/nz 系统软件/gi 取得/v [计算机/n 软件/n 著作权/nz 登记/vn]/nz 证书/n （/w 需/v 提供/v 证书/n 复印件/n ，/w 加盖/nrf 厂家/n 公章/n ）/w ；/w 
+3.8/m 、/w 投标人/n 必须/d 具有/v 较强/d 的/ude1 本地/rzs 服务/v 能力/n ，/w 外地/s 企业/n 须/d 在/p 海南省/ns 内有/nz 常设/b 售后服务/n 机构/n ；/w 
+3.9/m 、/w 必须/d 提供/v 参加/v [政府/nis 采购/vn]/nz 活动/vn 近/a 三年/t 内/f ，/w 在/p [经营/vn 活动/vn]/nz 中/f 没有/v 重大/a 违法/vn 记录/v 的/ude1 声明/n ；/w 
+3.10/m 、/w 本/rz 项目/n 不/d 接受/v [联合体/n 投标/vn]/nz 。/w 
+3.2/m 、/w 投标/vn 时/ng 必须/d 提交/v 以上/f 相关/vn 证明/v 资料/n 。/w 
+4/m ./w [招标/vn 文件/n]/nz 的/ude1 获取/vn 
+4.1/m 、/w 发售/v 标书/nz 时间/n ：/w 2014-01/m -/w 1408:00/m :/w 00/m —/w —/w 2014-01/m -/w 2017:30/m :/w 00/m 。/w 4.3/m 、/w 标书/nz 售价/n  项目/n 本身/rz ：/w [招标/vn 文件/n]/nz 每套/r 售价/n [100/m ./w 0/m 元/q]/mq ；/w [投标/vn 保证金/n]/nz 的/ude1 金额/n ：/w [18000/m 元/q]/mq 。/w 4.4/m 、/w 投标人/n 提问/v [截止/vi 时间/n]/nz ：/w 2014-01/m -/w 2217:30/m :/w 00/m （/w [北京/ns 时间/n]/nz ）/w 。/w 
+5/m ./w [投标/vn 文件/n]/nz 和/cc 保证金/n 的/ude1 递交/v 
+5.1/m 、/w [投标/vn 文件/n]/nz 递交/v [截止/vi 时间/n]/nz ：/w 2014-02/m -/w 1008:30/m :/w 00/m （/w [北京/ns 时间/n]/nz ）/w 。/w 5.3/m 、/w 开标/vi 时间/n ：/w 报名/vi 成功/a 后/f 于/p 系统/n 的/ude1 项目/n 信息/n 中/f 查看/v 。/w 5.4/m 、/w 开标/vi 地点/n ：/w 报名/vi 成功/a 后/f 于/p 系统/n 的/ude1 项目/n 信息/n 中/f 查看/v 。/w 5.5/m 、/w 保证金/n 到/v 账/n 截止/vi 日期/n ：/w 2014-02/m -/w 1008:30/m :/w 00/m （/w [北京/ns 时间/n]/nz ）/w ，/w [投标/vn 保证金/n]/nz 的/ude1 形式/n ：/w [网上/s 支付/v]/nz ，/w 支付/v 地址/n 为/p ：/w http/x :/w //w //w 218.77.183.48/m //w htms/x 。/w 5.6/m 、/w 公告/n 发布/v 媒介/n ：/w [海南省/ns 人民政府/nis 政务/n 服务/vn 中心/nis]/nt 网/n 、/w [海南省/ns 财政厅/nis]/nto 网/n 、/w 中国/ns 采购/vn 与/cc 招标网/nz 。/w 。/w 
+6/m ./w 其他/rzv 
+1/m 、/w 必须/d 在/p [海南省/ns 人民政府/nis 政务/n 服务/vn 中心/nis]/nt [企业/n 信息/n 管理/vn 系统/n]/nz （/w http/x :/w //w //w 218.77.183.48/m ）/w 中/f 注册/vn 并/cc 备案/vi 通过/p ，/w 然后/c 登陆/vi [电子/n 招投标/n 系统/n]/nz （/w http/x :/w //w //w 218.77.183.48/m //w htms/x ）/w 下载/v 、/w 购买/v 电子版/n 的/ude1 [招标/vn 文件/n]/nz ；/w 
+2/m 、/w 投标/vn 截止/vi 日期/n 前/f ，/w 必须/d 在/p 网上/s 上/f 传/v 电子/n [投标/vn 文件/n]/nz —/w —/w PDF/x 格式/n (/w 使用/v WinRAR/x 加密/vn 压缩/v )/w ；/w 
+7/m ./w [联系/v 方式/n]/nz 
+代理/v 机构/n :/w 
+[中/f 金/b 招标/vn 有限/a 责任/n 公司/nis]/nt 
+地址/n :/w 
+[海南省/ns 海口市/ns]/nz 国贸/nz 北路/n [26/m 号/q]/mq [金茂/nr 大厦/n]/nz [14/m 楼/n]/mq E2/x 室/n 
+邮政编码/n :/w 
+项目/n 联系人/n :/w 
+赵曼/nr 
+[联系/v 电话/n]/nz :/w 
+68556335/m 

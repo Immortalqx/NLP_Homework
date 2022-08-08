@@ -1,0 +1,12 @@
+[蓝色/n 预警/vn]/nz 
+启动/v 的/ude1 条件/n 是/vshi ，/w 经/p 监测/vn 预测/vn ，/w 未来/t 一天/mq AQI/x 在/p 201—300/m 之间/f ，/w 启动/v [蓝色/n 预警/vn]/nz 。/w 响应/v 措施/n 以/p 劝导/v 建议/n 和/cc [加强/v 管理/vn]/nz 为主/vi 
+[橙色/n 预警/vn]/nz 
+未来/t 一天/mq AQI/x 在/p 301—450/m 之间/f ，/w 启动/v [橙色/n 预警/vn]/nz 。/w 响应/v 措施/n 还包括/nz ，/w 燃煤/v 机组/n 限/v 用/p 优质/b 煤/n 发电/vn ；/w 禁止/v 秸秆/n 露天/n 焚烧/v ；/w 停止/v 重大/a 群众性/n 户外/s [体育/n 赛事/n]/nz ；/w 中小学/n 和/cc 幼托/nz 机构/n 停止/v 室外/s 体育课/n 及/cc [户外/s 活动/vn]/nz 等/udeng 
+[黄色/n 预警/vn]/nz 
+未来/t 两天/mq AQI/x 在/p 201—300/m 之间/f ，/w 启动/v [黄色/n 预警/vn]/nz 。/w 响应/v 措施/n 增加/v 了/ule 对/p 部分/n 工业/n 行业/n 的/ude1 限制性/n 措施/n 和/cc 易/ad 产生/v 扬尘/n 作业/vn 的/ude1 禁止性/nz 措施/n 
+[红色/n 预警/vn]/nz 
+未来/t 一天/mq AQI/x 大于/v 450/m ，/w 启动/v [红色/n 预警/vn]/nz 。/w 响应/v 措施/n 还包括/nz ，/w 除/p 执法/vn 执勤/vi 车/n 外/f ，/w 一半/m 的/ude1 党政机关/n 和/cc 事业单位/nz [公务/n 用车/n]/nz 要/v 停驶/nz ；/w 露天/n 大规模/b 群众/n 活动/vn 被/pbei 叫停/nz ；/w 中小学/n 和/cc 幼托/nz 机构/n 也/d 将/d 采取/v 停课/vi 措施/n 等/udeng 
+中小学/n 幼托/nz 机构/n 停课/vi 具体/a 分/qt [三/m 种/q]/mq 情况/n 施行/v 
+■/w 当天/t 22时/t 前/f 发布/v [红色/n 预警/vn]/nz 的/ude1 ，/w 次日/t 不论/c AQI/x 实测/v 值/n 怎么/ryv 变化/vn ，/w 中小学/n 和/cc 幼托/nz 机构/n 都/d 自动/d 停课/vi 
+■/w 当天/t 未/d 发布/v ，/w 到/v 次日/t 6时/t 前/f 发布/v [红色/n 预警/vn]/nz 的/ude1 ，/w 中小学/n 和/cc 幼托/nz 机构/n 也/d 停课/vi 
+■/w 次日/t 6时/t 后/f 至/p 上课/vi 前/f 发布/v [红色/n 预警/vn]/nz 的/ude1 ，/w 中小学/n 和/cc 幼托/nz 机构/n 不/d 停课/vi ，/w 但/c 要/v 停止/v 室外/s 体育课/n 和/cc [户外/s 活动/vn]/nz 。/w 期间/f 迟到/vi 、/w 缺勤/vn 学生/nnt 不/d 做/v 迟到/vn 或/c 旷课/vi 处理/vn 

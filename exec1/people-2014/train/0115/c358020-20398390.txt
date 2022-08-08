@@ -1,0 +1,13 @@
+[麻油/n 拌菠菜/nz]/nz 
+[/w 配料/n ]/w 菠菜/nf [1/m 斤/q]/mq ，/w 食盐/nf 、/w 麻油/n 适量/a 。/w 
+[/w 做法/n ]/w 菠菜/nf 洗净/vi ，/w 开水/n 焯/v 熟/a ，/w 捞出/v 入/v 盘/qv ，/w 加入/v 适量/a 食盐/nf ，/w 淋/v 上/f 麻油/n 即可/v 。/w 
+[/w 功效/n ]/w 通脉/nz 开胸/nz ，/w 下/f 气调/nz 中/f ，/w 止渴/vi 润燥/nz 。/w 
+[羊肉/nf 炖萝卜/nz]/nz 
+[/w 配料/n ]/w 白萝卜/n [500/m 克/q]/mq ，/w 羊肉/nf [250/m 克/q]/mq ，/w 姜/n 、/w 料酒/n 、/w 食盐/nf 适量/a 。/w 
+[/w 做法/n ]/w 白萝卜/n 、/w 羊肉/nf 洗净/vi 切块/v 备用/vn ，/w 锅/n 内/f 放入/v 适量/a 清水/ns 将/d 羊肉/nf 入/v 锅/n ，/w 开锅/vi 后/f 5/m 、/w [6/m 分钟/qt]/mq 捞出/v 羊肉/nf ，/w 水/n 倒掉/v ，/w 重新/d 换/v 水/n 烧开/vi 后/f 放入/v 羊肉/nf 、/w 姜/n 、/w 料酒/n 、/w 盐/n ，/w 炖/v 至/p 六/m 成熟/a ，/w 将/d 白萝卜/n 入/v 锅/n 至熟/nz 。/w 
+[/w 功效/n ]/w 益气/nz 补/v 虚/a ，/w 温/ng 中/f 暖/a 下/f 。/w 对/p 腰膝酸软/nhd ，/w 困倦/an 乏力/a ，/w 肾虚/nhd 阳痿/v ，/w 脾胃虚寒/nhd 者/k 更为/d 适宜/v 。/w 
+炒双菇/nz 
+[/w 配料/n ]/w 水/n 发/v 香菇/nf 、/w 鲜/a 蘑菇/nf 等/udeng 量/n ，/w 植物油/nf 、/w 酱油/nf 、/w 白糖/n 、/w 水淀粉/nf 、/w 味精/nf 、/w 盐/n 、/w 黄酒/nf 、/w 姜末/nz 、/w 鲜汤/n 、/w 麻油/n 适量/a 。/w 
+[/w 做法/n ]/w 香菇/nf 、/w 鲜蘑/n 洗净/vi 切片/vi ，/w 炒锅/n 烧热/vi 入/v 油/n ，/w 下/f 双/q 菇/ng 煸炒/nz 后/f ，/w 放/v 姜/n 、/w 酱油/nf 、/w 糖/n 、/w 黄酒/nf 继续/v 煸炒/nz ，/w 使/v 之/uzhi 入味/v ，/w 加入/v 鲜汤/n 烧/vi 滚/vi 后/f ，/w 放/v 味精/nf 、/w 盐/n ，/w 用水/n 淀粉/nf 勾芡/vi ，/w 淋/v 上/f 麻油/n ，/w 装盘/vi 即可/v 。/w 
+[/w 功效/n ]/w 补益/vn 肠胃/n ，/w 化痰/vi 散寒/nz 。/w 
+这/rzv 道/qv 菜/n 可/v 增强/vn 机体/n [免疫/vn 功能/n]/nz ，/w 对/p 高血脂/nhd 患者/n 更为/d 适宜/v 。/w 

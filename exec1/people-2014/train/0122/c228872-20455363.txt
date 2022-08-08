@@ -1,0 +1,4 @@
+[上海/ns 证券/nis 交易所/nis]/nt 、/w [深圳/ns 证券/nis 交易所/nis]/nt ２２日/t 公布/v ２０１４年/t 春节/t 休市/nz 安排/v 。/w 
+根据/p 相关/vn 通知/n ，/w 休市/nz 安排/v 如下/vn ：/w １月３１日/t （/w 星期五/t ）/w 至/p ２月６日/t （/w 星期四/t ）/w 休市/nz ，/w ２月７日/t （/w 星期五/t ）/w 起/vf 照常/vd 开市/vi 。/w 另外/c ，/w １月２６日/t （/w 星期日/t ）/w 、/w ２月８日/t （/w 星期六/t ）/w 为/p 周末/t 休市/nz 。/w 
+有关/vn 清算/v 事宜/n ，/w 根据/p [中国/ns 证券/nis 登记/vn 结算/vn 有限/a 责任/n 公司/nis]/ntc 的/ude1 安排/vn 进行/vn 。/w 
+为/p 保证/v 节/q 后/f 交易/vn 的/ude1 正常/a 进行/vn ，/w 上交所/n 定于/v ２０１４年２月６日/t （/w 星期四/t ）/w ９时１５分/t 至/p １２时/t 进行/vn [交易/vn 系统/n]/nz （/w 含/v 竞价/vn 撮合/v 平台/n 、/w 综合/v 业务/n 平台/n 和/cc [固定/a 收益/n 证券/nis 综合/vn 电子/n 平台/n]/nz ）/w 全/a 市场/n 连通性/gm 测试/vn 。/w 

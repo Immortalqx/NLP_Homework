@@ -1,0 +1,10 @@
+科室/n ：/w [安徽/ns 省立/b 医院/nis 妇产科/nit]/nt 
+职务/n ：/w [安徽省/ns 肿瘤/n 医院/nis 妇瘤科/nit]/nt 副主任/nnt 
+职称/n ：/w [副/b 主任医师/nnt]/nnt 副教授/nnt 
+擅长/v ：/w 各种/rz [妇科/nit 肿瘤/n]/nz （/w [宫颈/n 肿瘤/n]/nz 、/w [子宫/n 内膜癌/nz]/nhd 、/w [卵巢/n 恶性肿瘤/n]/nhd 等/udeng [妇科/nit 恶性肿瘤/n]/nz ）/w 的/ude1 诊治/vn 和/cc [外科/nit 手术/n]/nz ，/w 长期/d 致力于/v 妇科/nit [内分泌/n 疾病/n]/nz 如/v [月经/n 失调/vi]/nz ，/w 闭经/v ，/w [高/a 泌乳素/nz 血症/nhd]/nhd ，/w [多囊/nz 卵巢/n 综合症/n]/nz 的/ude1 诊治/vn 。/w 
+医生/nnt 简介/n ：/w 汪菁/nr ，/w 女/b ，/w 1968年1月/t 出生/vi ，/w 1991年/t 毕业/v 于/p [安徽/ns 医科/n 大学/nis 临床/vn 医学系/nit]/nt 至/p [安徽/ns 省立/b 医院/nis]/nth 工作/vn 至今/d ，/w [2000/m -/w 2003/m 年/qt]/mq 就读/vi [蚌埠/ns 医学院/nis]/ntu ，/w 获/v [妇科/nit 肿瘤/n]/nz [专业/n 硕士/nnt 学位/n]/nz ，/w 于/p 2004年/t 聘为/v [安徽/ns 省立/b 医院/nis 妇产科/nit]/nt [副/b 主任医师/nnt]/nnt 。/w 
+论文/n 、/w 著作/gi 、/w 专利/n 情况/n ：/w 1/m 、/w 发表/v 专业/n 论文/n 10余篇/m 。/w 
+承担/v 课题/n ：/w 
+2004年/t 课题/n 《/w 宫颈癌/nhd 组织/n 中/f Survivin/x 基因表达/gb 与/cc [血管/n 生成/v]/nz 的/ude1 关系/n 研究/vn 》/w 
+2008年8月/t 卫生厅/nis 课题/n 《/w 保留/v [神经/n 功能/n]/nz 的/ude1 宫颈癌/nhd 根治/v 术/ng 的/ude1 临床研究/v 》/w 
+门诊/nis 时间/n ：/w 星期一/t 下午/t [专家/nnt 门诊/nis]/nz ，/w 星期/n 三/m 上午/t [专家/nnt 门诊/nis]/nz ，/w [星期/n 三/m 下午/t]/nz [妇科/nit 肿瘤/n]/nz 专/a 病/n 门诊/nis 。/w 

@@ -1,0 +1,70 @@
+[成都/ns 平原/n 城市群/n]/nz 
+(/w 2012年/t )/w 
+[地区/n 生产总值/n]/nz 
+GDP/x 总量/n [13457/m 亿元/q]/mq 
+GDP/x 增速/n 
+13.3%/m 
+人均/a GDP/x 
+依照/p 2010年/t 世界银行/ntcb 对/p 不同/a 国家/n 和/cc 地区/n 贫富/n 程度/n 划分/v 标准/n ，/w 按/p 人民币/n 兑/v [美元/q 汇率/n]/nz 折算/vi ，/w 人均/a GDP6962/x ./w [9/m 美元/q]/mq 
+地方/n 公共/b [财政/n 收入/n]/nz 占/v GDP/x 比重/n 
+7.9%/m 
+[川东北/nz 城市群/n]/nz 
+(/w 2012年/t )/w 
+[地区/n 生产总值/n]/nz 
+GDP/x 总量/n [4609/m ./w 5/m 亿元/q]/mq 
+GDP/x 增速/n 
+13.9%/m 
+人均/a GDP/x 
+依照/p 2010年/t 世界银行/ntcb 对/p 不同/a 国家/n 和/cc 地区/n 贫富/n 程度/n 划分/v 标准/n ，/w 按/p 人民币/n 兑/v [美元/q 汇率/n]/nz 折算/vi ，/w 人均/a GDP3117/x ./w [7/m 美元/q]/mq 
+地方/n 公共/b [财政/n 收入/n]/nz 占/v GDP/x 比重/n 
+4.6%/m 
+[川南/nrf 城市群/n]/nz 
+(/w 2012年/t )/w 
+[地区/n 生产总值/n]/nz 
+GDP/x 实现/v [4404/m ./w 1/m 亿元/q]/mq 
+GDP/x 增速/n 
+14.1%/m 
+人均/a GDP/x 
+依照/p 2010年/t 世界银行/ntcb 对/p 不同/a 国家/n 和/cc 地区/n 贫富/n 程度/n 划分/v 标准/n ，/w 按/p 人民币/n 兑/v [美元/q 汇率/n]/nz 折算/vi ，/w 人均/a GDP4381/x 美元/q 
+地方/n 公共/b [财政/n 收入/n]/nz 占/v GDP/x 比重/n 
+5.5%/m 
+[攀西/ns 城市群/n]/nz 
+(/w 2012年/t )/w 
+[地区/n 生产总值/n]/nz 
+GDP/x 实现/v [2098/m ./w 7/m 亿元/q]/mq 
+GDP/x 增速/n 
+13.9%/m 
+人均/a GDP/x 
+依照/p 2010年/t 世界银行/ntcb 对/p 不同/a 国家/n 和/cc 地区/n 贫富/n 程度/n 划分/v 标准/n ，/w 按/p 人民币/n 兑/v [美元/q 汇率/n]/nz 折算/vi ，/w 人均/a GDP5108/x ./w [9/m 美元/q]/mq 
+地方/n 公共/b [财政/n 收入/n]/nz 占/v GDP/x 比重/n 
+8.2%/m 
+全社会/nz [固定/a 投资额/n]/nz 
+(/w 2012年/t )/w 
+[成都/ns 平原/n 城市群/n]/nz [9377/m ./w 2/m 亿元/q]/mq 
+[川东北/nz 城市群/n]/nz [3883/m 亿元/q]/mq 
+[川南/nrf 城市群/n]/nz [2451/m ./w 4/m 亿元/q]/mq 
+[攀西/ns 城市群/n]/nz [1575/m ./w 3/m 亿元/q]/mq 
+[社会/n 消费品/n 零售/vn 总额/n]/nz 
+(/w 2012年/t )/w 
+[成都/ns 平原/n 城市群/n]/nz [5156/m ./w 4/m 亿元/q]/mq 
+[川东北/nz 城市群/n]/nz [1758/m ./w 2/m 亿元/q]/mq 
+[川南/nrf 城市群/n]/nz [1488/m ./w 2/m 亿元/q]/mq 
+[攀西/ns 城市群/n]/nz [595/m ./w 3/m 亿元/q]/mq 
+外贸/n [进出口/vn 总额/n]/nz 
+(/w 2012年/t )/w 
+[成都/ns 平原/n 城市群/n]/nz [542/m ./w 7/m 亿/m 美元/q]/mq 
+[川东北/nz 城市群/n]/nz [22/m ./w 8/m 亿/m 美元/q]/mq 
+[川南/nrf 城市群/n]/nz [22/m 亿/m 美元/q]/mq 
+[攀西/ns 城市群/n]/nz [3/m ./w 4/m 亿/m 美元/q]/mq 
+[城镇/n 居民/n 人均/a 可支配/nz 收入/n]/nz 
+(/w 2012年/t )/w 
+[成都/ns 平原/n 城市群/n]/nz [24223/m 元/q]/mq 
+[攀西/ns 城市群/n]/nz [20704/m 元/q]/mq 
+[川南/nrf 城市群/n]/nz [19916/m 元/q]/mq 
+[川东北/nz 城市群/n]/nz [17703/m 元/q]/mq 
+[农村/n 居民/n]/nz 人均/a 纯收入/n 
+(/w 2012年/t )/w 
+[成都/ns 平原/n 城市群/n]/nz [9156/m 元/q]/mq 
+[川南/nrf 城市群/n]/nz [7582/m 元/q]/mq 
+[川东北/nz 城市群/n]/nz [6730/m 元/q]/mq 
+[攀西/ns 城市群/n]/nz [6718/m 元/q]/mq 

@@ -1,0 +1,26 @@
+[爱情/n 公寓/n]/nz 4/m 全集/n 电视剧/n [1/m -/w 24/m 集/q]/mq [剧情/n 介绍/v]/nz [爱情/n 公寓/n]/nz 第四季/mq 分/qt 集/q 剧情/n 
+[爱情/n 公寓/n]/nz 第四季/mq 演员表/n 
+角色/n 演员/nnt 备注/n 
+胡一菲/nr —/w —/w 娄艺潇/nr ：/w 双面/b 御姐/nz ,/w 大学/nis 教师/nnt ,/w 女博士/nz ,/w 和/cc 曾小贤/nr 是/vshi “/w [欢喜/v 冤家/n]/nz ”/w 
+曾小贤/nr —/w —/w 陈赫/nr ：/w [新/a 好男人/nz]/nz ,/w 冷门/n 广播/v 节目/n “/w 你/rr 的/ude1 月亮/n 我/rr 的/ude1 心/n ”/w 的/ude1 主持人/nnt ,/w 喜欢/vi 胡一菲/nr 
+吕子乔/nr —/w —/w 孙艺洲/nr ：/w 风流/a 雅痞/nz ,/w 江湖/n 小号/n 吕小布/nr 
+陈美嘉/nr —/w —/w 李金铭/nr ：/w 宠物店/nis 老板/nnt 的/ude1 助理/nnt ,/w 活泼/a 可爱/a 的/ude1 宅女/nz 
+张伟/nr —/w —/w 李佳航/nr ：/w 平民/n 律师/nnt ,/w 在/p 孤儿院/nis 长大/vi ,/w 对/p [海鲜/nf 过敏/vi]/nz ,/w 别名/n 张益达/nr 
+唐悠悠/nr —/w —/w 邓家佳/nr ：/w “/w 九死一生/vl ”/w 的/ude1 演员/nnt ,/w 大嘴巴/nz ,/w 守/v 不住/d 秘密/n 
+[关谷/nr 神奇/a]/nz —/w —/w 王传君/nr ：/w 来自/v 日本/ns 横滨/ns ,/w 想象力/n 丰富/a 的/ude1 漫画家/nnt 
+陆展博/nr —/w —/w 金世佳/nr ：/w 网站/n 程序员/nnt ,/w [麻省/ns 理工大学/nis]/ntu 的/ude1 高材生/n 
+林宛瑜/nr —/w —/w 赵霁/nr ：/w 有点/d 天然呆/nz 的/ude1 富家/n 千金/n 
+秦羽墨/nr —/w —/w 赵文琪/nr ：/w 胡一菲/nr 的/ude1 同学/n 兼/v 死党/n ,/w 都市/n 白领/b 的/ude1 代表/nnt 
+Lisa/x 榕/ng —/w —/w 榕榕/nz ：/w 曾小贤/nr 的/ude1 上司/n ,/w 吕子乔/nr 的/ude1 老相好/n ,/w 对/p 曾小贤/nr 有点/d 偏见/n 
+杜俊/nr —/w —/w 杜俊/nr ：/w 关谷/nr 奇怪/v 的/ude1 大师兄/nz ,/w 说话/vi 方式/n 很/d 奇葩/n 
+诺澜/nr —/w —/w 刘萌萌/nr ：/w 曾小贤/nr 在/p 电台/nis 的/ude1 搭档/n 
+迪诺——/nrf 胡歌/nr ：/w 客串/v ,/w 关谷/nr 和/cc 悠悠/z 的/ude1 感情/n 威胁/vn 者/k 
+煤老板/nz —/w —/w 何炅/nr ：/w 客串/v ,/w [爱情/n 公寓/n]/nz 新房客/nz ,/w 喜欢/vi 胡一菲/nr 
+那琳琳/nr —/w —/w 谢娜/nr ：/w 客串/v ,/w 张伟/nr 未婚妻/n 
+武小艺/nr —/w —/w 武艺/n ：/w 客串/v ,/w 关谷/nr 的/ude1 朋友/n ,/w 喜欢/vi 小美/nz 
+冲云霄/nz —/w —/w 金岩/nr ：/w 客串/v 
+杜涛涛/nr —/w —/w 杜海涛/nr ：/w 客串/v ,/w 曾小贤/nr 同事/n 
+小美/nz —/w —/w 臧洪娜/nr ：/w 客串/v 
+[爱情/n 公寓/n]/nz 4/m [剧情/n 简介/n]/nz 
+小/a 贤/ng 和/cc 一/m 菲/b 的/ude1 事业/n 都/d 开始/v 走上/v 正轨/n ，/w 但/c 互相/d 之间/f 的/ude1 感情/n 依然/d 磕磕绊绊/z 。/w 而/cc 子乔/nz 和/cc 美/b 嘉/b 之间/f 虽然/c 做/v 回/v 了/ule [男女/n 朋友/n]/nz ，/w 但/c 吕子乔/nr 的/ude1 花心/n 本性/n 不/d 改/v ，/w 貌似/v 还是/c 喜欢/vi 带/v 上/f 伯/ng 耐/v 士/ng 特/ag 去/vf 床/n 战/v 嫩模/nz ，/w 着实/d 让/v 美/b 嘉/b 头疼/a 。/w 关谷/nr 向/p 悠悠/z 求婚/vi 后/f ，/w 他/rr 的/ude1 事业/n 蒸蒸日上/vl ，/w 但是/c 和/cc 悠悠/z 之间/f 也/d 还是/c 偶/d 有/vyou 嫌隙/n 。/w 
+[/w 提要/n ]/w [爱情/n 公寓/n]/nz 4/m 全集/n 电视剧/n [1/m -/w 24/m 集/q]/mq [剧情/n 介绍/v]/nz [爱情/n 公寓/n]/nz 第四季/mq 分/qt 集/q 剧情/n ：/w 突然/ad 一/m 菲/b 看见/v 诺/ng 澜/ng 发/v 了/ule 一条/mq 公开/ad 恋情/n 的/ude1 微薄/a 并/cc @/w 了/ule 小/a 贤/ng ，/w 一/m 菲/b 难受/a 地/ude2 哭/v 了/ule 。/w 

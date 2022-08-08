@@ -1,0 +1,8 @@
+根据/p 火车票/n [20/m 天/qt]/mq 预售/vn 期/qv 的/ude1 规定/n ，/w 1月11日/t 广大/b 旅客/n 即可/v 购买/vn 除夕/t 的/ude1 列车/n 票/n 。/w 当晚/t 7时/t 许/v ，/w 记者/nnt 登陆/vi [中国/ns 铁路/n]/nz 客户服务/gi 网站/n (/w www/x ./w 12306/m ./w cn/x )/w 查询/v 发现/vn ，/w 除夕/t 当天/t 出/vf 岛/n 列车/n 票源/nz 充足/a 。/w 
+海南省/ns [6/m 趟/qv]/mq 出/vf 岛/n 列车/n 的/ude1 售票/vn 时间/n 为/p 每天/r [18/m 点/qt]/mq ，/w 除夕/t 当天/t 海口/ns 往/p 长沙/ns 、/w 西安/ns 及/cc 成都/ns 东/f 方向/n 的/ude1 列车/n 票源/nz 较/d 足/a ，/w 但/c 27/m 日前/t 的/ude1 车票/n 则/d 均/d 已/d 售罄/nz 。/w 
+海口/ns 至/p 成都/ns 东/f 方向/n ，/w 除夕/t 当天/t 及/cc 28日/t 、/w 29日三/t 天/qt 的/ude1 票源/nz 均/d 相对/d 充足/a ，/w 不过/c 27日/t 之前/f 的/ude1 票/n 则/d 均/d 已/d 售罄/nz 。/w 
+海口/ns 至上/vi 海南/ns 方向/n ，/w 在/p 预售/vn 期/qv 内/f 的/ude1 票源/nz 相对/d 充足/a 。/w 
+海口/ns 至/p 哈尔滨/ns 方向/n ，/w 27日/t 至/p 30日/t 的/ude1 票源/nz 相对/d 充足/a ，/w 26日/t 则/d 只/d 剩下/v 硬座/n 和/cc 一张/mq 软卧/n ，/w 而/cc 25日/t 之前/f 的/ude1 车票/n 则/d 已/d 售罄/nz 。/w 
+海口/ns 至/p 长沙/ns 方向/n ，/w 27日/t 之前/f 的/ude1 车票/n 均/d 已/d 售罄/nz ，/w 28日/t 则/d 只有/c 少许/m 硬座/n ，/w 29日/t 、/w 30日/t 两天/mq 票源/nz 较为/d 充足/a 。/w 
+海口/ns 至/p 北京/ns 西/f ，/w 除了/p 25日/t 当天/t 还/d 剩下/v [2/m 张/q]/mq [高级/a 软卧/n]/nz ，/w 27日/t 之前/f 其他/rzv 时间段/n 的/ude1 车票/n 均/d 已/d 售罄/nz ，/w 1月28日/t 之后/f 票源/nz 充足/a 。/w 
+海口/ns 到/v 西安/ns 方向/n ，/w 27日/t 之前/f 车票/n 均/d 已/d 售罄/nz ，/w 28日/t 的/ude1 余/ng 票/n 中/f 只剩/v 硬座/n ，/w 29日/t 之后/f 票源/nz 充足/a 。/w 

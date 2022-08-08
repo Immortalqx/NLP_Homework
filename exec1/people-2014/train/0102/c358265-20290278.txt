@@ -1,0 +1,26 @@
+任命/v ：/w 
+张瑞中/nr 为/p [市/n 人大常委会/nis]/nt [代表/nnt 资格/n 审查/vn 委员会/nis]/nt 主任委员/nnt 。/w 
+免去/v ：/w 
+汪方应/nr 的/ude1 [市/n 人大常委会/nis]/nt [代表/nnt 资格/n 审查/vn 委员会/nis]/nt 主任委员/nnt 职务/n 。/w 
+任命/v ：/w 
+李婷/nr 为/p [市/n 人大常委会/nis]/nt [九华山/nz 风景区/n]/nz [工作/vn 委员会/nis]/nto 主任/nnt 。/w 
+决定/v 任命/vn ：/w 
+金鑫/nr 为/p [市/n 人民政府/nis]/nz 副市长/nnt 。/w 
+决定/v 免去/v ：/w 
+夏月星/nr 的/ude1 [市/n 人民政府/nis]/nz 副市长/nnt 职务/n ；/w 
+任命/v ：/w 
+朱晓琳/nr 为/p 市/n [中级/b 人民法院/nis]/nt 行政/n 审判庭/n 副庭长/nnt ；/w 
+李郑传/nr 为/p 市/n [中级/b 人民法院/nis]/nt [刑事/b 审判/vn]/nz 第二/m 庭/ng 副庭长/nnt ；/w 
+陈大明/nr 为/p 市/n [中级/b 人民法院/nis]/nt [民事/b 审判/vn 第一/m 庭/ng]/nz 副庭长/nnt ；/w 
+余玮/nr 为/p 市/n [中级/b 人民法院/nis]/nt [民事/b 审判/vn 第一/m 庭/ng]/nz 副庭长/nnt ；/w 
+杨似友/nr 为/p 市/n [中级/b 人民法院/nis]/nt 审判员/nnt ；/w 
+康启林/nr 为/p 市/n [中级/b 人民法院/nis]/nt 审判员/nnt ；/w 
+徐阳亮/nr 为/p 市/n [中级/b 人民法院/nis]/nt 审判员/nnt 。/w 
+免去/v ：/w 
+朱晓琳/nr 的/ude1 市/n [中级/b 人民法院/nis]/nt [民事/b 审判/vn 第一/m 庭/ng]/nz 副庭长/nnt 职务/n 。/w 
+任命/v ：/w 
+华海峰/nr 为/p [九华山/nz 风景区/n 人民法院/nis]/nt [人民/n 陪审员/nnt]/nnt ；/w 
+陆静/nr 为/p [九华山/nz 风景区/n 人民法院/nis]/nt [人民/n 陪审员/nnt]/nnt ；/w 
+陈磊/nr 为/p [九华山/nz 风景区/n 人民法院/nis]/nt [人民/n 陪审员/nnt]/nnt 。/w 
+免去/v ：/w 
+吴根法/nr 的/ude1 [市/n 人民检察院/nis]/nz 检察员/nnt 职务/n 。/w （/w [池州/ns 日报/n]/nz ）/w 

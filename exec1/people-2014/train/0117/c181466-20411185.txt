@@ -1,0 +1,23 @@
+【/w 提醒/v 】/w 
+[公交/b 线路/n]/nz 
+运行时间/gi 
+首班/nz :/w 6:30/m 
+末班/nz :/w 21:00/m 
+间隔/n 发/v 班/n 
+时间/n 
+高峰/n :/w 
+[12/m -/w 13/m 分钟/qt]/mq 
+发/v 一班/mq 
+平/v 峰/ng :/w 
+[15/m -/w 16/m 分钟/qt]/mq 
+发/v 一班/mq 
+运营/vn 班次/n 
+[120/m 班/n]/mq //w 日/b 
+本报讯/nz （/w 记者/nnt 郭瑜芬/nr 郭筱淳/nr 通讯员/nnt 吴圣彬/nr ）/w [一/d 出/vf]/mq 家门/n ，/w 就/d 能/v 坐/v 上/f 公交车/nz 出行/vi —/w —/w 湖/n 里/f [殿/ng 前/f 街道/ns]/nz 的/ude1 居民/n 们/k 将/d 开启/v 便利/an 生活/vn 时代/n ！/w [昨天/t 下午/t]/nz ，/w [殿/ng 前/f 街道/ns]/nz “/w 社区/n 公交/b ”/w [启动/v 仪式/n]/nz 举行/v ，/w [6/m 辆/q]/mq 绿色/n 的/ude1 [432/m 路/n]/mq 公交车/nz 依次/d 排/v 开/v ，/w 它们/rr 将/d 在/p 今日/t 正式/ad 投入/v 使用/vn 。/w 
+作为/p 践行/nz “/w 美丽/a 厦门/ns ”/w 、/w “/w 幸福/a 湖/n 里/f ”/w 的/ude1 [重点/n 项目/n]/nz —/w —/w [殿/ng 前/f 街道/ns]/nz 与/cc [厦门/ns 公交/b 集团/nis]/ntc 思明/nz [公交/b 公司/nis]/nt 一同/d 出资/vi [120/m 万元/q]/mq ，/w 购置/v 了/ule [6/m 辆/q]/mq 双/q 开门/vi 的/ude1 社区/n 公交车/nz 。/w 这批/r 社区/n 公交车/nz 每天/r 从/p 6点30分/t 至/p [21/m 点/qt]/mq ，/w 往返/vi 于/p 象/ng 屿/ng 五金/n 机电/b 城/n 与/cc [怡/vg 景/ng 花园/n]/nz 之间/f ，/w 全程/n [11/m ./w 5/m 公里/q]/mq ，/w 跨越/v 殿/ng 前/f 、/w 湖/n 里/f 两个/mq 街道/ns ，/w 覆盖/v 了/ule 高/a 殿/ng 、/w 长/a 乐/a 、/w 北站/nis 等/udeng 多个/mq 社区/n 。/w 
+为/p 居民/n “/w [量身/d 定制/n]/nz ”/w 出行/vi 方案/n 
+[殿/ng 前/f 街道/ns]/nz 地处/v 厦门/ns 西北部/f ，/w 很多/m 区域/n 离/v 市中心/s 较远/d ，/w 并且/c 辖区/n “/w 城中村/nz ”/w 居多/vi ，/w 交通/n 不便/an 。/w 如何/ryv 解决/v 居民/n 的/ude1 出行/vn 问题/n ，/w 成/v 了/ule [殿/ng 前/f 街道/ns]/nz 一直/d 关注/v 的/ude1 [民生/n 问题/n]/nz 。/w 以/p [高崎/nr 一组/mq]/nt 为/p 例/n ，/w 这个/rz 地方/n 位/q 处/n [福/n 厦/b 铁路/n]/nz 和/cc 杏林/n 大道/ns 之间/f ，/w 看似/v 交通/n 便利/an ，/w 可是/c 却/d 没有/v 一条/mq 公交车/nz 经过/p 。/w “/w 居民/n 如果/c 要/v 出门/vn ，/w 要/v 走到/vf [几/d 公里/q]/mq 外/f 的/ude1 中/f 埔/n 坐/v 公交/b ，/w 然后/c 辗转/vi 数/n 个/q 站/vi 才能/n 到达/v 。/w ”/w [殿/ng 前/f 街道/ns]/nz 相关/vn 负责人/nnt 介绍/v 说/v ，/w 过去/vf ，/w 为了/p 便利/an 居民/n 出行/vi ，/w [殿/ng 前/f 街道/ns]/nz 还/d 曾/d 租用/v 了/ule 两辆/mq 微型/b 面包车/n ，/w 将/d 居民/n 送到/v [高崎/nr 小学/nis]/nt ，/w 再/d 步行/vi [1/m 公里/q]/mq 中/f 埔/n 的/ude1 公交车/nz 站点/n ，/w 但是/c 只有/c 5/m 、/w [6/m 个/q]/mq 座位/n 的/ude1 小车/n 根本/a 无法/v 满足/vn [高崎/nr 一组/mq]/nt 及/cc 周边/n 1000多人/m 的/ude1 需要/vn 。/w 
+[殿/ng 前/f 街道/ns]/nz 辖区/n ，/w 街道/ns 和/cc 社区/n 内/f 的/ude1 出行/vn 线路/n 也/d 存在/v 短板/nz 。/w 大部分/n 市民/n 的/ude1 主要/b 活动/v 区域/n 都/d 在/p 社区/n 和/cc 街道/ns 内/f ，/w 但/c 这/rzv 其中/rz 的/ude1 [公交/b 路线/n]/nz 很少/ad 。/w “/w 很多/m 市民/n 想到/v 社区/n 或/c 街道办/nis 点/qt 事/n ，/w 却/d 没有/v 一辆/mq 公交车/nz 能/v 直接/ad 到达/v 。/w ”/w [殿/ng 前/f 街道/ns]/nz 相关/vn 负责人/nnt 表示/v 。/w [殿/ng 前/f 街道/ns]/nz 将/d “/w 社区/n 公交/b ”/w 作为/p 建设/vn “/w 美丽/a 厦门/ns ”/w 的/ude1 [重点/n 项目/n]/nz 来/vf 抓/v ，/w 对/p 社区/n 道路/n 、/w 线路/n 进行/vn 摸底/vn ，/w 召开/v 社区/n 居民/n 代表/nnt [征求/v 意见/n]/nz 会/v ，/w 会同/v 公安/n 、/w 城管/n 等/udeng [职能/n 部门/n]/nz 实地/d 勘察/vn ，/w 历时/vi 4个月/t ，/w 为/p 群众/n 量身/d 打造/v 了/ule 一条/mq 便民/v [公交/b 路线/n]/nz ，/w 不仅/c 方便/a 了/ule 出行/vi ，/w 也/d 将/d 带/v 旺/a 片/q 区/n 的/ude1 人气/n 。/w 
+为/p 外来/b 务工/v 者/k 打通/v 上班/vn 线路/n 
+社区/n 公交/b 的/ude1 开通/vn ，/w 对于/p [殿/ng 前/f 街道/ns]/nz 20多万/m 外来/b 打工者/n 来说/uls 更是/d 一个/mq 好消息/nz 。/w 目前/t ，/w [殿/ng 前/f 街道/ns]/nz [常住/v 人口/n]/nz 有/vyou [3/m 万/d 人/n]/mq ，/w [外来/b 人口/n]/nz 则/d 多达/v [20/m 多/a 万/d 人/n]/mq ，/w 数量/n 众多/a 的/ude1 [外来/b 人口/n]/nz 大多/d 在/p 湖/n 里/f 大道/ns 周边/n 的/ude1 工业园区/nz 上班/vi ，/w 一直/d 以来/f ，/w 在/p 他们/rr 的/ude1 家/q 和/cc 单位/n 之间/f ，/w 并/cc 没有/v 一条/mq [公交/b 路线/n]/nz 串联/v 。/w 因为/c 这个/rz 缘故/n ，/w 寨/ng 上/f 等/udeng 周边/n 的/ude1 黑车/n 、/w 摩/b 的/ude1 市场/n 十分/d 红火/a ，/w 屡禁不止/vl 。/w 如今/t ，/w 这/rzv 条/q 经过/p 寨/ng 上/f 片/q 区/n 的/ude1 社区/n 公交/b 将/d 解决/v 他们/rr 上班/vi 难题/n ，/w 不仅如此/bl ，/w 还/d 将/d 抑制/v 辖区/n 内/f “/w 摩/b 的/ude1 ”/w 载客/vi 和/cc [非法/b 营运/vn]/nz 的/ude1 现象/n 。/w “/w 摩/b 的/ude1 、/w 黑车/n 的/ude1 猖獗/a 说到底/dl 是因为/c 有/vyou 市场/n ，/w 社区/n 公交/b 的/ude1 开通/vn 将/d 从/p 源头/n 上/f 打击/v 这个/rz 市场/n 。/w ”/w [殿/ng 前/f 街道/ns]/nz 相关/vn 负责人/nnt 表示/v 。/w 
+值得一提/vl 的/ude1 是/vshi ，/w 在/p 推进/vi “/w 社区/n 公交/b ”/w 的/ude1 同时/c ，/w [殿/ng 前/f 街道/ns]/nz 还/d 从/p [房前/s 屋后/s]/nz 入手/vi ，/w 积极/ad 改善/v 公交/b 沿线/f 市民/n 的/ude1 [人居/n 环境/n]/nz :/w 在/p 社区/n 公交/b 经过/p 的/ude1 [高崎/nr 一组/mq]/nt 片/q 区/n ，/w [6/m 盏/q]/mq 新型/b 的/ude1 [太阳能/n 路灯/n]/nz 被/pbei 立/v 了/ule 起来/vf ，/w 居民/n 告别/vi 黑漆漆/z 的/ude1 夜路/nz ；/w 原本/d 坑坑洼洼/bl 的/ude1 道路/n 重新/d 平整/a 了/ule ，/w 一些/mq “/w 城中村/nz ”/w 的/ude1 土路/n 变成/v 了/ule 水泥路/n ；/w 街道/ns 的/ude1 路口/n 增加/v 了/ule 安全/an 提示/v ，/w 提醒/v 市民/n 出行/vi 安全/an …/w …/w 

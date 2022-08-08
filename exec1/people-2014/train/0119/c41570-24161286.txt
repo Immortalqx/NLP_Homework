@@ -1,0 +1,26 @@
+“/w 如果/c 你/rr 的/ude1 手机/n 丢/v 了/ule ，/w 如果/c 你/rr 的/ude1 支付宝/nz 关联/vn 了/ule 银行卡/nz ，/w 绑定/gi 了/ule 手机/n ，/w 那/rzv 你/rr 完了/vi 。/w ”/w 近日/t ，/w 这样/rzv 一则/c 网/n 贴/v 引发/v 了/ule 热/a 议/v 。/w 在/p [移动/vn 支付/v]/nz 日趋/d 流行/v 的/ude1 今天/t ，/w 我们/rr 如何/ryv 保证/v [网络/n 支付/v]/nz 安全/an ？/w 记者/nnt 就此/d 采访/v 了/ule [支付宝/nz 公司/nis]/nt [专业/n 人士/n]/nz 。/w 
+手机/n 丢失/v ，/w 余额/n 宝/n 里/f 的/ude1 钱/n 安全/an 吗/y 
+◆/w 保护/vn 好/a 支付宝/nz 手势/n 密码/n 、/w 登录/v 密码/n 和/cc 支付/v 密码/n 
+◆/w 手机/n 丢失/v 后/f 应/v [第一/m 时间/n]/nz 挂失/vi SIM/x 卡/n ，/w 冻结/v 支付宝/nz 
+这/rzv 则/d 网/n 贴/v 说/v ，/w 拾得/nz 他人/rr 手机/n 后/f ，/w 可以/v 通过/p 取回/v 密码/n 的/ude1 方式/n 破解/v 支付宝/nz 的/ude1 登陆/vn 和/cc 支付/v 密码/n ，/w 从而/c 盗走/v 资金/n 。/w 
+支付宝/nz 方面/n 表示/v ，/w 这个/rz 测试/v 用户/n 是/vshi 拿/v 自己/rr 的/ude1 手机/n ，/w 在/p 自己/rr 的/ude1 电脑/n 上/f 进行/vn 操作/vn ，/w 因为/c 电脑/n 上/f 安装/v 的/ude1 是/vshi 他/rr 本人/rr 的/ude1 [数字/n 证书/n]/nz 和/cc 默认/v 的/ude1 常用/a 的/ude1 IP/x 地址/n ，/w 后台/n 会/v 判定/vn 是/vshi [可信/a 网络/n]/nz 环境/n ，/w 所以/c 操作/vn 可以/v [顺利/ad 进行/vn]/nz 。/w 但/c 如果/c 在/p 其他/rzv 电脑/n 上/f 操作/vn ，/w 取回/v 密码/n 时/ng 需要/v 短信/n 验证/v 和/cc [密码/n 保护/vn]/nz 答案/n 等/udeng 多重/b 验证/v ，/w 因此/c ，/w 无法/v 轻易/d 修改/v 密码/n 。/w 
+支付宝/nz 方面/n 表示/v ，/w 丢失/v 手机/n 如同/v 丢失/vn 银行卡/nz ，/w 取出/v 资金/n 还/d 需要/v 支付宝/nz 手势/n 密码/n 、/w 登录/v 密码/n 和/cc 支付/v 密码/n 这/rzv [三/m 重/a]/mq 密码/n 。/w 如果/c 破解/v 不/d 了/ule ，/w 就/d 相当于/v 捡到/v 了/ule 一张/mq 银行卡/nz ，/w 里面/f 纵使/c 有/vyou 再/d 多/a 的/ude1 钱/n ，/w 也/d 转/v 不/d 出来/vf 。/w 
+手机/n 丢失/v 之后/f ，/w 应该/v [第一/m 时间/n]/nz 打电话/vi 给/p 手机/n 运营商/nz 挂失/vi SIM/x 卡/n ，/w 以防/v 被/pbei 用于/v 其他/rzv 用途/n ；/w 其次/c 如果/c 有/vyou 银行卡/nz 、/w 支付宝/nz 等/udeng 的/ude1 绑定/gi ，/w 也/d 应该/v 及时/ad 打电话/vi 给/p 上述/b 服务商/nnd ，/w 进行/vn 相关/vn 业务/n 的/ude1 冻结/vn 。/w 还/d 可以/v 用/p 电脑/n 登录/v 支付宝/nz 账户/n ，/w 关闭/v [无线/b 支付/v]/nz 开关/n ，/w 这样/rzv 手机/n 、/w iPad/x 等/udeng 无线/b 终端设备/gp 的/ude1 支付/vn 功能/n 将/d 全部/m 关闭/v 。/w 
+支付宝/nz 方面/n 还/d 表示/v ，/w 如果/c 出现/v 手机/n 丢失/v 资金/n 被盗/v 刷/v 这种/r 小/a 概率/n 的/ude1 事件/n ，/w 支付宝/nz 合作/vn 的/ude1 [平安/a 保险/n 会/v]/nt 全额/n 赔付/v 。/w 
+木马/n 钓鱼/vi 是/vshi 资金/n 被窃/v 的/ude1 主要/b 风险/n 
+◆/w 不要/d “/w 越狱/vi ”/w 或/c “/w ROOT/x ”/w 手机/n ，/w 正规/a 渠道/n 安装/v 软件/n 
+◆/w 不要/d 轻易/d 点击/v 不明/v 链接/gi ，/w 安装/v 文件/n 前/f 应/v 杀毒/vi 
+木马/n 钓鱼/vi 是/vshi 目前/t 用户/n [网上/s 支付/v]/nz 时/ng 面临/v 的/ude1 主要/b 风险/n 。/w 应该/v 如何/ryv 保障/v 手机/n 安全/an ，/w 构建/v [移动/vn 支付/v]/nz 的/ude1 [第一/m 条/q]/mq 防线/n ？/w 
+支付宝/nz 安全/an 专家/nnt 子/ng 玄/a 说/v ，/w 首先/d ，/w 不要/d “/w 越狱/vi ”/w 或/c “/w ROOT/x ”/w 手机/n 。/w 因为/c 越狱/vi 后/f 的/ude1 手机/n 可以/v 随意/ad 安装/v 软件/n ，/w 而/cc 很多/m 具有/v [安全/an 风险/n]/nz 的/ude1 软件/n ，/w [普通/a 用户/n]/nz 是/vshi 无法/v 识别/vn 的/ude1 。/w 
+其次/c ，/w 安装/v 的/ude1 [手机/n 软件/n]/nz 来源/n 应该/v 是/vshi 官方/n 的/ude1 软件/n 商店/nis 或/c 正规/a 软件/n 网站/n ，/w 防止/v 软件/n 中/f 被/pbei 添加/v 不明/v 插件/gi 。/w 
+在/p PC/x 端/v ，/w 一些/mq 基本/a 的/ude1 技巧/n 同样/d 重要/a 。/w 例如/v 用户/n 在/p [网上/s 支付/v]/nz 的/ude1 过程/n 中/f ，/w 应/v 严格/ad 按照/p [购物/vn 网站/n]/nz 本身/rz 的/ude1 流程/n 进行/vn 购买/v ，/w 不要/d 轻易/d 点击/v 不明/v 链接/gi 。/w 安装/v 软件/n 前/f ，/w 应/v 通过/p 正版/n 杀毒软件/gi 进行/vn 查杀/v ，/w 让/v [钓鱼/vi 木马/n]/nz 软件/n 无/v 可乘之机/n 。/w 
+密码/n 、/w 银行卡/nz 和/cc 身份/n 信息/n 要/v 重点/n 防护/vn 
+◆/w [一/d 码/v]/mq 走/v 天下/n ，/w 暗藏/v 较大/d 风险/n 
+◆/w 密码/n 记录/v ，/w 可以/v 考虑/vn “/w 转译/vn ”/w 技巧/n 
+现在/t 每天/r 的/ude1 网络/n 生活/vn 需要/v 用/p 到/v 大量/m 的/ude1 密码/n ，/w [很多/m 用户/n]/mq 由于/p 记忆/n 密码/n 很/d 麻烦/an ，/w 喜欢/vi 在/p 不同/a 的/ude1 网站/n 使用/v 同一/b 用户名/n 和/cc 密码/n 组合/vn ，/w “/w [一/d 码/v]/mq 走/v 天下/n ”/w 。/w 但/c 这样/rzv 暗藏/v 巨大/a [安全/an 风险/n]/nz 。/w 
+在/p 北京/ns 一家/n 媒体/n 工作/vn 的/ude1 王先生/nr 对/p 自己/rr 的/ude1 密码/n 管理/vn 有/vyou 自己/rr 的/ude1 想法/n ，/w 他/rr 对/p 账户/n 和/cc 密码/n 等/udeng 重要/a 信息/n 分级/v 管理/vn 。/w 
+对于/p 不/d 涉及/v 现金/n 交易/vn 的/ude1 普通/a 应用/vn ，/w 如/v 一些/mq 邮箱/n 和/cc 网盘/nz 应用/vn 归/v 为/p A/x 组/n ，/w 其/rz 用户名/n 和/cc 密码/n 基本/a 统一/vn ；/w 对于/p 涉及/v 资金/n 交易/vn 的/ude1 网银/n 、/w 淘宝/n 、/w 微信/nz 支付/v 和/cc 重点/n 邮箱/n 账户/n 等/udeng 应用/vn 所/usuo 用/p 的/ude1 账户/n 和/cc 密码/n 归/v 为/p B/x 组/n 。/w B/x 组/n 内/f 各/rz 账户/n 名/q 统一/vn ，/w 但是/c 密码/n 各/rz 不/d 相同/a 。/w “/w 这样/rzv 一方面/c 记忆/n 的/ude1 负担/n 比较/d 小/a ，/w 另一方面/c 也/d 可以/v 保证/vn 核心/n 账户/n 特别/d 是/vshi [资金/n 账户/n]/nz 的/ude1 安全/an 。/w ”/w 王先生/nr 说/v ，/w 目前/t 也/d 有/vyou 网友/n 用/p 自己/rr 设计/vn 的/ude1 算法/n 设置/v 密码/n 等/udeng 方式/n ，/w 可以/v 根据/p 自己/rr 的/ude1 喜好/vn 选择/v 。/w 
+虽然/c 大大/d 减小/v 记忆/n 负担/n ，/w 但/c 有时/d 还/d 需要/v 对/p 用户名/n 和/cc 密码/n 进行/vn 记录/v 。/w “/w B/x 组/n 的/ude1 密码/n 千万/m 不要/d 记录/v 在/p 手机/n 或者/c 联网/vi 的/ude1 电脑/n 上/f ，/w 如果/c 一定/b 要/v 记/vn ，/w 也/d 别/d 用/p 明/ag 文/ng ”/w ，/w 王先生/nr 说/v ，/w 他/rr 喜欢/vi 用/p 转译/vn 的/ude1 办法/n 。/w 比如/v 在/p 记录本/n 上/f 用/p “/w 我/rr 的/ude1 高考/vn 成绩/n +/w 门牌号/n ”/w 这样/rzv 的/ude1 方式/n 。/w 
+同时/c ，/w 在/p 一些/mq 不/d 熟悉/v 的/ude1 网站/n 或/c 场合/n 使用/v 时/ng ，/w 需/v 谨慎/a 填写/v 个人/n 的/ude1 身份/n 信息/n 、/w 银行卡/nz 信息/n ，/w 以/p 避免/v 不必要/a 的/ude1 泄露/v 。/w 
+最后/f ，/w 一位/mq [移动/vn 支付/v]/nz 领域/n 的/ude1 专家/nnt 表示/v ，/w 一般而言/vl ，/w 如果/c 按照/p 支付/v 厂商/nnd 的/ude1 安全/an 提醒/v ，/w 其/rz [手机/n 支付/v]/nz 的/ude1 过程/n 是/vshi 有/vyou 安全/an 保障/vn 的/ude1 。/w 譬如/v ，/w 支付宝/nz 就/d 经常/d 提醒/v 用户/n ，/w 应/v 尽快/d 进行/vn [实名/gi 认证/vn]/nz ，/w 一方面/c 可以/v 增加/vn 服务/v 功能/n ，/w 另一方面/c ，/w 安全性/n 也/d 更高/d 。/w 尤其/d 是/vshi 重/a 置/v 密码/n 时/ng ，/w [实名/gi 认证/vn]/nz 后/f 的/ude1 用户/n 会/v 要求/n 验证/v 更多/ad 的/ude1 细节/n ，/w 提高/v 了/ule 安全性/n 。/w 同时/c ，/w 用户/n 给/p 支付/v 账户/n 设置/v 单独/d 的/ude1 、/w 高/a [安全/an 级别/n]/nz 的/ude1 密码/n 、/w 给/p [手机/n 支付/v]/nz 设置/v 手势/n 密码/n 也/d 可以/v 大大/d 提高/v 安全性/n 。/w 
+《/w 人民日报/nz 》/w （/w 2014年01月19日08/t 版/n ）/w 

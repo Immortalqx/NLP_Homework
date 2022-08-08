@@ -1,0 +1,8 @@
+原/b 标题/n ：/w 他/rr 注定/v 爱上/v 你/rr !/w 看看/v 你/rr 是/vshi 哪种/ry [男人/n 杀手/nnd]/nz 
+测验/vn 开始/v 
+1/m ./w 很/d 舍得/v 花钱/vi 买/v 内衣/n 
+Yes/x →/w 5/m 
+No/x →/w 2/m 
+2/m ./w 不/d 太/d 喜欢/vi 吃/v 汤汤/nr 水/n 水/n 的/ude1 东西/n 
+Yes/x →/w 6/m 
+No/x →/w 3/m 

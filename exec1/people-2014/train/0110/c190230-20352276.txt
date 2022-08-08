@@ -1,0 +1,10 @@
+原/b 标题/n ：/w “/w 金刚/n ”/w “/w 女神/n ”/w 也/d 能/v 抢/v 到/v 火车票/n 
+“/w 网络/n 黄牛/n ”/w 利用/v 抢/v 票/n 软件/n 囤积/v 大量/m 火车票/n ，/w 让/v 真正/d 买票/nz 的/ude1 人/n 望/v 票/n 兴叹/vi 。/w 新华社/nt 发/v 
+网络/n 黄牛/n 用/p 随意/ad 编造/v 的/ude1 旅客/n 信息/n 就/d 可/v 顺利/ad 囤/ng 到/v 票/n ，/w 找到/v 买家/n 后/f 再/d 将/d 票/n 放出/v ？/w 不论/c 长/a 短途/b ，/w 一张/mq 车票/n 统一/vn 加价/vi [260/m 元/q]/mq ？/w 连日来/dl ，/w 记者/nnt “/w 潜伏/v ”/w 于/p 各/rz 大/a “/w 黄牛/n QQ/x 群/ng ”/w ，/w 并/cc 请教/v 多/a 位/q IT/x 工程师/nnt ，/w 亲身/d 体验/v 了/ule 12306/m 网站/n 的/ude1 [系统/n 漏洞/n]/nz 。/w 
+利用/v 某/rz 刷票/nz 浏览器/n ，/w “/w 金刚/n ”/w 、/w “/w 葫芦娃/nz ”/w 、/w “/w 女神/n ”/w 等/udeng 随意/ad 编造/v 的/ude1 名字/n 均可/v 顺利/ad 购票/v 。/w 当/p 记者/nnt 将/d 已/d 购票/v 进行/vn 退票/vi 操作/vn 之后/f ，/w [10/m 分钟/qt]/mq 内/f ，/w 该/rz 车票/n 便/d 出现/v 在/p 12306/m 网站/n 的/ude1 预订/vn 页面/n ，/w 两秒钟/nz 便/d 被/pbei 抢走/v 。/w 
+记者/nnt 体验/v ：/w 
+软件/n 可/v 随机/b 生成/v 有效/a [身份证/n 号码/n]/nz 
+首先/d ，/w 记者/nnt 登录/v 一个/mq 名为/v “/w [中国/ns 大陆/ns]/nz [身份证/n 号码/n 生成器/n]/nz ”/w 的/ude1 身份证/n 自动/d 生成/v 网站/n ，/w 最先/d 映入眼帘/vl 的/ude1 是/vshi 这个/rz 网站/n 上/f 的/ude1 一则/c 重要/a 提示/v ：/w “/w 指定/v 出/vf 生日/n 、/w [出生/vi 日期/n]/nz 及/cc 性别/n 就/d 可以/v 生成/vn [1/m 到/v 999/m 个/q]/mq 格式/n 正确/a 的/ude1 [身份证/n 号码/n]/nz ！/w ”/w 
+随后/d ，/w 按照/p 网页/n 上/f 的/ude1 选项/n 和/cc 提示/v ，/w 记者/nnt 分别/d 在/p 地点/n 、/w 出生/vi 时间/n 、/w 性别/n 、/w 生成/v 个数/n 等/udeng 几项/mq 空白/n 选项/n 上/f 选择/v 了/ule [北京市/ns 东城区/ns]/nz 、/w 1986年6月1日/t 、/w 男/b 、/w [20/m 等/udeng]/mq 字样/n 后/f ；/w 接着/c ，/w 再/d 用/p 鼠标/n 点击/v “/w 提交/v ”/w 选项/n ，/w 立即/d 成功/a 生成/v [20/m 个/q]/mq 北京/ns 东城区/ns 的/ude1 [身份证/n 号码/n]/nz 。/w 
+为了/p 验证/v 这些/rz 号码/n 是否/v 有效/a ，/w 记者/nnt 又/d 随意/ad 挑出/vf 几个/mq ，/w 通过/p 12306/m 网站/n 和/cc 其他/rzv 一些/mq 认证/vn 方法/n 进行/vn 确认/v 。/w 确认/v 之后/f ，/w 记者/nnt 惊讶/a 地/ude2 发现/v 这些/rz 随机/b 生成/v 的/ude1 “/w 山寨/n ”/w [身份证/n 号码/n]/nz 竟然/d 都/d 是/vshi 有效/a 的/ude1 ！/w 
+分析/vn ：/w 假/a 身份/n 信息/n 之所以/c 能够/v 成功/a 购买/v 车票/n ，/w 是因为/c 12306/m 网站/n 并/cc 没有/v 与/cc [公安/n 系统/n]/nz 联网/vi ，/w 无法/v 对/p [身份证/n 号/q]/nz 等/udeng 信息/n 进行/vn 审核/vn 。/w 在/p 未/d 与/cc [公安/n 系统/n]/nz 联网/vi 的/ude1 情况下/nz ，/w 12306/m 网站/n 本身/rz 只能/v 检测/vn 身份证/n 最后/f 一位/mq 的/ude1 运算/vn 逻辑/n ，/w 但/c 算/v 号/q 软件/n 早/a 已经/d 解决/v 了/ule [这个/rz 问题/n]/nz ，/w 因此/c 12306/m 网站/n 无法/v 检测/vn 身份/n 信息/n 真伪/n 。/w 

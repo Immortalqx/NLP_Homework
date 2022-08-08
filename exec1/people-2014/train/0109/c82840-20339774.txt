@@ -1,0 +1,66 @@
+记者/nnt 网络/n 购票/v 提交/v 订单/n 后/f ，/w 系统/n 显示/v “/w 排队/vi 人数/n 超过/v 余/ng 票/n 张/q 数/n ”/w 。/w 网络/n 截图/vn 
+昨日/t ，/w [北京/ns 西站/nis]/nt 售票厅/n ，/w 旅客/n 正在/d 排队/vi 买票/nz 。/w 今年/t 窗口/s 和/cc 代售/vn 点/qt 的/ude1 排队/vn 旅客/n 大大/d 减少/v ，/w 多数/a 旅客/n 都/d 是/vshi 购买/v 近期/t 短途/b 车票/n 或者/c 来/vf “/w 捡漏/nz ”/w 的/ude1 。/w A12/x -/w [13/m 版/n]/mq 摄影/vn //w 新京报/nz 记者/nnt 王嘉宁/nr 
+[北京/ns 西站/nis]/nt 售票厅/n ，/w 排队/vi 购票/v 的/ude1 旅客/n 。/w 
+[北京/ns 西站/nis]/nt 售票厅/n ，/w 一名/mq 小朋友/n 陪/v 家人/n 排队/vi 。/w 
+新京报/nz 讯/ng 昨日/t 起/vf ，/w 网络/n 、/w 电话/n 开始/v 发售/vn 除夕/t 前/f [三/m 天/qt]/mq 的/ude1 [图/n 定/v 列车/n]/nz 车票/n ，/w 抢/v 票/n 进入/v 高峰期/n 。/w 
+今年/t 购票/v 方式/n 增加/v 了/ule [手机/n 客户端/nz]/nz ，/w 12306/m 也/d 新增/v 抢/v 票/n 功能/n ，/w 春运/n 期间/f 的/ude1 票/n 还/d 难/a 不难/d 抢/v ？/w 新京报/nz 记者/nnt 昨日/t 使用/v [5/m 种/q]/mq 购票/v 方式/n ，/w 分别/d 进行/vn 体验/v ，/w 结果/n 发现/v 普通/a 列车/n 硬座/n 票/n 不难/d 买/v ，/w 动车/n 、/w 高铁/nz 票/n 起/vf 售/v 时/ng ，/w 网络/n 、/w [手机/n 客户端/nz]/nz 就/d 开始/v 发作/vn 间歇性/nz “/w 瘫痪病/nz ”/w ，/w 想/v 买/v 到/v 票/n 就/d 看/v 运气/n 了/ule 。/w 
+今年/t 窗口/s 代售/vn 点/qt 排队/vi 者/k 减少/v 
+昨天一早/t ，/w 新京报/nz 记者/nnt 分别/d 通过/p 网络/n 、/w 电话/n 、/w [手机/n 客户端/nz]/nz 、/w 窗口/s 、/w 代售/vn 点/qt [五/m 种/q]/mq 渠道/n ，/w 购买/v 1月27日/t 北京/ns 西/f 至/p 成都/ns 的/ude1 火车票/n 。/w 其中/rz 网络/n 、/w [手机/n 客户端/nz]/nz 的/ude1 购票/vn 过程/n 可以/v 说/v 是/vshi “/w 过五关/nz 、/w 斩六将/nz ”/w ，/w 每个/r 环节/n 都/d 有可能/nz 陷入/v “/w 加载/v 中/f ”/w 。/w [电话/n 订票/vn]/nz 则/d 相对/d 较/d 容易/ad ，/w 打/v 不通/a 北京/ns 的/ude1 订票/vn 电话/n 时/ng ，/w 可/v 加/v 拨/v 外地/s 区号/n 。/w 
+而/cc 随着/p [网络/n 售票/vn]/nz 和/cc [电话/n 订票/vn]/nz 的/ude1 普及/vn ，/w 今年/t 窗口/s 和/cc 代售/vn 点/qt 的/ude1 排队/vn 人数/n 大大/d 减少/v 。/w 因/p 预售/vn 期/qv 晚/tg 两天/mq ，/w 无法/v 买/v 到/v 27日/t 的/ude1 [图/n 定/v 列车/n]/nz 票/n ，/w 但/c 节前/f 多/a 趟/qv 临客/n 仍/d 有/vyou 硬座/n 票/n 。/w 
+[8/m 点/qt]/mq 可/v 电话/n 订/v 普通/a 车票/n 做/v “/w 备选/nz ”/w 
+记者/nnt 体验/v 发现/vn ，/w 早上/t [8/m 点/qt]/mq 通过/p 网络/n 、/w 电话/n 、/w [手机/n 客户端/nz]/nz 订票/vn 比较/d 顺畅/a 。/w [20/m 分钟/qt]/mq 内/f ，/w 这/rzv [三/m 种/q]/mq 方式/n 都/d 买/v 到/v 了/ule 北京/ns 西/f 至/p 成都/ns 的/ude1 硬座/n 票/n 一张/mq 。/w 
+到/v 了/ule [11/m 点/qt]/mq 动车/n 车票/n 开/v 售/vn 、/w [14/m 点/qt]/mq [高铁/nz 车票/n]/nz 开/v 售/vn 时/ng ，/w 网络/n 、/w [手机/n 客户端/nz]/nz 就/d 变得/vi 卡顿/nrf 。/w [几十/m 次/qv]/mq 的/ude1 刷新/v 、/w 重新/d 登录/v ，/w 换/v 来/vf 的/ude1 可能/v 还是/c “/w 加载/v 中/f ”/w ，/w 甚至/d 会/v 出现/vn “/w 当前/t 未/d 找到/v 北京/ns 至/p 某/rz 处/n 列车/n ”/w 的/ude1 字样/n 。/w 相比/vi 来说/uls ，/w 订票/vn 电话/n 在/p 11时/t 和/cc 14时/t 拨打/v 较/d 容易/ad 。/w 旅客/n 前往/v 的/ude1 地点/n 如果/c 同时/c 有/vyou 普通/a 列车/n 和/cc 动车/n 、/w 高铁/nz ，/w 可/v 先/d 在/p 8点时/t 电话/n 预订/v [普通/a 列车/n 车票/n]/nz 作为/p 备选/nz 。/w 到/v 了/ule [11/m 点/qt]/mq 和/cc [14/m 点/qt]/mq 再/d 抢/v 动车/n 高铁/nz 票/n 。/w 
+上午/t [电话/n 订票/vn]/nz 成功/a 后/f ，/w 次日/t 12时/t 前/f 取/v 票/n 即可/v ，/w 如果/c 成功/a 订/v 到/v 了/ule 动车/n 和/cc 高铁/nz 票/n ，/w 可/v 取消/vn 电话/n 订单/n ，/w 预订/v 失败/vn 也/d 不致/d 无/v 车/n 可/v 乘/v 。/w 
+【/w 举措/n 】/w 
+西站/nis 保证/v 验票/v 口/n 不/d 超/v [7/m 人/n]/mq 
+春运/n [40/m 天/qt]/mq 内/f ，/w [北京/ns 西站/nis]/nt 预计/v 发送/vn 旅客/n [504/m 万/d 人/n]/mq （/w 日均/d [12/m ./w 6/m 万/d 人/n]/mq ）/w ，/w [同比/n 增加/v]/nz [17/m 万/d 人/n]/mq ，/w 增长/v 3.5%/m 。/w 
+[北京/ns 西站/nis]/nt 表示/v ，/w 将/d 开足/nz 开/v 齐/a 北站/nis 房/n 、/w 南/b 站/vi 房/n 和/cc 临时/b 候车/vn 区/n 共/d [124/m 个/q]/mq 验证/v 验票/v 口/n ，/w 保证/v 每个/r 验证/v 验票/v 口/n 排队/vi 旅客/n 不/d 超过/v [7/m 人/n]/mq ，/w 同时/c 开足/nz 安检/n 口/n ，/w 实现/v 旅客/n 快速/d 进站/vi 。/w 
+在/p [北京/ns 西站/nis]/nt 南/b 广场/n 建设/vn 的/ude1 临时/b 候车/vn 区/n ，/w 将/d 于/p 明天/t 投入/v 使用/vn 。/w 春运/n 期间/f ，/w [北京/ns 西站/nis]/nt 安排/v 临客/n [29/m 对/p]/mq ，/w 均/d 为/p [直通/vn 临客/n]/nz 。/w 
+北京/ns 西-成都/nrf 
+【/w 网上/s 购票/v 】/w [8/m 分钟/qt]/mq 
+不停/v 捡到/v “/w 漏/v ”/w 一/m 买/v “/w 票/n 不足/an ”/w 
+昨天/t 7时30分/t ，/w 记者/nnt 分别/d 用/p IE/x 、/w 谷歌/ntc 、/w 搜狗/gi 、/w 360/m 浏览器/n 登录/v 12306/m 网站/n ，/w 并用/vi [搜狗/gi 浏览器/n]/nz 注册/vn 了/ule 新的/a 账号/n ，/w 全程/n 顺畅/a 无/v 卡顿/nrf 。/w 在/p 北京/ns 西/f 开往/vf 成都/ns 的/ude1 车次/n 中/f ，/w 除了/p 临客/n ，/w 仅有/nz K817/x 、/w K117/x 、/w T7/x 、/w K1363/x [四/m 趟/qv]/mq 列车/n ，/w 均/d 显示/v “/w [8/m 点/qt]/mq 起/vf 售/v ”/w 。/w 
+8时2分/t ，/w 上述/b [四/m 趟/qv]/mq 列车/n 车票/n 刚刚/d 发售/v ，/w K117/x 车次/n 的/ude1 软卧/n 、/w 硬卧/n 席别/nz 已/d 显示/v “/w 无/v ”/w ，/w 剩下/v [三/m 趟/qv]/mq 车/n 的/ude1 软卧/n 余/ng 票/n 均/d 不足/an [20/m 张/q]/mq ，/w 硬卧/n 则/d 为/p “/w 有/vyou ”/w 。/w 
+选取/v K817/x 次/qv 列车/n 并/cc 点击/v “/w 预订/v ”/w 按钮/n 后/f ，/w 默认/v 席别/nz 为/p 硬座/n ，/w 填/v 完/vn 验证码/nz 、/w 确定/v 乘车/vn 人/n 信息/n 后/f ，/w 提示/v “/w 本次/r 列车/n 剩余/v 硬座/n [343/m 张/q]/mq ，/w 无/v 座/q [225/m 张/q]/mq ，/w 目前/t 排队/vi 人数/n 已/d 超过/v 余/ng 票/n 张/q 数/n ，/w 请选择/nit 其他/rzv 车次/n 。/w ”/w 再/d 选择/v 该车/r 硬卧/n ，/w 已/d 显示/v 无票/nz 。/w 
+同样/d 的/ude1 情况/n 也/d 发生/v 在/p 了/ule K117/x 、/w T7/x [两/q 车次/n]/mq 。/w 8时8分/t ，/w 记者/nnt 终于/d 抢/v 到/v 了/ule 一张/mq 22点15分/t 从/p [北京/ns 西站/nis]/nt 出发/vi ，/w 历时/vi [30/m 小时/n]/mq 到达/v 成都站/nz 的/ude1 K1363/x 次/qv 列车/n 的/ude1 硬座/n 票/n ，/w 之后/f [顺利/ad 完成/v]/nz 支付/v 。/w 
+之后/f ，/w 记者/nnt 设置/v 了/ule 乘车/vi 人/n 、/w 车次/n 、/w 席别/nz 等/udeng 信息/n ，/w 开启/v 了/ule 自动/d 查询/v ，/w 页面/n 显示/v 每/rz [5/m 秒钟/qt]/mq 刷新/v 一次/mq 。/w 
+到/v 上午/t 10时/t ，/w 系统/n 不时/d 提示/v 有/vyou 硬座/n 或/c 无/v 座/q 车票/n 被/pbei 刷/v 出/vf ，/w 页面/n 会/v 从右/nz 下角/nz 弹窗/gi 提示/v 。/w 但/c 每当/p 记者/nnt 输入/v 验证码/nz 试图/v 购买/vn 时/ng ，/w 都/d 以/p 失败/vi 告终/vi ，/w 其中/rz 包括/v 官方/n “/w 可/v 在/p 9时30分/t 捡漏/nz ”/w 的/ude1 提示/vn 时间/n 点/qt ，/w 也/d 无法/v 成功/a 购票/v ，/w 原因/n 同样/d 为/p “/w 没有/v 足够/vn 的/ude1 票/n ”/w 。/w 
+中午/t 11时/t 动车/n 放/v 票/n 时/ng ，/w 记者/nnt 再次/d 登录/v 12306/m 网站/n 。/w 虽然/c 登录/v 很/d 顺利/ad ，/w 但/c 只要/c 点击/v “/w 预订/v ”/w ，/w 网站/n 就/d 显示/v “/w 加载/v 中/f ”/w 。/w 刷新/v [十几/m 次/qv]/mq 后/f 才/d 勉强/ad 买/v 到/v 票/n ，/w 此时/r 已/d 超过/v 开票/vn 时间/n 半小时/mq 。/w 
+到/v 了/ule 高铁/nz 放/v 票/n 时/ng ，/w 各个/rz 浏览器/n 登录/v 均/d 出现/v [卡顿/nrf 现象/n]/nz ，/w 以/p IE/x 浏览器/n 速度/n 最慢/nz 。/w 
+14时2分/t ，/w 记者/nnt 查到/v 北京/ns 西-石家庄/nrf 多/a 趟/qv 车次/n 有/vyou 票/n ，/w 其中/rz G507/x 次/qv 列车/n 显示/v 二等/b 座/q 有/vyou 近/a [600/m 张/q]/mq 票/n ，/w 正/d 准备/v 预订/vn ，/w 页面/n 突然/ad 自动/d 刷新/v ，/w 并/cc 提示/v “/w 按/p 您/rr 的/ude1 查询/vn 条件/n ，/w 当前/t 未/d 找到/v 北京/ns 到/v 石家庄/ns 的/ude1 列车/n 。/w ”/w 
+之后/f ，/w 记者/nnt 刷新/v 了/ule [十/m 多次/mq]/mq 仍/d 无法/v 继续/v 查询/vn 。/w 查询/v 预订/vn 成功/a 后/f ，/w 验证码/nz 又/d 一直/d 处于/v 加载/v 中/f ，/w 14时20分/t 左右/f ，/w 该车/r 次/qv 已/d 无票/nz 。/w 
+【/w 经验/n 】/w 
+抢/v 票/n 当天/t ，/w 旅客/n 可/v 提前/vn 登录/v ，/w 记住/v 账号/n 和/cc 密码/n ，/w 同时/c 确保/v 选择/vn 的/ude1 浏览器/n 已/d 安装/v 相应/vn 的/ude1 网银/n 插件/gi 。/w 抢/v 票/n 时/ng ，/w 可/v 同时/c 打开/v 两个/mq 以上/f 浏览器/n ，/w 一个/mq 查/v 订票/vn ，/w 一个/mq 不断/d 刷新/v [个人/n 信息/n]/nz 页面/n ，/w 这样/rzv 如果/c 卡/n 在/p 订票/vn 页面/n ，/w 可以/v 通过/p 另一个/mq 浏览器/n 找到/v “/w 未完成/nz 订单/n ”/w ，/w 赶/v 在/p [45/m 分钟/qt]/mq 内/f 完成/v 支付/vn 。/w 
+此外/c ，/w 可巧/d 用/p 今年/t 新增/v 的/ude1 “/w 自动/d 查询/v ”/w 功能/n ，/w 在/p “/w 高级/a 设置/v ”/w 一/m 栏/n 选取/v “/w 自动/d 提交/v ”/w 后/f ，/w 刷/v 出票/v 后/f 会/v 直接/ad 弹出/vf 输入/v 验证码/nz 的/ude1 对话框/n 。/w 一旦/d 有/vyou 票/n ，/w 可/v 直接/ad 输入/v 验证码/nz 购买/v 。/w 
+【/w [电话/n 订票/vn]/nz 】/w [17/m 分钟/qt]/mq 
+拨打/v [6/m 次/qv]/mq 就/d 抢/v 到/v 硬座/n 
+昨日/t ，/w 记者/nnt 尝试/v 电话/n 预订/v 1月28日/t 北京/ns 到/v 成都/ns [图/n 定/v 列车/n]/nz 车票/n ，/w 成功/a 订/v 到/v 一张/mq 北京/ns 西/f 到/v 成都/ns K817/x 次/qv 列车/n 硬座/n 车票/n ，/w 订单号/nz 为/p ：/w 1032812032/m 。/w 同时/c 还/d 订/v 到/v 一张/mq 北京/ns 西/f 到/v 成都/ns T7/x 次/qv 无/v 座/q 车票/n 一张/mq 。/w 
+记者/nnt 提前/vd 拨打/v 了/ule 95105105/m 电话/n ，/w 熟悉/v 了/ule 订票/vn 流程/n ，/w 并/cc 记录/v 在/p 纸/n 上/f 。/w 并/cc 提前/vd 查询/v 了/ule 北京/ns 到/v 成都/ns 的/ude1 各个/rz 车次/n ，/w 席别/nz ，/w 与/cc 记者/nnt 本人/rr 的/ude1 [身份/n 证件/n]/nz 号码/n 一起/s 写/v 在/p 了/ule 纸/n 上/f ，/w 便于/v 订票/vn 时/ng 输入/v 。/w 
+由于/p [北京/ns 西站/nis]/nt 始发/vn 的/ude1 列车/n 车票/n 的/ude1 起/vf 售/v 时间/n 为/p 早上/t [8/m 点/qt]/mq ，/w 记者/nnt 7点50分/t 打算/v 提前/vn 拨打/v 95105105时/t 发现/v 已经/d 占/v 线/n 打/v 不/d 进去/vf 了/ule 。/w 
+于是/cc ，/w 记者/nnt 挨个/d 打/v 了/ule 河北/ns 各/rz 城市/n 的/ude1 区号/n +/w 95105105/m ，/w 石家庄市/ns （/w 0311/m ）/w 的/ude1 区号/n 占/v 线/n ，/w 记者/nnt 又/d 尝试/v 唐山市/ns （/w 0315/m ）/w 、/w 保定市/ns （/w 0312/m ）/w 、/w 邯郸市/ns （/w 0310/m ）/w 的/ude1 区号/n ，/w 终于/d 拨通/v 张家口/ns （/w 0313/m ）/w 区号/n 。/w 此时/r 的/ude1 时间/n 为/p 8点2分/t ，/w 记者/nnt 按/p 流程/n 订票/vn ，/w 硬卧/n 已/d 无票/nz 了/ule ，/w 成功/a 订/v 了/ule 一张/mq K817/x 次/qv 的/ude1 硬座/n 。/w 
+8点7分/t ，/w 记者/nnt 挂掉/nz 电话/n ，/w 接着/c 拨打/v 0313—95105105/m ，/w 想/v 订/v 一张/mq T7/x 次/qv 的/ude1 硬座/n 或/c 硬卧/n ，/w 但是/c 此时/r 只剩/v 无/v 座票/n 。/w 8点9分/t ，/w 记者/nnt 拨打/v 010—95105105/m ，/w 电话/n 仍然/d 处于/v 占/v 线/n 状态/n 。/w 10点时/t ，/w 记者/nnt 再次/d 尝试/v 拨打/v 010—95105105/m ，/w [电话/n 占/v 线/n]/nz 。/w 
+[14/m 点/qt]/mq ，/w [高铁/nz 车票/n]/nz 开/v 售/vn ，/w 记者/nnt 分别/d 于/p 14时10分/t 、/w 14时15分/t 拨打/v 010—95105105/m ，/w 都/d 是/vshi [一/d 打/v]/mq 就/d 通/v 。/w 
+【/w 经验/n 】/w 
+记者/nnt 总结/v 订票/vn 成功/a 经验/n ，/w 首先/d ，/w 拨打/v 电话/n 前/f 熟悉/v 订票/vn 流程/n 和/cc 记录/v 必要/a 输入/v 信息/n 不可/v 少/a ；/w 第二/m ，/w 电话/n 接通/v 后/f ，/w 会/v 有一个/mq 自动/d 语音/n 播发/v [铁路/n 部门/n]/nz 提醒/v ，/w 按/p 任何/rz 一个/mq 数字键/nz ，/w 将/d 这段/r 话/n 跳过/v ，/w [节省/v 时间/n]/nz ；/w 第三/m ，/w 把/pba [北京/ns 铁路局/nis]/nto 管辖/v 的/ude1 地区/n 区号/n 收集/v 全/a ，/w 遇到/v 一个/mq 忙/v 线/n ，/w 立即/d 换/v 一个/mq 区号/n 接着/c 打/v 。/w 
+【/w [手机/n 客户端/nz]/nz 】/w [9/m 分钟/qt]/mq 
+连/ulian 改/v [三/m 趟/qv]/mq 车次/n 才/d 买/v 到/v 
+今年/t 春运/n ，/w [铁路/n 部门/n]/nz 推出/v 官方/n [手机/n 购票/v]/nz 客户端/nz “/w 铁路/n 12306/m ”/w 。/w 昨日/t 7时25分/t ，/w 记者/nnt 登录/v 客户端/nz ，/w 查询/v 1月27日/t 北京/ns 西/f 至/p 成都/ns 的/ude1 车票/n ，/w 显示/v 共有/v [9/m 趟/qv]/mq 列车/n ，/w [5/m 趟/qv]/mq L/x 字头/n 、/w [4/m 趟/qv]/mq [图/n 定/v 列车/n]/nz 。/w 其中/rz [3/m 趟/qv]/mq [临客/n 列车/n]/nz 显示/v “/w 硬座/n 有/vyou 票/n ”/w ，/w 其他/rzv [列车/n 车次/n]/nz 下方/f 显示/v “/w [8/m 点/qt]/mq 起/vf 售/v ”/w 。/w 全过程/n 较/d 顺畅/a ，/w 无/v 卡顿/nrf 情况/n 发生/v 。/w 
+7时59分/t 起/vf ，/w 记者/nnt 不断/d 点击/v “/w 查询/v ”/w ，/w 点击/v [22/m 次/qv]/mq 后/f ，/w “/w [8/m 点/qt]/mq 起/vf 售/v ”/w 字样/n 才/d 消失/vi 。/w 随后/d ，/w 记者/nnt 选择/v 了/ule 最快/d 的/ude1 T7/x 次/qv 。/w 迅速/ad “/w 提交/v 订单/n ”/w 后/f ，/w 被/pbei 告知/v “/w 目前/t 排队/vi 人数/n 已经/d 超过/v 余/ng 票/n 张/q 数/n ，/w 请选择/nit 其他/rzv 席别/nz 或/c 车次/n ”/w 。/w 之后/f 预订/v K817/x 次/qv 遇上/v 同样/d 的/ude1 问题/n 。/w 
+8时8分/t ，/w 记者/nnt 选择/v 预订/vn K117/x 次/qv 列车/n 。/w 提交/v 订单/n 后/f ，/w 系统/n 提示/v 排队/vn [3/m 秒钟/qt]/mq ，/w [3/m 秒钟/qt]/mq 后/f ，/w 希望/v 破灭/vn ，/w “/w 出票/v 失败/vn ，/w 没有/v 足够/vn 的/ude1 票/n ”/w 。/w 这时/rzt 只/d 剩下/v K1363/x 次/qv 。/w 8时9分/t ，/w 记者/nnt 顺利/ad 提交/v 订单/n ，/w 完成/v 支付/vn ，/w 订/v 到/v 一张/mq 硬座/n 票/n 。/w 
+8时14分/t ，/w K117/x 、/w T7/x 所有/b 席别/nz 均/d 售罄/nz 。/w 8时36分/t ，/w 所有/b 车次/n 只剩/v K1363/x 次/qv 有/vyou 硬座/n 票/n 一张/mq 。/w 
+到/v 了/ule 11时/t 、/w 14时/t 预订/v 动车/n 和/cc [高铁/nz 车票/n]/nz 时/ng ，/w 客户端/nz 就/d 显得/v 不/d 给/p 力/n 了/ule 。/w 11时/t ，/w 记者/nnt 尝试/v 预订/vn 27日/t 北京/ns 到/v 大连/ns 的/ude1 动/vn 车票/n ，/w 一直/d 无法/v 加载/v 成功/a 。/w 14时/t 预订/v 27日/t 北京/ns 至/p 石家庄/ns ，/w 显示/v 多/a 趟/qv 车次/n 有/vyou 票/n ，/w 但/c 只要/c 点击/v 预订/vn ，/w 就/d 易/ad 弹出/vf “/w 网络/n 有/vyou 问题/n ”/w 。/w 
+此外/c ，/w 昨天/t 起/vf 增加/v 了/ule 9时30分/t 等/udeng [6/m 个/q]/mq 放/v 票/n 节点/n ，/w 但/c 9时30分/t 、/w 10时30分/t 、/w 14时30分/t ，/w 记者/nnt 分别/d 查询/v 北京/ns 至/p 成都/ns 的/ude1 车票/n ，/w 未/d 发现/v 有余/vi 票/n 。/w 
+【/w 经验/n 】/w 
+使用/v [手机/n 客户端/nz]/nz 订票/vn 时/ng ，/w 应/v 先/d 看看/v 自己/rr 下载/v 的/ude1 客户端/nz 是不是/v 官方/n 的/ude1 。/w 昨日/t 凌晨/t ，/w 记者/nnt 在/p [苹果/nf 应用/vn 商店/nis]/nt 下载/v “/w 12306/m ”/w 购票/v 客户端/nz ，/w 搜索/vn 后/f 弹出/vf 一个/mq 名为/v “/w 高铁/nz 管家/nnt -/w 12306/m 火车票/n 预订/v ”/w 的/ude1 APP/x ，/w 官方/n 的/ude1 客户端/nz 列/v 其后/f 。/w 使用/v “/w 山寨/n ”/w 客户端/nz ，/w 不但/c 不能/v 及时/ad 抢/v 到/v 票/n ，/w 而且/c 可能/v 导致/v [财产/n 损失/n]/nz 。/w 
+【/w 窗口/s 、/w 代售/vn 点/qt 】/w 能/v 买/v 到/v 
+务工人员/nnd 买票/nz 居多/vi 
+记者/nnt 了解到/v ，/w 在/p [北京/ns 西站/nis]/nt ，/w 许多/mq 清晨/t 便/d 前来/vi 排队/vi 买票/nz 的/ude1 人均/a 为/p 在/p 京/b 务工人员/nnd ，/w 不会/v [网上/s 订票/vn]/nz 和/cc [电话/n 订票/vn]/nz 成/v 主因/n 。/w 代售/vn 点/qt 并未/d 出现/v 早上/t 排队/vi 买票/nz 现象/n 。/w 
+昨日/t 早上/t [7/m 点/qt]/mq ，/w 在/p [北京/ns 西站/nis]/nt 南/b 1/m 售票处/n ，/w 广播/vn 里/f 放/v 着/uzhe [工作/vn 人员/n]/nnt 的/ude1 提醒/vn ：/w 如果/c 电话/n 和/cc 网络/n 上/f 订票/vn 没有/v 剩余/vn ，/w 车站/n 也/d 就/d 没有/v 余/ng 票/n 。/w 记者/nnt 看到/v ，/w 在/p 售票/vn 大厅/n 内/f ，/w 排队/vi 的/ude1 人/n 并不/d 多/a 。/w [16/m 个/q]/mq 窗口/s 全部/m 对外/vn 工作/vn ，/w 每个/r 窗口/s 外/f 约/d [六/m 七/m 人/n]/mq 在/p 排队/vi 。/w 
+排/v 了/ule [10/m 分钟/qt]/mq 后/f ，/w 记者/nnt 在/p 一/m 窗口/s 询问/v 从/p 北京/ns 到/v 成都/ns 的/ude1 车票/n 情况/n 。/w 据/p [工作/vn 人员/n]/nnt 介绍/v ，/w 这/rzv 几天/mq 的/ude1 临客/n 火车/n 均/d 在/p 凌晨/t 始发/vn ，/w 从/p 26日/t 到/v 29日/t 的/ude1 临客/n 车次/n 均/d 有/vyou 硬座/n 可/v 购买/vn ，/w 但/c 部分/n 车次/n 的/ude1 硬卧/n 票/n 已经/d 售罄/nz 或/c 列车/n 未设/nz 卧铺/n 。/w 
+记者/nnt 了解到/v ，/w 在/p [北京/ns 西站/nis]/nt ，/w 许多/mq 清晨/t 便/d 前来/vi 排队/vi 买票/nz 的/ude1 人均/a 为/p 在/p 京/b 务工人员/nnd 。/w “/w 不会/v [网上/s 支付/v]/nz ”/w 、/w “/w 不/d 知道/v 电话/n 咋/ryv 订/v ”/w 、/w “/w 网上/s 抢/v 不到/v ，/w 去/vf 碰碰/v 运气/n ”/w 等/udeng 成/v 了/ule [主要/b 原因/n]/nz 。/w 此外/c ，/w 许多/mq 前往/v 售票厅/n 的/ude1 乘客/n 是/vshi 为/p 购买/v 近期/t 短途/b 或/c 非/b 热门/a 路线/n 的/ude1 车票/n 。/w 
+记者/nnt 来到/v 代售/vn 点/qt 进行/vn 探访/v 。/w 早上/t [7/m 点/qt]/mq 半/m ，/w 记者/nnt 来到/v 位于/v 天通苑/nz 东区/ns 的/ude1 一/m 售票点/n ，/w 等待/v [8/m 点/qt]/mq 上班/vi 后/f 购买/v 27日/t 北京/ns 西/f 发往/vf 成都/ns 的/ude1 列车/n 车票/n 。/w 在/p 这个/rz 售票点/n ，/w 并/cc 没有/v 出现/vn 一大/n 早就/d 排队/vi 买票/nz 的/ude1 情况/n ，/w [工作/vn 人员/n]/nnt 说/v ，/w 今年/t [很多/m 人/n]/mq 都/d 是/vshi 通过/p 电话/n 和/cc 网络/n 订票/vn ，/w 来/vf 这里/rzs 的/ude1 人大/nis 部分/n 是/vshi 为了/p 取/v 票/n 。/w 
+早上/t [8/m 点/qt]/mq ，/w [工作/vn 人员/n]/nnt 通过/p 系统/n 查询/v ，/w 27日/t 北京/ns 西/f 发往/vf 成都/ns 的/ude1 列车/n ，/w 有/vyou [三/m 趟/qv]/mq 车/n 可以/v 买/v 到/v 硬座/n 车票/n ，/w 分别为/v L33/x 、/w L393/x 、/w L17/x 。/w 
+【/w 经验/n 】/w 
+由于/p 窗口/s 预售/vn 期/qv 比/p 网上/s 和/cc 电话/n 渠道/n 预售/vn 期/qv 要/v 晚/tg 两天/mq ，/w 如果/c 电话/n 和/cc 网络/n 上/f 订票/vn 没有/v 剩余/vn ，/w 车站/n 也/d 就/d 没有/v 余/ng 票/n 了/ule ，/w 但是/c 或许/d 可以/v 买/v 到/v 部分/n 临客/n 座票/n 。/w 
+此外/c ，/w 西站/nis 大部分/n 自助/b 售/v （/w 取/v ）/w 票/n 机/ng 可以/v 使用/vn 银行卡/nz 交易/vn ，/w 但/c 北/f 售票厅/n 中/f 的/ude1 [12/m 台/q]/mq 机器/n 只能/v 用/p 现金/n 支付/v 。/w 
+A12/x -/w [13/m 版/n]/mq 采写/v //w 新京报/nz 黄颖/nr 刘春瑞/nr 杨锋/nr 李丹丹/nr 闫欣雨/nr 

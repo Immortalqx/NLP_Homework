@@ -1,0 +1,19 @@
+昨天/t ，/w 我国/n “/w 玉兔/n ”/w 号/q 月球车/n 启动/v 唤醒/v 电路/n ，/w 在/p 月球/n 上/f 沉睡/vi 了/ule 14/m 天后/nz 重新/d 恢复/v 工作/vn 。/w 由于/p 太阳/n 夹角/n 、/w 测控/vn 弧度/n 的/ude1 不同/a ，/w [嫦娥/n 三/m 号/q]/nz 着陆器/nz 将/d 在/p 今晚/t 被/pbei 唤醒/v 。/w 
+[嫦娥/n 三/m 号/q]/nz 巡视/v 器/ng 总体/n 主任/nnt 设计师/nnt 申振荣/nr 
+解读/v 
+★/w 玉兔/n 号/q 
+自主/vd 唤醒/v 再/d 上/f 路/n 
+申振荣/nr 表示/v ，/w 玉兔/n 号/q 月球车/n 利用/v 核能/n 电源/n 对/p 舱/n 内/f 设备/n 进行/vn 保温/a ，/w 抵御/v 零下/s [180/m 摄氏度/q]/mq 的/ude1 严寒/an ，/w 最大/gm 的/ude1 难点/n 就是/v 玉兔/n 号/q 的/ude1 “/w 自主/vd 唤醒/v ”/w ：/w 
+一般/ad 航天器/n 在/p 运行/vn 过程/n 中/f 都/d 是/vshi 带着/vn 电/n 的/ude1 ，/w 此前/t 电力/n 已/d 切断/v ，/w 目前/t 难点/n 就是/v 月/n 昼/tg 以后/f 重新/d 通电/vi ，/w 为此/bl 设计/vn 了/ule 一个/mq 自主/vd 唤醒/v 的/ude1 电路/n 。/w 
+整个/b 过/uguo 月夜/n 期间/f 没有/v 遥测/vn ，/w 也/d 就是/v 无法/v 监测/vn 到/v 探测器/n 的/ude1 状态/n ，/w 只有/c 当/p 太阳翼/nz 在/p 接收/v 到/v 太阳光/nz 以后/f ，/w 整个/b 探测器/n 自主/vd 上/f 电/n 以后/f ，/w 恢复/v 跟/p 地面/n 的/ude1 联系/vn ，/w 才能/n 知道/v 探测器/n 的/ude1 状态/n 。/w 
+一旦/d 恢复/v [工作/vn 状态/n]/nz ，/w 玉兔/n 号/q 月球车/n 的/ude1 任务/n 仍然/d 是/vshi 查看/v 月/n 表/n 地形地貌/gg 等/udeng 。/w 玉兔/n 号/q 月球车/n 的/ude1 [设计/vn 寿命/n]/nz 是/vshi 三个月/t ，/w 这/rzv 意味着/v ，/w 它/rr 在/p 月球/n 至少/d 要/v 经历/n [三/m 次/qv]/mq 月夜/n 休眠/vn 和/cc 再/d 唤醒/v 。/w 
+★/w 天地/n 链路/gi 
+开展/v 新/a 一轮/mq 探测/vn 
+申振荣/nr 谈到/v ，/w 地面/n 的/ude1 接收站/nis 应该/v 是/vshi 要/v 打开/v [接收/v 天线/n]/nz ，/w 然后/c 接收/v 探测器/n 从/p 月/n 面发/nz 回来/v 的/ude1 信号/n ，/w 一旦/d 接收/v 到/v 以后/f ，/w 就/d 可以/v 对/p 探测器/n 进行/vn 控制/vn ，/w 有/vyou 信号/n 以后/f 就是/v 天地/n 链路/gi 建立/v 起来/vf 以后/f 就/d 可以/v 按/p 预定/vn 的/ude1 程序/n 往后/t 继续/v 工作/vn 。/w 
+唤醒/v 后/f 的/ude1 着陆器/nz ，/w 也/d 将/d 重新/d 投入/v 到/v 科研/n 观测/v 任务/n 中/f 。/w 按照/p 计划/n ，/w 固定不动/gp 的/ude1 着陆器/nz 将/d 利用/v 月球/n 没有/v 大气/n 的/ude1 [有利/a 条件/n]/nz ，/w 从/p 月球/n 上/f 对/p 天体/n 进行/vn [天文/n 观测/vn]/nz ，/w 并/cc 对/p 地球/ns 进行/vn 极紫外/gp 观测/vn 。/w 
+着陆器/nz 主要/b 需/v 对/p 一些/mq 科学/n 载荷/n 进行/vn 加/v 电/n ，/w 然后/c 再/d 利用/v 着陆器/nz 的/ude1 月/n 基/ng [光学/n 望远镜/n]/nz 还有/v 极紫外/gp 相机/n 观测/vn ，/w 其中/rz 极紫外/gp 相机/n 主要/b 是/vshi 对/p 地球/ns 进行/vn 观测/vn ，/w 月/n 基/ng [光学/n 望远镜/n]/nz 是/vshi 对/p 天/qt 区/n 进行/vn 观测/v 巡天/nz 。/w 
+[嫦娥/n 三/m 号/q]/nz 探测器/n 系统/n 副总/nnt 设计师/nnt 张玉花/nr 
+★/w [嫦娥/n 三/m 号/q]/nz 
+预计/v 今晚/t 被/pbei 唤醒/v 
+张玉花/nr 介绍/v ，/w [嫦娥/n 三/m 号/q]/nz 关键/n 的/ude1 “/w 唤醒/v 电路/n ”/w ，/w 作用/n 是/vshi 当/p 阳光/n 再次/d 照射/v 到/v [嫦娥/n 三/m 号/q]/nz [太阳能/n 电池/n 板/ng]/nz ，/w 蓄电池/n 产生/v 的/ude1 一定/b 功率/n 后/f ，/w 就/d 像/v 生物钟/n 一样/uyy ，/w 能够/v 保证/vn “/w 玉兔/n ”/w 准时/ad 醒/v 过来/vf 。/w [太阳/n 升起/v]/nz 来/vf 能照/nz 到/v 的/ude1 地方/n ，/w “/w 玉兔/n ”/w 认为/v 这/rzv 点/qt 电量/n 可以/v 起来/vf 工作/vn ，/w 那/rzv 它/rr 就/d 通过/p 唤醒/v 电路/n 把/pba 自己/rr 唤醒/v ，/w 把/pba 电池/n 接通/v ，/w 重新/d 活动/vn 。/w 
+因为/c 太阳/n 夹角/n 和/cc 测控/vn 弧度/n 的/ude1 不同/a ，/w [嫦娥/n 三/m 号/q]/nz 着陆器/nz 将/d 在/p 今晚/t 才/d 被/pbei 唤醒/v 。/w 由于/p 着陆器/nz 的/ude1 唤醒/v 时间/n 和/cc 地面/n 测控/vn 弧度/n 处在/v 同一/b 时段/n ，/w 因此/c 唤醒/v 后/f 较短/d 时间/n 就/d 可以/v 进行/vn 地面/n 测控/vn 。/w 唤醒/v 的/ude1 基本/a 过程/n 和/cc 玉兔/n 号/q 相似/a ，/w 对/p 各/rz 系统/n 进行/vn 加/v 电/n ，/w 恢复/v 状态/n 和/cc 功能/n 。/w 

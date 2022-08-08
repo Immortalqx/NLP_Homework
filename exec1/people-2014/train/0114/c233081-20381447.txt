@@ -1,0 +1,7 @@
+1/m 、/w 急诊/n [24/m 小时/n]/mq 接诊/v 病人/n 。/w 
+2/m 、/w 内科/nit 、/w 中医科/nit 、/w 神经内科/nit ：/w 1月31日/t 至/p 2月6日/t （/w 初一/n 至/p 初七/t ）/w 门诊/nis 全天/n 应诊/vi ，/w 专业/n 门诊/nis 以/p 当日/t 为准/v 。/w 
+3/m 、/w 外科/nit ：/w 1月31日/t 至/p 2月6日/t （/w 初一/n 至/p 初七/t ）/w [普通/a 门诊/nis]/nz 全天/n 应诊/vi ，/w 专家/nnt 上午/t [半日/m 门/n]/mq 
+诊/vg 。/w 专业/n 门诊/nis 以/p 当日/t 为准/v 。/w 
+4/m 、/w 耳鼻喉/nz 、/w 眼科/nit 、/w 口腔/n 、/w 皮肤科/nit ：/w 1月31日/t -/w 2月6日/t （/w 初一/n 至/p 初七/t ）/w 全天/n 门诊/nis 。/w 
+5/m 、/w 小儿妇科/nit ：/w 1月31日/t （/w 初一/n ）/w 上午/t 半天/mq 门诊/nis 、/w 2月1日/t 、/w 2日/t （/w 初二/n 、/w 初三/n ）/w 停诊/nz 、/w 2月3日/t （/w 初四/t ）/w 上午/t 半日/m 门诊/nis 、/w 2月4日/t 至/p 2月6日/t （/w 初五/t 至/p 初七/t ）/w 全天/n 门诊/nis 。/w 
+6/m 、/w 检验/vn 、/w 放射/v 、/w CT/x 、/w 核磁/nz 、/w B/x 超/v 等/udeng 功能/n 检查/v 科室/n 节日/n 照常/vd 工作/vn 。/w 

@@ -1,0 +1,8 @@
+[辽宁/ns 海事局/nis]/nto 今日/t 发布/v 航行/vn 警告/vn 。/w 
+[辽宁/ns 海事局/nis]/nto 今日/t 发布/v 航行/vn 警告/vn 称/v ，/w 1月10日10时/t 至/p 15时/t ，/w 解放军/nnd 将/d 于/p 渤海/ns 北部/f 相关/vn 水域/n 进行/vn 导弹/n 打靶/vi 。/w 禁止/v 其他/rzv 船只/n 驶入/v 。/w （/w 张洁娴/nr ）/w 
+以下/f 为/p 连线/v 划定/vn 相关/vn 水域/n 的/ude1 坐标/n 点/qt ：/w 
+1.40-48/m ./w 2/m N121/x -/w [58/m ./w 0/m E/x]/mq 
+2.40-34/m ./w 7/m N121/x -/w [52/m ./w 5/m E/x]/mq 
+3.40-22/m ./w 4/m N121/x -/w [38/m ./w 5/m E/x]/mq 
+4.40-29/m ./w 0/m N121/x -/w [27/m ./w 3/m E/x]/mq 
+5.40-41/m ./w 4/m N121/x -/w [41/m ./w 0/m E/x]/mq 

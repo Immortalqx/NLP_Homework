@@ -1,0 +1,47 @@
+[海南省/ns 政府/nis 采购/vn 中心/nis]/nt 关于/p [海口市/ns 人民/n 医院/nis]/nth [医疗/n 设备/n]/nz [招标/vn 公告/n]/nz 
+[海南省/ns 政府/nis 采购/vn 中心/nis]/nt （/w 以下/f 简称/v “/w 采购中心/nis ”/w ）/w 受/v [海口市/ns 人民/n 医院/nis]/nth （/w 以下/f 简称/v “/w 采购/v 人/n ”/w ）/w 的/ude1 委托/vn ，/w 就/d 以下/f 采购/v 项目/n （/w [项目/n 编号/n]/nz ：/w HNGP2013/x -/w [009195/m R/x]/mq ）/w 所需/nz 的/ude1 货物/n 及/cc 相关/vn 服务/vn ，/w 组织/n 公开招标/v ，/w 欢迎/v 合格/vn 的/ude1 国内/s 投标人/n 提交/v [密封/vn 投标/vn]/nz 。/w 有关/v 事项/n 如下/vi ：/w 
+一/m 、/w [招标/vn 项目/n]/nz 的/ude1 名称/n 、/w 内容/n 、/w 数量/n 、/w 简要/ad 技术/n 要求/n 或者/c [招标/vn 项目/n]/nz 的/ude1 性质/n 
+1/m 、/w 名称/n ：/w [海口市/ns 人民/n 医院/nis]/nth [医疗/n 设备/n]/nz 
+2/m 、/w 用途/n ：/w 临床/vn 使用/v 
+3/m 、/w 数量/n ：/w 
+序号/n 
+货物/n 名称/n 
+数量/n 
+包/v 号/q 
+2/m 
+[冷冻/vn 切片机/nz]/nz 
+[1/m 套/q]/mq 
+B/x 包/v 
+4/m 、/w 简要/ad 技术/n 要求/n 或/c [招标/vn 项目/n]/nz 的/ude1 性质/n ：/w “/w 详见/nz 用户/n 需求/n 书/n ”/w 
+二/m 、/w 投标人/n 资格/n 要求/n （/w 投标人/n 必须/d 具备/v 以下/f 条件/n 并/cc 出具/v 相关/vn 有效/a 证明/v 资料/n ）/w 
+1/m 、/w 必须/d 提供/v 工商/n [营业执照/n 副本/n]/nz 、/w [税务/n 登记证/n]/nz 副本/n 、/w [组织/n 机构/n 代码证/nz]/nz 和/cc [医疗/n 器械/n 经营/vn 企业/n 许可证/n]/nz 复印件/n （/w 加盖/nrf 公章/n 、/w 原件/n 备查/vi ）/w 。/w 
+2/m 、/w 必须/d 提供/v 2013年/t 任意/d 2个月/t 的/ude1 税收/n 、/w 社保/vn 记录/v 凭证/n （/w 加盖/nrf 公章/n ）/w 。/w 
+3/m 、/w 必须/d 提供/v 2013年/t 任意/d 2个月/t 的/ude1 [财务/n 报表/n]/nz （/w [资产/n 负债表/n]/nz 、/w 损益表/nz ）/w ；/w 
+4/m 、/w 必须/d 提供/v 参加/v [政府/nis 采购/vn]/nz 活动/vn 前/f 三年/t 内/f ，/w 在/p [经营/vn 活动/vn]/nz 中/f 没有/v 重大/a 违法/vn 记录/v 的/ude1 声明/n 函/n （/w 加盖/nrf 公章/n ）/w 。/w 
+5/m 、/w 如/v 投标人/n 为/p 代理商/nnd ，/w 须/d 提供/v 所/usuo 投/v 货物/n 生产/v 厂家/n 出具/v 的/ude1 授权/vn 证书/n 。/w 
+6/m 、/w 所/usuo 投/v 设备/n 纳入/v [医疗/n 器械/n]/nz 管理/vn 的/ude1 须/d 具有/v [医疗/n 器械/n 产品/n 注册证/n]/nz ，/w 生产/v 制造商/nnd 应/v 具有/v [医疗/n 器械/n 生产/vn 许可证/n]/nz 。/w 
+7/m 、/w 符合/v 法律/n 、/w [行政/n 法规/n]/nz 规定/n 的/ude1 其他/rzv 条件/n 。/w 
+8/m 、/w 必须/d 在/p 本/rz 中心/nis 报名/vi 并/cc 购买/v [招标/vn 文件/n]/nz 参加/v 本/rz 项目/n 投标/vn 。/w 
+三/m 、/w 获取/v [招标/vn 文件/n]/nz 的/ude1 时间/n 、/w 地点/n 、/w 方式/n 及/cc [招标/vn 文件/n]/nz 售价/n 
+1/m 、/w 获取/v [招标/vn 文件/n]/nz 时间/n ：/w 2014年1月14日/t 至/p 2014年1月20日/t 下午/t 17：30/m （/w 节假日/t 除外/vi ）/w 
+2/m 、/w 获取/v [招标/vn 文件/n]/nz 地点/n ：/w 海口市/ns 华海路/nr [3/m 号/q]/mq 安海/nz 大厦/n [7/m 楼/n]/mq ，/w [海南省/ns 政府/nis 采购/vn 中心/nis]/nt 综合部/nit 
+3/m 、/w 获取/v [招标/vn 文件/n]/nz 方式/n ：/w 直接/ad 报名/vi 购买/v 或/c 邮购/vn （/w 购买/v [招标/vn 文件/n]/nz 时/ng 须/d 出示/v 营业执照/n 复印件/n 。/w 邮购/v 汇款/n 购买/v 须知/n ：/w 请/v 将/d 所/usuo 须/d 购买/v [采购/vn 文件/n]/nz 的/ude1 项目/n 名称/n 、/w [项目/n 编号/n]/nz 、/w 投标/vn [单位/n 名称/n]/nz 、/w 联系人/n 姓名/n 及/cc [联系/v 电话/n]/nz 、/w [电子/n 邮箱/n]/nz 详细/a 列明/nz ，/w 并/cc 同/p 汇款/n 底/f 单/b 一起/s 传真/n 至/p 我/rr 中心/nis 0898-66529846/m 。/w 若/c 需/v 邮寄/vn [采购/vn 文件/n]/nz ，/w 请/v 加付/nz 邮寄费/n [50/m 元/q]/mq ）/w 。/w 
+4/m 、/w [招标/vn 文件/n]/nz 售价/n ：/w 人民币/n [100/m 元/q]/mq //w 套/q （/w 售后/vi 不/d 退/v ）/w 。/w 
+5/m 、/w 获取/v [招标/vn 文件/n]/nz 联系人/n ：/w 林/ng 小姐/n ，/w [联系/v 电话/n]/nz ：/w 0898-66529829/m 
+四/m 、/w 投标/vn [截止/vi 时间/n]/nz 、/w 开标/vi 时间/n 及/cc 地点/n 
+1/m 、/w 递交/v [投标/vn 文件/n]/nz 时间/n ：/w 2014年2月11日/t 上午/t 8:30/m -/w 9:30/m （/w [北京/ns 时间/n]/nz ）/w 
+2/m 、/w 投标/vn [截止/vi 时间/n]/nz ：/w 2014年2月11日/t 上午/t 9:30/m （/w [北京/ns 时间/n]/nz ）/w 
+3/m 、/w 开标/vi 时间/n ：/w 2014年2月11日/t 上午/t 9:30/m （/w [北京/ns 时间/n]/nz ）/w 
+4/m 、/w 开标/vi 地点/n ：/w 海口市/ns 华海路/nr [3/m 号/q]/mq 安海/nz 大厦/n [7/m 楼/n]/mq ，/w [海南省/ns 政府/nis 采购/vn 中心/nis]/nt 开标/vi 大厅/n 
+五/m 、/w [集中/v 采购/vn 机构/n]/nz 的/ude1 名称/n 、/w 地址/n 和/cc [联系/v 方式/n]/nz 
+1/m 、/w [集中/v 采购/vn 机构/n]/nz 名称/n ：/w [海南省/ns 政府/nis 采购/vn 中心/nis]/nt 
+采购中心/nis 地点/n ：/w 海口市/ns 华海路/nr [3/m 号/q]/mq 安海/nz 大厦/n 七楼/nz 
+采购/v 信息/n 及/cc 采购/v 结果/n 请/v 查询/vn ：/w 
+2/m 、/w 采购中心/nis 帐户/n 名称/n ：/w [海南省/ns 政府/nis 采购/vn 中心/nis]/nt 
+[开户/vn 银行/nis]/nz ：/w [中国/ns 农业/n 银行/nis]/ntcb 海口市/ns 华海/nr 支行/n 
+帐号/n ：/w 21107001040015828/m 
+财务部/nis 联系人/n ：/w 孙/ng 先生/n 、/w 李/ng 女士/n ，/w 电话/n ：/w 0898-66529833/m 、/w 32/m 
+六/m 、/w 采购/v 项目/n 联系人/n 姓名/n 和/cc 电话/n 
+采购/v 项目/n 联系人/n 姓名/n ：/w 毛/n 女士/n 
+采购/v 项目/n 联系人/n 电话/n ：/w 0898-66529820/m 
+传真/n ：/w 0898-66529846/m 

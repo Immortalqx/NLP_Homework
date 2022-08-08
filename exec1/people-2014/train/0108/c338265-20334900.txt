@@ -1,0 +1,12 @@
+央行/n 近日/t 公布/v 2014年/t 人民银行/nis [支付/v 清算/vn 系统/n]/nz 运行/vn 维护/v 安排/vn ，/w 其中/rz [春节/t 期间/f]/nz [支付/v 清算/vn 系统/n]/nz 将/d 停运/nz [1/m 次/qv]/mq 。/w 
+2014年/t [春节/t 期间/f]/nz ，/w [支付/v 清算/vn 系统/n]/nz 将/d 停运/nz [1/m 次/qv]/mq ，/w 具体/a 时间/n 为/p 1月30日16时/t 至/p 2月2日18时30分/t ，/w 暂停/v 运行/vn [小额/b 支付/v 系统/n]/nz 、/w [网上/s 支付/v 跨行/nz 清算/vn 系统/n]/nz 和/cc [全国/n 支票/n 影像/n 交换/v 系统/n]/nz ；/w 1月30日20时/t 至/p 2月2日20时/t ，/w 暂停/v 运行/vn [电子/n 商业/n 汇票/n 系统/n]/nz 。/w 
+央行/n 还/d 公布/v 了/ule 2014年/t [支付/v 清算/vn 系统/n]/nz 的/ude1 [13/m 次/qv]/mq 维护/v 窗口/s 开启/v 日期/n ，/w 分别为/v 1月18日/t 、/w 2月15日/t 、/w 2月22日/t 、/w 3月22日/t 、/w 4月26日/t 、/w 5月24日/t 、/w 6月28日/t 、/w 7月26日/t 、/w 8月23日/t 、/w 9月20日/t 、/w 10月25日/t 、/w 11月22日/t 、/w 12月13日/t ，/w 时间/n 从/p 零时/t 开始/v ，/w 8时/t 前/f 结束/v 。/w 维护/v 窗口/s 开启/v 期间/f ，/w [小额/b 支付/v 系统/n]/nz 、/w [网上/s 支付/v 跨行/nz 清算/vn 系统/n]/nz 和/cc [全国/n 支票/n 影像/n 交换/v 系统/n]/nz 暂停/v 受理/vn 业务/n 。/w 
+据悉/v ，/w [小额/b 支付/v 系统/n]/nz 和/cc [网上/s 支付/v 跨行/nz 清算/vn 系统/n]/nz 停运/nz 期间/f ，/w 不/d 受理/v 各/rz [银行/nis 机构/n]/nz 发起/v 的/ude1 跨行/nz 支付/v 业务/n ，/w [企事业/n 单位/n]/nz 或/c 个人/n 通过/p 商业银行/nis [营业/vn 网点/n]/nz 、/w [网上/s 银行/nis]/nz 等/udeng 渠道/n 发起/v 的/ude1 跨行/nz 汇款/n 业务/n 将/d 延迟/v 至/p [支付/v 系统/n]/nz 开始/v 运行/vn 后/f 处理/vn 。/w 因为/c 不同/a 银行/nis 之间/f 跨行/nz 汇款/n 走/v 的/ude1 是/vshi 人民银行/nis 的/ude1 系统/n ，/w 所有/b 转账/vn 汇款/n 操作/v 都会/n 受/v 影响/vn ，/w 无论是/c 柜台/n 还是/c 网银/n 。/w 
+小贴士/nz 
+除夕/t 至/p 大年/n 初三/n 可用/v 转账/vn 渠道/n 
+◎/w ATM/x 
+ATM/x 渠道/n 属于/v 银联/n 系统/n ，/w 不/d 受/v 影响/vn 。/w 如果/c A/x 、/w B/x 、/w C/x [三/m 家/q]/mq 银行/nis 均/d 开通/v 该/rz 服务/vn ，/w 持卡人/nz 使用/v A/x 银行/nis 发行/v 的/ude1 银联卡/nz ，/w 可/v 在/p B/x 银行/nis 的/ude1 ATM/x 机上/s ，/w 向/p A/x 、/w B/x 、/w C/x 银行/nis 的/ude1 银联卡/nz 转账/vn ，/w 资金/n 可/v 实时/n 到/v 账/n ，/w [转账/vn 限额/n]/nz 为/p 每日/r [5/m 万元/q]/mq 。/w 转出/vf 卡/n 须/d 为/p 银联/n 借记卡/nz 。/w 
+◎/w 支付宝/nz 
+支付宝/nz 方面/n 表示/v ，/w 由于/p 该/rz 公司/nis 的/ude1 系统/n 和/cc 业务/n 绝大部分/m 采取/v 和/cc 银行/nis 直连/nz 的/ude1 形式/n 进行/vn ，/w 因此/c 央行/n 系统维护/gi 不会/v 影响/vn 其/rz 基本/a 业务/n 。/w 更/d 重要/a 的/ude1 是/vshi ，/w 通过/p 支付宝/nz 依然/d 可以/v 直接/ad 向/p 工/n 、/w 农/ng 、/w 中/f 、/w 建/v 、/w 招/v 等/udeng [十几/m 家/q]/mq 全国性/n 银行/nis 的/ude1 银行卡/nz 转账/vn 。/w 
+◎/w 其他/rzv 
+个人/n 客户/n 在/p 除夕/t 至/p 大年/n 初三/n 期间/f 办理/v 跨行/nz 支付/v 、/w 汇款/n 等/udeng 业务/n ，/w 可/v 通过/p 商业银行/nis [自助/b 服务/vn 终端/n]/nz 、/w 银行卡/nz 支付/v 渠道/n 以及/cc 其他/rzv 支付/v 、/w 清算/v [服务/vn 机构/n]/nz 的/ude1 [网络/n 支付/v]/nz 或/c 便民/vn 支付/v 渠道/n 办理/v ，/w 也/d 可/v 向/p [开户/vn 银行/nis]/nz 咨询/vn 。/w （/w 记者/nnt 高晨/nr ）/w 

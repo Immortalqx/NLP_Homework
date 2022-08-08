@@ -1,0 +1,40 @@
+[海南省/ns 气象/n 服务/vn 中心/nis]/nt 8日05时/t 提供/v 的/ude1 [天气/n 预报/vn]/nz 
+海上/s 大风/n [蓝色/n 预警/vn]/nz 和/cc [海洋/n 天气/n 预报/vn]/nz 
+8日/t 白天/t 到/v 10日/t 夜间/n ：/w 北部湾/ns 海面/n ,/w 本/rz 岛/n 东方/s 、/w 昌江/ns 到/v 临高/ns 一带/n 海面/n ，/w 北/f 到/v 东北风/n [6/m -/w 7/m 级/q]/mq ，/w 阵风/n [8/m 级/q]/mq ；/w 本/rz 岛/n 澄迈/ns 、/w 海口/ns 到/v 乐东/nz 一带/n 海面/n ，/w 偏/d 东风/n [5/m 级/q]/mq ，/w 今天/t 中午/t 前后/f 起/vf 自/p 北/f 向/p 南/b 转/v 北/f 到/v 东北风/n [6/m 级/q]/mq ，/w 阵风/n [7/m 级/q]/mq ，/w 以上/f 地区/n 沿海/f 各/rz 港口/n 所/usuo 挂/v 强风/n 一号/mq 风球/nz 不/d 改变/v ；/w 西沙/ns 、/w [中/f 沙/n 群岛/n]/ns 附近/f 海面/n ,/w 多/a 云/vg ,/w 东北风/n [5/m -/w 6/m 级/q]/mq ；/w [南沙/ns 群岛/n]/ns 附近/f 海面/n ,/w 多/a 云/vg 有/vyou 阵雨/n ,/w 东北风/n [6/m 级/q]/mq ,/w 阵风/n [8/m 级/q]/mq 。/w 另外/c ，/w [琼州/ns 海峡/n]/nz 早晨/t 有/vyou 雾/n 。/w 
+陆地/n [天气/n 预报/vn]/nz 
+8日/t 白天/t 到/v 夜间/n ：/w 
+北部/f ,/w [多/a 云/vg 转/v 阴/a]/nz 天/qt 有/vyou 小雨/n ,/w [最低/a 气温/n]/nz [15/m -/w 17/m 度/qv]/mq ,/w [最高/a 气温/n]/nz [24/m -/w 26/m 度/qv]/mq 
+中部/f ,/w [多/a 云/vg 转/v 阴/a]/nz 天/qt 有/vyou 小雨/n ,/w [最低/a 气温/n]/nz [14/m -/w 16/m 度/qv]/mq ,/w [最高/a 气温/n]/nz [26/m -/w 28/m 度/qv]/mq 
+东部/f ,/w [多/a 云/vg 转/v 阴/a]/nz 天/qt 有/vyou 小雨/n ,/w [最低/a 气温/n]/nz [15/m -/w 17/m 度/qv]/mq ,/w [最高/a 气温/n]/nz [25/m -/w 27/m 度/qv]/mq 
+西部/f ,/w [多/a 云/vg 转/v 阴/a]/nz 天/qt 间/f 多/a 云/vg 有/vyou 小雨/n ,/w [最低/a 气温/n]/nz [15/m -/w 17/m 度/qv]/mq ,/w [最高/a 气温/n]/nz [25/m -/w 27/m 度/qv]/mq 
+南部/f ,/w [多/a 云/vg 转/v 阴/a]/nz 天/qt 间/f 多/a 云/vg ,/w [最低/a 气温/n]/nz [17/m -/w 19/m 度/qv]/mq ,/w [最高/a 气温/n]/nz [27/m -/w 29/m 度/qv]/mq 。/w 
+[西沙/ns 永兴岛/ns]/nz ,/w 多/a 云/vg ,/w 东北风/n [5/m -/w 6/m 级/q]/mq ,/w [22/m -/w 27/m 度/qv]/mq 
+中/f 沙/n 黄岩岛/nr ,/w 多/a 云/vg ,/w 东北风/n [5/m -/w 6/m 级/q]/mq ,/w [22/m -/w 27/m 度/qv]/mq 
+南沙/ns 永暑礁/ns ,/w 多/a 云/vg 有/vyou 小/a 阵雨/n ,/w 东北风/n [6/m 级/q]/mq 转/v [5/m -/w 6/m 级/q]/mq ,/w [25/m -/w 28/m 度/qv]/mq 
+9日/t 白天/t 到/v 夜间/n ：/w 
+北部/f ,/w 小雨/n 转/v 阴天/n ,/w [最低/a 气温/n]/nz [15/m -/w 17/m 度/qv]/mq ,/w [最高/a 气温/n]/nz [18/m -/w 20/m 度/qv]/mq 
+中部/f ,/w 阴天/n 有/vyou 小雨/n ,/w [最低/a 气温/n]/nz [14/m -/w 16/m 度/qv]/mq ,/w [最高/a 气温/n]/nz [18/m -/w 20/m 度/qv]/mq 
+东部/f ,/w 阴天/n 有/vyou 小雨/n ,/w [最低/a 气温/n]/nz [15/m -/w 17/m 度/qv]/mq ,/w [最高/a 气温/n]/nz [19/m -/w 21/m 度/qv]/mq 
+西部/f ,/w 小雨/n 转/v 阴天/n 间/f 多/a 云/vg ,/w [最低/a 气温/n]/nz [15/m -/w 17/m 度/qv]/mq ,/w [最高/a 气温/n]/nz [19/m -/w 21/m 度/qv]/mq 
+南部/f ,/w 阴天/n 间/f 多/a 云/vg ,/w [最低/a 气温/n]/nz [17/m -/w 19/m 度/qv]/mq ,/w [最高/a 气温/n]/nz [22/m -/w 24/m 度/qv]/mq 。/w 
+[西沙/ns 永兴岛/ns]/nz ,/w 多/a 云/vg ,/w 东北风/n [5/m -/w 6/m 级/q]/mq 转/v [5/m 级/q]/mq ,/w [22/m -/w 25/m 度/qv]/mq 
+中/f 沙/n 黄岩岛/nr ,/w 多/a 云/vg ,/w 东北风/n [5/m -/w 6/m 级/q]/mq 转/v [5/m 级/q]/mq ,/w [22/m -/w 25/m 度/qv]/mq 
+南沙/ns 永暑礁/ns ,/w 多/a 云/vg 有/vyou 小/a 阵雨/n ,/w 东北风/n [5/m -/w 6/m 级/q]/mq ,/w [26/m -/w 28/m 度/qv]/mq 
+10日/t 白天/t 到/v 夜间/n ：/w 
+北部/f ,/w 多云间阴/n 天/qt ,/w [最低/a 气温/n]/nz [16/m -/w 18/m 度/qv]/mq ,/w [最高/a 气温/n]/nz [21/m -/w 23/m 度/qv]/mq 
+中部/f ,/w 多云间阴/n 天/qt ，/w 局/n 地/ude2 有/vyou 小/a 阵雨/n ,/w [最低/a 气温/n]/nz [15/m -/w 17/m 度/qv]/mq ,/w [最高/a 气温/n]/nz [21/m -/w 23/m 度/qv]/mq 
+东部/f ,/w 多云间阴/n 天/qt ，/w 局/n 地/ude2 有/vyou 小/a 阵雨/n ,/w [最低/a 气温/n]/nz [17/m -/w 19/m 度/qv]/mq ,/w [最高/a 气温/n]/nz [20/m -/w 22/m 度/qv]/mq 
+西部/f ,/w 阴天/n 间/f 多/a 云/vg ,/w [最低/a 气温/n]/nz [15/m -/w 17/m 度/qv]/mq ,/w [最高/a 气温/n]/nz [22/m -/w 24/m 度/qv]/mq 
+南部/f ,/w 阴天/n 间/f 多/a 云/vg ,/w [最低/a 气温/n]/nz [17/m -/w 19/m 度/qv]/mq ,/w [最高/a 气温/n]/nz [24/m -/w 26/m 度/qv]/mq 。/w 
+[西沙/ns 永兴岛/ns]/nz ,/w 多/a 云/vg ,/w 东北风/n [5/m 级/q]/mq ,/w [22/m -/w 27/m 度/qv]/mq 
+中/f 沙/n 黄岩岛/nr ,/w 多/a 云/vg ,/w 东北风/n [5/m 级/q]/mq ,/w [22/m -/w 26/m 度/qv]/mq 
+南沙/ns 永暑礁/ns ,/w 多/a 云/vg 有/vyou 小/a 阵雨/n ,/w 东北风/n [5/m -/w 6/m 级/q]/mq ,/w [26/m -/w 28/m 度/qv]/mq 
+海南/ns [热点/n 新闻/n]/nz 推荐/v ：/w 
+海南/ns 高考/vn 报名/vi 8日/t 开始/v [网上/s 报名/vi]/nz [填表/vi 说明/v]/nz 发布/v 
+环海/v 大厦/n 业主/n 苦/a 等/udeng 8年/t 仍/d 无/v 房产证/nz 续/v :/w 不具备/v 条件/n 
+斯/b 人/n 犹/d 在/p 盘点/v 海南/ns 那些/rz 邵逸夫/nr 楼/n （/w 组/n 图/n ）/w 
+澄迈/ns 一/m 前任/b 村官/nnd 涉嫌/v 倒卖/v 土地/n [234/m 亩/q]/mq 警方/n 立案/vi 
+海口/ns 3/m 电动车/n 上/f 牌/n 点/qt 今/tg 启用/v 设/v [绿色/n 通道/n]/nz 快捷/z 办理/v 
+海口/ns ：/w 男子/n 策划/vn 深井/n 杀人案/n 未遂/vi 遭/v 视频/n 记录/v 
+海南/ns 首/q 张/q 天价烟/nz 罚单/nz :/w 男子/n 动车/n 吸烟/vi 被罚/nz [500/m 元/q]/mq 
+海口/ns 上班/vi 早/a 高峰/n 逢/v 大雾/n [世纪/n 大桥/n]/nz 消失/vi (/w 图/n )/w 

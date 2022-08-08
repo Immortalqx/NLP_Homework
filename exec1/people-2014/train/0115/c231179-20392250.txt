@@ -1,0 +1,14 @@
+只要/c 稍加/v 关注/vn ，/w 你/rr 会/v 发现/vn Android/x 手机/n 存在/v 最大/gm 的/ude1 弊端/n 都/d 指向/v [安全/an 问题/n]/nz 。/w 对于/p Android/x ，/w 网络/n 上/f 曝/vg 出/vf 各种/rz 泄露/v 隐私/n 、/w 偷跑/nz 流量/n 的/ude1 事件/n 早已/d 不再/d 罕见/a 。/w [究其/nz 原因/n]/nz ，/w Android/x 本身/rz 是/vshi 一个/mq 开放/v 的/ude1 [手机/n 操作/vn 系统/n]/nz ，/w 一些/mq 开发者/gi 更是/d 利用/v 恶意/n 吸/v 费/n 、/w 暗扣/nz 费/n 等/udeng 手段/n ，/w 在/p 用户/n 毫无/v 知觉/n 的/ude1 情况下/nz 进行/vn 窃取/v 隐私/n ，/w 甚至/d 对/p 用户/n 造成/v 经济/n 损失/n ，/w 给/p 用户/n 安全/an 使用/v 手机/n 带来/v 巨大/a 威胁/vn 。/w 魔/ag 高/a 一尺/mq ，/w 道/qv 高/a 一丈/mq ，/w 究竟/d 该/rz 如何/ryv 避免/v 这些/rz 问题/n 呢/y ？/w 就/d 像/v 在/p PC/x 上/f 为了/p 防止/v 病毒/n 木马/n ，/w 我们/rr 会/v 安装/vn 杀毒软件/gi 和/cc 安全卫士/gi 类/q 软件/n 一样/uyy ，/w 在/p 手机/n 上/f ，/w 同样/d 我们/rr 也/d 可以/v 安装/vn 相应/vi 的/ude1 应用/vn 来/vf 对/p 手机/n 进行/vn 安防/nz 。/w 
+[如何/ryv 选择/v]/nz ？/w 本文/r 我们/rr 就/d 来/vf 选择/v 较为/d 主流/n 的/ude1 [三/m 款/q]/mq 手机/n 卫士/nnt 、/w 管家/nnt 应用/vn ，/w 针对/p 防止/v 吸/v 费/n 、/w 病毒/n 查杀/v ，/w 以及/cc 在/p 应用/vn 管理/vn 和/cc 手机/n 加速/vi 等/udeng 方面/n 进行/vn 对比/vn ，/w 希望/v 能够/v 给/p 大家/rr 多/a 一些/mq 帮助/v 。/w 
+为了/p 便于/v 大家/rr 直观/a 的/ude1 了解/vn 某/rz 款/q 应用/vn 在/p 某个/rz 功能/n 上/f 的/ude1 表现/vn 如何/ryv ，/w 笔者/n 特别/d 引入/v 了/ule 一个/mq 打分/v 机制/n ，/w 单项/n 最高/a 分为/v 10分/t 。/w 
+防止/v 吸/v 费/n 
+手机/n 中/f 遇到/v 最/d 严重/a 的/ude1 问题/n 就是/v 恶意/n 吸/v 费/n 。/w 所/usuo 指/v 的/ude1 恶意/n 吸/v 费/n 包括/v 两种/mq ，/w 一种/mq 是/vshi 通过/p 各种/rz 方式/n 直接/ad 吸取/v 你/rr 的/ude1 话费/n ，/w 另一种/mq 就是/v 流量/n 偷跑/nz ，/w 在/p 此/rzs 也/d 归类/vi 到/v 这/rzv 部分/n 来/vf 。/w 
+百度/ntc 手机/n 卫士/nnt 明显/a 是/vshi 明白/v 到/v 这/rzv 方面/n 的/ude1 重要性/n ，/w 在/p 前/f 几次/mq 更新/v 后/f 已经/d 把/pba “/w 防/v 吸/v 费/n ”/w 功能/n 独立/a 出来/vf ，/w 以防/v 应用/vn 吸/v 费/n 、/w 流量/n 防/v 偷跑/nz 作为/p 核心/n 功能/n ，/w 并且/c 相当/d 贴心/a 的/ude1 加入/vn 了/ule 安全/an 话费/n 充值/vi ，/w 避免/v 用户/n 误/v 登陆/vn 到/v 挂马/nz 网站/n 充值/vi 而/cc 造成/v 金钱/n 损失/n 。/w 在/p 流量/n 防火墙/n 中/f ，/w 用户/n 可以/v 对/p 不同/a 应用/vn 进行/vn 独立/a 设置/v 是否/v 开启/vn [移动/vn 网络/n]/nz 或者/c wifi/x ，/w 一切/rz 随心所欲/vl 。/w 
+▲/w 百度/ntc 手机/n 卫士/nnt 防/v 吸/v 费/n 
+▲/w 防/v 偷跑/nz 
+360/m 卫士/nnt 有/vyou 独立/a 的/ude1 [流量/n 监控/vn]/nz 功能/n ，/w 效果/n 跟/p 百度/ntc 手机/n 卫士/nnt 的/ude1 一样/uyy 。/w ，/w 但是/c 软件/n 本身/rz 并/cc 没有/v 对/p 防止/v 吸/v 费/n 的/ude1 功能/n 做出/v 整合/vn ，/w 应用/vn 吸/v 费/n 方面/n 只有/c 在/p 手机/n 扫描/vn 中/f 有所/v 涉及/vn 到/v ，/w 没有/v 进行/vn 更/d 强化/v 的/ude1 措施/n ，/w 显得/v 逊色/a 一点/mq 。/w 
+▲/w 360/m 卫士/nnt 
+至于/p 腾讯/ntc 手机/n 助手/nnt ，/w 就/d 给/p 小/a 编/v 一种/mq 略/d 坑/n 的/ude1 感觉/n 了/ule 。/w 有/vyou [流量/n 监控/vn]/nz 功能/n ，/w 但/c 只能/v 针对/p [移动/vn 网络/n]/nz 下/f 进行/vn 开关/n ，/w 这/rzv 点/qt 还/d 可以/v 接受/vn ，/w 毕竟/d wifi/x 即使/c 偷跑/nz 流量/n 也/d 发现/v 不到/v 。/w 比较/d 坑/n 的/ude1 是/vshi ，/w 好不容易/dl 找到/v 扣/v 费/n 扫描/vn 的/ude1 入口/n ，/w 谁/ry 知道/v 只能/v 检测/vn 扣/v 费/n 短信/n 。/w 
+▲/w 腾讯/ntc [手机/n 管家/nnt]/nz 
+小结/n ：/w 在/p 防止/v 吸/v 费/n 这么/rz 重要/a 的/ude1 环节/n 中/f ，/w 基本/a 只有/c 百度/ntc 手机/n 卫士/nnt 能/v 令人满意/al 。/w 其余/rz [两/q 款/q]/mq 要/v 不/d 就/d 有所/v 缺失/n ，/w 要/v 不/d 就/d 虚有其表/nz ，/w 并/cc 没有/v 实质/n 功能/n 。/w 
+评分/vn ：/w 百度/ntc 手机/n 卫士/nnt ：/w 9分/t ；/w 360/m 卫士/nnt ：/w 5分/t ；/w 腾讯/ntc [手机/n 管家/nnt]/nz ：/w 5分/t 

@@ -1,0 +1,11 @@
+餐车/n 车厢/n 
+访民/nz 刺伤/v 拦截/vn 者/k 
+时间/n ：/w 1月11日/t 中午/t 12点40分/t 左右/f 
+地点/n ：/w 由/p 湖南/ns 怀化/ns 开往/vf 北京/ns 的/ude1 K268/x 次/qv 列车/n 中途/d 停靠/v [张家界/ns 站/vi]/nz 。/w 列车/n 中部/f 的/ude1 餐车/n 。/w 
+涉事/nz 人/n ：/w 湖南/ns 花垣县/ns 访民/nz 胡秀祥/nr 、/w 花垣县/ns 某/rz [乡镇/n 干部/nnt]/nz （/w 被/pbei 刺/v 重伤/n ，/w 脱离/v 生命/n 危险/an ）/w 、/w 一名/mq 警察/nnt （/w 大腿/n 内侧/f 被/pbei 刺伤/v ，/w 无/v 大/a 碍/v ）/w 
+新京报/nz 制图/vn //w 高俊夫/nr 
+湖南/ns 一/m 访民/nz 列车/n 上/f 被/pbei 拦截/v 刺伤/v 两人/mq 县/n 干部/nnt 称/v 其/rz 偏执/a 
+原/b 标题/n ：/w 湖南/ns 一/m 访民/nz 列车/n 上/f 被/pbei 拦截/v 刺伤/v 两人/mq 
+[花垣/nz 县委/nis]/nt 常委/nnt 刘鸿宾/nr 称/v ，/w 一人/mq 为/p [乡镇/n 干部/nnt]/nz ，/w 已/d 脱离/v 生命/n 危险/an ；/w [另一/m 人/n]/mq 为/p 警察/nnt 无/v 大/a 碍/v 
+1月11日/t 中午/t 12点40分/t 左右/f ，/w 由/p 湖南/ns 怀化/ns 开往/vf 北京/ns 的/ude1 K268/x 次/qv 列车/n 上/f ，/w 花垣县/ns 访民/nz 胡秀祥/nr 因/p 被/pbei 拦截/v ，/w 刺伤/v 两人/mq 。/w 
+昨日/t ，/w [花垣/nz 县委/nis]/nt 常委/nnt 、/w 纪委/nnt 书记/nnt 刘鸿宾/nr 向/p 新京报/nz 记者/nnt 证实/v ，/w 两/m 受伤/vi 人员/n 一人/mq 为/p [乡镇/n 干部/nnt]/nz ，/w 冲突/vn 中/f 受/v 重伤/n ，/w 抢救/v 后/f 脱离/v 生命/n 危险/an 。/w [另一/m 人/n]/mq 是/vshi 花垣县/ns 干警/n ，/w 目前/t 伤势/n 无/v 大/a 碍/v 。/w 

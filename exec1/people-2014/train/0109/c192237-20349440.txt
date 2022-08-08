@@ -1,0 +1,6 @@
+原/b 标题/n ：/w 王力宏/nr 林志玲/nr 莫文蔚/nr 港台/n 明星/nnd 学历/n 揭秘/v 
+王力宏/nr 
+语言/n ：/w 国语/n 、/w 英语/nz 、/w 法语/nz 、/w 日语/n 、/w 粤语/n 
+母语/n ：/w 英语/nz 
+学历/n ：/w [伯克利/nsf 音乐/n 学院/nis]/nt 硕士/nnt (/w BerkleeCollegeofMusic/x ，/w 专修/v ：/w 音乐/n ，/w 副修/nz ：/w 亚洲/ns 管理/vn )/w 
+曾/d 就读/vi 过/uguo 的/ude1 学校/nis ：/w PittsfordElementarySchool/x ，/w PittsfordSutherlandMiddleSchool/x ，/w PittsfordSutherlandHighSchool/x ，/w [美国/nsf 威廉姆斯/nrf 大学/nis]/nt (/w Williamscollege/x )/w 

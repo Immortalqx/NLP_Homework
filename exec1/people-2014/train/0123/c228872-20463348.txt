@@ -1,0 +1,3 @@
+[贵州省/ns 福泉市/ns 马场/nis 坪/ng 办事处/nis]/nt 平堡村/ns 23日/t 下午/t 发生/v 一起/s [森林/n 火灾/n]/nz ，/w 初步/d 核实/v 已/d 致/v [5/m 名/q]/mq 救火/vi 人员/n 死亡/vi 、/w [1/m 人/n]/mq 受伤/vi 。/w 
+记者/nnt 从/p [福泉/ns 市委/nis 宣传部/nis]/nt 了解到/v ，/w 火灾/n 发生/v 后/f ，/w 福泉市/ns 林业/n 等/udeng 部门/n 以及/cc 当地/s 党委/nis 、/w 政府/nis 迅速/ad 组织/n [干部/nnt 职工/nnt]/nz 奔赴/v 火灾/n 现场/s 救火/vi 。/w 18时40分/t 左右/f ，/w 由于/p 风势/n 太大/d ，/w 风向/n 突然/ad 转变/v ，/w 导致/v 马场/nis 坪/ng 办事处/nis [2/m 名/q]/mq 干部/nnt 和/cc [3/m 名/q]/mq 护林员/nnd 无法/v 及时/ad 撤退/vi 不幸/a 遇难/vi 。/w 
+目前/t ，/w 福泉市/ns [主要/b 领导/n]/nnt 已/d 赶到/v 现场/s 指挥/v 灭火/vn 、/w 搜/v 救/vn 和/cc 处置/vn 工作/vn ，/w 截至/v 当日/t 21时/t ，/w 大火/n 仍/d 未/d 扑灭/v 。/w 

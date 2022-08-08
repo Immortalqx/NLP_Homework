@@ -1,0 +1,9 @@
+养肝/vn 饮食/n 之/uzhi 宜/ag 
+1/m 、/w 宜/ag 食/v 细软/a 、/w 易/ad 消化/v 食物/nf 
+2/m 、/w 宜/ag 食/v 维生素/n 丰富/a 的/ude1 食物/nf 
+3/m 、/w 宜/ag 食/v 含/v 蛋白质/n 的/ude1 食物/nf 
+
+养肝/vn 饮食/n 之/uzhi 忌/v 
+1/m 、/w 忌食/vi 辛辣/a 刺激性/n 食物/nf 
+2/m 、/w 忌食/vi 含纤维/nz 较多/d 的/ude1 食品/n 
+3/m 、/w 忌食/vi 产气/nz 多/a 的/ude1 食物/nf 

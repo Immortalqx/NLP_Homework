@@ -1,0 +1,3 @@
+[车祸/n 现场/s]/nz 
+据/p 湖北/ns 荆州/ns 消防/b 消息/n ，/w “/w [沪/b 渝/b 高速公路/n]/nz 荆州/ns 段/q [1102/m KM/x]/mq 处/n 、/w [1102/m KM/x]/mq +/w [300/m M/x]/mq 处/n 、/w [1102/m KM/x]/mq +/w [400/m M/x]/mq 处/n …/w …/w 多/a 车/n 相撞/vi ！/w ”/w “/w 雾气/n 太大/d ，/w 能见度/n 不足/an [20/m 米/q]/mq ，/w 客车/n 内/f 多/a 人/n 受伤/vi 被困/v ！/w ”/w 9时12分/t ，/w 荆州市/ns 119/m 指挥中心/nis 警铃/n 大作/v ，/w 此起彼伏/vl 。/w 
+[沪/b 渝/b 高速公路/n]/nz 沪/b 渝/b 向/p [1102/m 公里/q]/mq 处/n 共/d 发生/v 车辆/n 连环/b 相撞/vi 交通事故/nz [9/m 起/vf]/mq ,/w 其中/rz 伤/v 人/n 事故/n [2/m 起/vf]/mq ，/w 造成/v [6/m 人/n]/mq 受伤/vi 、/w [22/m 辆/q]/mq 车辆/n 受损/vi 。/w [22/m 车/n]/mq 连环/b 相撞/vi ，/w 被/pbei 滞留/v 拥堵/vn 的/ude1 车辆/n 排成/v 了/ule “/w 长龙/n ”/w ，/w 绵延/vi 10余公里/m 。/w 

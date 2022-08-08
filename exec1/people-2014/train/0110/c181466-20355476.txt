@@ -1,0 +1,9 @@
+交警/nnd 提示/v 
+夜晚/n 会/v 车/n 哪些/ry 情况/n 可以/v 闪灯/nz 
+夜晚/n 会/v 车/n ，/w 哪些/ry 情况下/nz 可以/v 闪灯/nz 提醒/v 呢/y ？/w 
+1/m ./w 当/p 发现/v 对方/n 来/vf 车/n 是/vshi 远光灯/n 时/ng ，/w 可以/v 闪灯/nz 提醒/v 对方/n 关闭/v ；/w 
+2/m ./w 当/p 发现/v 对方/n 来/vf 车/n 在/p 超车/vi 时/ng ，/w 自己/rr 又/d 临近/v 对方/n 被/pbei 超/v 车辆/n 时/ng ，/w 可以/v 闪灯/nz 提醒/v 对方/n 不要/d 超车/vi ；/w 
+3/m ./w 当/p 发现/v 对方/n 车辆/n 前方/s 有/vyou 障碍物/n ，/w 准备/v 避开/v 时/ng ，/w 可以/v 闪灯/nz 提醒/v 对方/n 等候/v 自己/rr 先/d 通行/vi ；/w 
+4/m ./w 在/p 比较/d 狭窄/a 的/ude1 道路/n 只能/v 容/v 单车/n 通行/vi 时/ng ，/w 对方/n 下坡/vi 我/rr 上坡/vi ，/w 可以/v 闪灯/nz 提醒/v 上坡/vi 车辆/n 先行/vi 。/w 
+上月/t 23日/t 晚/tg ，/w 绵阳/ns 男子/n 王/n 某某/r 开车/vi 在/p 游仙镇/ns 与/cc 一辆/mq 小型/b 越野车/n 会/v 车/n 时/ng ，/w 称/v 越野车/n 司机/nnt 王海/nr 使用/v 远光灯/n ，/w 双方/n 发生/v 了/ule 口角/n 。/w 王/n 某某/r 邀/v 人/n 教训/n 王海/nr 。/w 王海/nr 的/ude1 朋友/n 张欢/nr 被/pbei 打/v 致死/vi ，/w 王海/nr 重伤/n 。/w 昨日/t ，/w [成都/ns 商报/n]/nz 记者/nnt 从/p 游仙/nz 警方/n 获悉/v ，/w 目前，7/t 名/q [犯罪/vn 嫌疑人/n]/nz 已/d 全部/m 归案/vi 。/w 
+警方/n 介绍/v ，/w 事发/vi 前/f ，/w 双方/n 因/p 开/v 远光灯/n 有/vyou 互相/d 闪灯/nz 的/ude1 情况/n 发生/v 。/w 对此/d ，/w 王海/nr 昨日/t 再次/d 表示/v ，/w 他们/rr 肯定/v 没有/v 发生/vn 口角/n ，/w 至于/p 是否/v 有/vyou 互相/d 闪灯/nz 的/ude1 情况/n ，/w 他/rr 已经/d 记不清/vl 了/ule 。/w 目前/t 此案/r 仍/d 在/p 进一步/d 调查/vn 核实/v 中/f 。/w 

@@ -1,0 +1,27 @@
+新京报/nz 讯/ng （/w 记者/nnt 廖爱玲/nr ）/w 车辆/n 是否/v 闯红灯/nz 、/w 违章/vn 停车/vi ，/w 将/d 有一套/r [统一/vn 标准/n]/nz 来/vf 规范/v 取证/vn 。/w [北京市/ns 质/ng 监/vg 局/n]/nto 近期/t 批准/v 发布/vn [31/m 项/q]/mq 北京/ns [地方/n 标准/n]/nz ，/w 其中/rz 《/w 机动车/n 违法/vn [自动/d 记录/v]/nz 系统/n 通用/vn [技术/n 条件/n]/nz 》/w 将/d 于/p 今年/t 4月1日/t 起/vf 实施/v 。/w 闯红灯/nz 、/w 违法/vn 停车/vi ，/w 都/d 须/d 拍/v 下/f 三幅/nz 图像/n ，/w 记录/v 号牌/nz 和/cc 违法/vn 内容/n ，/w 才能/n 真正/d 认定/v 该/rz 车辆/n 存在/v 违法/vn 。/w 
+《/w 机动车/n 违法/vn [自动/d 记录/v]/nz 系统/n 通用/vn [技术/n 条件/n]/nz 》/w 将/d 由/p [市/n 公安局/nis]/nt 组织/n 实施/v ，/w 主要/b 适用/vi 于/p [城市/n 道路/n]/nz 、/w 公路/n 上/f 安装/v 的/ude1 机动车/n 违法/vn [自动/d 记录/v]/nz 系统/n 。/w 此前/t 曾/d 在/p 2011年/t 起草/v 意见/n 稿/ng 时/ng 征集/vn 过/uguo 公众/n 意见/n 。/w 
+标准/n 规定/n ，/w 涉及/v 车牌/n 的/ude1 违法/vn ，/w 应/v 记录/vn [同一/b 时间/n]/nz 机动车/n 前/f 、/w 后/f 全景/n 图像/n 和/cc 前/f 、/w 后/f [机动车/n 号牌/nz]/nz 特写/n 图像/n ；/w [区间/n 测速/v]/nz 系统/n 则/d 要/v 记录/vn 机动车/n 驶入/v 、/w 驶出/v 测速/v 区间/n 的/ude1 全景/n 、/w 特写/n 图像/n 各/rz 一张/mq 。/w 
+标准/n 还/d 对/p 违法/vn 停车/vi 的/ude1 [自动/d 记录/v]/nz 取证/vn 做/v 了/ule 规定/n ，/w 监控/v 车辆/n 在/p 不/d 允许/v 的/ude1 地方/n 乱/d 停/vi 乱放/v 。/w 此前/t 征集/v 意见/n 稿/ng 中/f 并未/d 提及/v 。/w 
+按规定/nz ，/w 车辆/n 违规/vn 行驶/vi 在/p [专用/vn 车道/n]/nz ，/w 至少/d 有/vyou 一幅/mq 图像/n 应/v 显示/vn 该/rz 违法/vn 车/n 的/ude1 “/w [一半/m 以上/f]/mq 车身/n ”/w 在/p [专用/vn 车道/n]/nz 内/f 。/w 就是说/c ，/w 违法/vn 占/v 专用道/n ，/w 认定/v 的/ude1 [主要/b 依据/n]/nz 之一/rz ，/w 是/vshi 看/v 车身/n “/w [一半/m 以上/f]/mq ”/w 是否/v 在/p 其/rz 内/f 。/w 
+为/p 保证/v 信息/n 的/ude1 真实/a 有效/a ，/w 这些/rz 记录/v 的/ude1 每/rz 一幅/mq 静态/n 图像/n ，/w 要求/n 包含/v 管辖/vn 区内/n 上/f 一级/b [公安/n 部门/n]/nz 认定/v 的/ude1 原始/a 防伪/v 信息/n ，/w 防止/v 原始/a 图像/n 在/p 传输/vn 、/w 存贮/vn 和/cc 校对/v 过程/n 中/f 被/pbei 人/n 为/p 篡改/v 。/w 
+标准/n 提到/v ，/w 机动车/n 违法/vn [自动/d 记录/v]/nz 系统/n [24/m 小时/n]/mq 的/ude1 计时/vn 误差/n 应/v 不/d 超过/v 1秒/t 。/w 
+机动车/n 违法/vn [自动/d 记录/v]/nz [相关/vn 规定/n]/nz 
+涉及/v 车牌/n 的/ude1 违法/vn 
+●/w 应/v 记录/vn [同一/b 时间/n]/nz 机动车/n 前/f 、/w 后/f 全景/n 图像/n 和/cc 前/f 、/w 后/f [机动车/n 号牌/nz]/nz 特写/n 图像/n 
+●/w [区间/n 测速/v]/nz 系统/n 则/d 要/v 记录/vn 机动车/n 驶入/v 、/w 驶出/v 测速/v 区间/n 的/ude1 全景/n 、/w 特写/n 图像/n 各/rz 一张/mq 
+除/p 涉/vg 牌/n 和/cc 测速/v 外/f 的/ude1 其他/rzv 违法/vn 
+●/w 采用/v 两/m 到/v 三幅/nz 全景/n 图像/n 和/cc 一幅/mq [机动车/n 号牌/nz]/nz 特写/n 图像/n 
+●/w 图像/n 上/f 要/v 有/vyou 车辆/n 违法/vn 日期/n 、/w 时间/n 、/w 地点/n 、/w 方向/n 等/udeng 信息/n 
+●/w 超速/vd 车辆/n 图像/n 还要/d 有/vyou 限速/n 值/n 和/cc 实际/n [行驶/vi 速度/n]/nz 值/n 
+闯红灯/nz 
+●/w 需/v [三/m 个/q]/mq 不同/a 位置/n 的/ude1 静态/n [图像/n 信息/n]/nz 
+●/w 在/p 违法/vn 车/n 位于/v 停止/v 线/n 前/f ，/w 拍摄/v 车头/n 位于/v 停止/v 线/n 前/f 的/ude1 情况/n 
+●/w 全部/m 车身/n 已/d 越过/v 停止/v 线/n 且/c 相应/vi 信号/n 为/p 红灯/n 相位/n 的/ude1 情况/n 
+●/w 违法/vn 车/n 驶入/v 路口/n 或/c 转向/vi 时/ng 拍摄/v 车/n 的/ude1 行驶/vn 方向/n （/w 左转/nz 、/w 右转/nz 或/c 直行/nz ）/w 
+注/v ：/w 应/v 清晰/a 辨别/v [车辆/n 类型/n]/nz 、/w 车身/n 颜色/n 、/w 红灯/n 信号/n ，/w 并/cc 至少/d 有一个/mq 位置/n 的/ude1 信息/n 要/v 能/v 看到/v 车牌号/nz 
+违法/vn 停车/vi 
+●/w 在/p 静止/vn 过程/n 中/f 至少/d 三幅/nz 静态/n [图像/n 信息/n]/nz 
+●/w 至少/d 有一个/mq 位置/n 能/v 清晰/a 地/ude2 看到/v 车牌号/nz 
+●/w 至少/d 有/vyou [两/q 幅/q]/mq 静态/n 图像/n 的/ude1 [间隔/n 时间/n]/nz 大于/v 标志/n 或/c 标线/nz 规定/n 的/ude1 [临时/b 停车/vi]/nz 时间/n 
+占用/v [专用/vn 车道/n]/nz 
+●/w 至少/d 有/vyou 一幅/mq 图像/n 应/v 显示/vn 该/rz 违法/vn 车/n 的/ude1 “/w [一半/m 以上/f]/mq 车身/n ”/w 在/p [专用/vn 车道/n]/nz 内/f 

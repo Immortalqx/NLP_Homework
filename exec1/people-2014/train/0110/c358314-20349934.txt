@@ -1,0 +1,34 @@
+昨日/t ，/w 有/vyou 知情人/n 透露/v 称/vn ，/w 12306/m 的/ude1 新版/b 验证码/nz 已/d 被/pbei 破解/v ，/w 黄牛/n 利用/v 专业/n 软件/n 识别/vn 并/cc 回/v 传/vn 填写/v ，/w [整个/b 过程/n]/nz 只需/v [3/m 秒钟/qt]/mq 。/w 同时/c ，/w 为了/p 应对/v 网站/n 升级/vi ，/w 黄牛/n 还/d 更新/v 抢/v 票/n 手段/n ，/w 利用/v 12306/m 预订/v 军/n 残/a 票/n 无需/v 验证/vn 、/w [45/m 分钟/qt]/mq 支付/v 等待时间/gi 循环/vn 刷票/nz 等/udeng 方式/n 进行/vn 刷票/nz 。/w 
+此前/t ，/w 为/p 应对/v 抢/v 票/n 软件/n ，/w 12306/m 升级/vi 验证码/nz ，/w 将/d 静态/n 的/ude1 验证码/nz 变成/v 了/ule 不断/d 摇动/v 的/ude1 彩色/b 动态/n 验证码/nz ，/w 致使/v 不少/m 刷票/nz 软件失效/gi 。/w 
+1/m 分钱/v 破解/v 新/a 验证码/nz 
+“/w 早就/d 被/pbei 破解/v 了/ule 。/w ”/w 昨日/t ，/w 一名/mq 知情者/n 透露/v ，/w 新版/b 升级/vi 的/ude1 12306/m 验证码/nz 推出/v 后/f ，/w 公开/ad 的/ude1 刷票/nz 软件/n 受到影响/v ，/w 但/c 黄牛/n 所/usuo 购买/v 的/ude1 “/w 企业/n 版/n ”/w 软件/n 通过/p “/w [第三/m 方/q]/mq 破解/v ”/w ，/w 早已/d 破解/v 了/ule 新的/a 验证码/nz 。/w 
+所谓/v “/w [第三/m 方/q]/mq 破解/v ”/w ，/w 即/v 刷票/nz 软件/n 与/cc “/w 远程/b 打码/nz ”/w 软件/n 合作/vn ，/w 在/p 刷票/nz 软件/n 内/f 添加/v 相关/vn 接口/n ，/w 通过/p 该/rz 接口/n ，/w 刷票/nz 时/ng 的/ude1 验证码/nz 将/d 自动上传/gi 至/p 提供/v “/w 远程/b 打码/nz ”/w 服务/vn 的/ude1 软件/n ，/w 由/p 其/rz 识别/vn 并/cc 回/v 传/vn 填写/v ，/w [整个/b 过程/n]/nz 约/d 为/p [3/m 秒钟/qt]/mq 。/w 
+昨日/t ，/w 记者/nnt 拿到/v 的/ude1 某/rz 专业/n 刷票/nz 软件/n 提示/v 称/vn ，/w “/w 当前/t 12306/m 验证码/nz 更新/v 力度/n 巨大/a ，/w 每天/r 换/v 新衣/n ，/w 软件/n 不/d 可能/v 自动/d 更新/v ”/w ，/w 用户/n 可选择/nz 远程/b 打码/nz 。/w 
+根据/p 该/rz 提示/v ，/w 黄牛/n 刷票/nz 时/ng ，/w 需要/v 首先/d 在/p 提供/v “/w 远程/b 打码/nz ”/w 服务/vn 的/ude1 网站/n 上/f 注册/vn 账户/n 并/cc 充值/vi ，/w 并/cc 在/p 刷票/nz 软件/n 上/f 登录/v 。/w 在/p 挂机/nz 刷票/nz 时/ng ，/w 该/rz 软件/n 可/v 自动/d 完成/v 辨认/vn 回/v 传/vn 并/cc 填写/v 验证码/nz 的/ude1 过程/n 。/w 
+据/p 了解/v ，/w 使用/v 该/rz [软件/n 破解/v]/nz 需要/v 收费/vn ，/w 目前/t 的/ude1 价格/n 为/p “/w 每个/r [验证码/nz 识别/vn]/nz 收费/vn 1分/t ”/w 。/w 黄牛/n 每/rz 刷/v 一张/mq 车票/n ，/w 需要/v 提交/v 两个/mq 验证码/nz ，/w 即/v 花费/vn 2/m 分钱/v 。/w 
+黄牛/n “/w 升级/vi ”/w 刷票/nz 手段/n 
+另据/nz 央视/j 报道/v ，/w 央视/j 记者/nnt 以/p [2000/m 元/q]/mq 的/ude1 价格/n 购买/v 了/ule [一/d 款/q]/mq 专业/n 软件/n 进行/vn 刷票/nz 体验/v ，/w 在/p 输入/v 信息/n 后/f ，/w 该/rz 软件/n 在/p 短短/z [10/m 分钟/qt]/mq 内/f 买/v 到/v 了/ule [1245/m 张/q]/mq 车票/n 。/w 参与/v 调查/vn 的/ude1 [网络/n 工程师/nnt]/nz 称/v ，/w 该/rz [软件/n 破解/v]/nz 了/ule 12306/m 网站/n 每/rz [5/m 秒钟/qt]/mq 抢/v 一次/mq 的/ude1 限制/vn ，/w 以/p 毫秒/q 速度/n 实时/n 刷票/nz ，/w 因而/c 比/p 人工/b 快/a 很多/m 。/w 
+昨日/t ，/w 一名/mq 内部/f 知情/vi 人称/n ，/w 央视/j 记者/nnt 所/usuo 使用/v 的/ude1 刷票/nz 软件/n 目前/t 已经/d 暂时/d 封闭/v 端口/n ，/w 不过/c 其他/rzv 的/ude1 专业/n 软件/n 仍/d 可/v 继续/v 使用/vn 。/w 其/rz 提供/v 的/ude1 一张/mq 刷票/nz 截图/vn 显示/v ，/w 超过/v [20/m 个/q]/mq 账号/n 进入/v 排队/vn 刷票/nz ，/w 经过/p [一段/mq 时间/n]/nz 后/f ，/w 共有/v [25/m 个/q]/mq 账号/n 成功/a 抢/v 订/v ，/w 每个/r 账号/n 购买/v 了/ule [5/m 张/q]/mq 车票/n ，/w 共/d [125/m 张/q]/mq 上海/ns 开往/vf 成都/ns 的/ude1 车票/n 。/w 
+他/rr 表示/v ，/w 目前/t ，/w 黄牛/n 针对/p 网站/n 升级/vi 也/d 在/p 不断/d 更新/v 抢/v 票/n 手/n 断/v ，/w 包括/v 通过/p 购买/v 半价/n 军/n 残/a 票/n 、/w 利用/v 支付/vn 等待时间/gi 循环/vn 刷票/nz 等/udeng 方式/n ，/w 以/p 减少/v 囤/ng 票/n 后/f 回购/v 失败/vn 造成/v 的/ude1 损失/n 。/w 
+追访/nz 
+据知/nz 情人/n 介绍/v ，/w 在/p 12306/m 网站/n 不断/d 升级/vi 的/ude1 同时/c ，/w 黄牛/n 也/d 不断/d 更新/v 抢/v 票/n 手段/n ，/w 包括/v 购买/vn 军/n 残/a 票/n 、/w 利用/v 支付/vn 等待时间/gi 循环/vn 刷票/nz 等/udeng 方式/n 。/w 
+黄牛/n 花招/n 1/m 
+购买/v “/w 军/n 残/a 票/n ”/w 降低/v 退票/vn 成本/n 
+此前/t ，/w 黄牛/n 在/p 囤/ng 票/n 成功/a 后/f ，/w 会/v 通过/p “/w 退票/vi 回购/v ”/w 方式/n 来/vf 倒卖/v 。/w 但/c [12306/m 方面/n]/mq 进行/vn 了/ule “/w 随机/b 回/v 库/n ”/w 的/ude1 升级/vn ，/w 退票/vi 将/d 在/p [3/m 个/q]/mq 小时/n 内/f 随机/b 回到/v 网站/n 销售/vn ，/w 此举/rzv 使得/vi 黄牛/n 回购/v 成功/a 的/ude1 几率/n 降低/v 。/w 
+昨日/t ，/w 知情人/n 表示/v ，/w “/w 随机/b 回/v 库/n ”/w 的/ude1 升级/vn 让/v 很多/m 囤/ng 票/n 的/ude1 黄牛/n 损失/n 惨重/a ，/w 有/vyou 黄牛/n 因/p 囤/ng 票/n 太多/ad ，/w 回购/v 失败/vn ，/w “/w 损失/n 了/ule 几十万/m 。/w ”/w 
+据/p 其/rz 介绍/v ，/w 为/p 降低成本/v ，/w 黄牛/n 们/k 开始/v 利用/vn 12306/m 网站/n 的/ude1 另一个/mq 漏洞/n —/w —/w “/w 订购/v 军/n 残/a 票/n 无法/v 在线/vn 验证/v ”/w 。/w 黄牛/n 们/k 会/v 选择/vn 购买/v 半价/n 的/ude1 军/n 残/a 票/n ，/w 一旦/d 退票/vi 回购/v 失败/vn ，/w 需/v 支付/vn 的/ude1 手续费/n 也/d 会/v 减半/vi 。/w 
+记者/nnt 昨日/t 以/p “/w 赵大力/nr ”/w 的/ude1 名字/n 和/cc 虚假/a 的/ude1 [身份证/n 号/q]/nz 购买/v 了/ule 一张/mq 车票/n ，/w 在/p 票/n 种/q 一/m 栏/n 选择/v “/w 军/n 残/a 票/n ”/w 后/f ，/w 无需/v 验证/vn ，/w 直接/ad 购买/v 成功/a 。/w 
+该/rz 知情人/n 说/v ，/w 除/p “/w 军/n 残/a 票/n ”/w 外/f ，/w 黄牛/n 还/d 可能/v 选择/vn 买/v “/w 儿童票/nz ”/w 。/w 根据/p [相关/vn 规定/n]/nz ，/w 一个/mq 账户/n 同时/c 购买/v 的/ude1 [五/m 张/q]/mq 票/n 里/f ，/w 最多/ad 可以/v 有一个/mq 成人/n 和/cc [四/m 个/q]/mq 儿童/n ，/w 退票/vi 时/ng 同样/d 只需/v 支付/vn 半价/n 手续费/n 。/w 
+黄牛/n 花招/n 2/m 
+利用/v 支付/vn 等待时间/gi 循环/vn 抢/v 票/n 
+比起/v “/w 退票/vi 回购/v ”/w ，/w 更多/ad 的/ude1 黄牛/n 选择/v 用/p “/w 支付/v 等待时间/gi ”/w 循环/vn 抢/v 票/n 的/ude1 方式/n 来/vf 囤/ng 票/n 。/w 
+根据/p 12306/m 的/ude1 订票/vn 流程/n ，/w 一个/mq 账号/n 只要/c 预订/v 火车票/n 成功/a ，/w 会/v 有/vyou [45/m 分钟/qt]/mq 的/ude1 支付/vn 等待时间/gi ，/w 这段/r 时间/n 内/f ，/w 该车/r 的/ude1 席次/n 座位/n 是/vshi 被/pbei 锁定/v 的/ude1 。/w 而/cc 在/p 支付/v 等待时间/gi 内/f 取消/v 订单/n 或/c 支付/v 超时/vn 后/f ，/w 该/rz 火车票/n 将/d 避开/v “/w 随机/b 回/v 库/n ”/w ，/w 直接/ad 上/f 线/n 销售/vn 。/w 
+这/rzv 给/p 了/ule 黄牛/n 利用/v 的/ude1 空间/n 。/w 他们/rr 通过/p 刷票/nz 软件/n 取得/v 火车票/n 后/f ，/w 会/v 在/p 支付/v 等待时间/gi 内/f 上/f 线/n 寻找/v 买家/n 。/w 如果/c 没/d 找到/v 买家/n ，/w 他们/rr 会/v 在/p 该/rz 票/n 返回/v 票仓/nz 的/ude1 [第一/m 时间/n]/nz 刷票/nz ，/w 再/d 将/d 此/rzs 票/n 刷/v 回/v ，/w 以此/d 循环/vn 。/w 
+[昨日/t 下午/t]/nz ，/w 记者/nnt 联系/v 一名/mq 在/p 网上/s 出售/v 车票/n 的/ude1 黄牛/n 。/w 对方/n 称/v ，/w 票/n 就/d 在/p 自己/rr 的/ude1 账号/n 里/f ，/w 先/d 支付/v [100/m 元/q]/mq 手续费/n ，/w 接着/c 他/rr 会/v 将/d 账号/n 告诉/v 记者/nnt ，/w 完成/v 购买/vn 。/w “/w 你/rr 要/v 快一点/nz ，/w 打/v 过/uguo 手续费/n ，/w 你/rr 只剩/v [20/m 分钟/qt]/mq 来/vf 买票/nz 了/ule ”/w 。/w 
+随后/d ，/w 记者/nnt 又/d 加入/v 了/ule 数/n 个/q 抢/v 票/n 的/ude1 QQ/x 群/ng 。/w 群/ng 中/f ，/w 有/vyou 不少/m 网友/n 都/d 在/p 发布/v 求购/v 车票/n 的/ude1 信息/n ，/w 过/uguo 了/ule 一会儿/mq ，/w 一名/mq 用户/n 发布/v 消息/n 称/v ，/w [二/m 三线/n 城市/n]/mq 的/ude1 票/n 很难/d 买/v ，/w “/w 大家/rr 都/d 别/d 挑/v 了/ule ”/w ，/w 并/cc 公布/v 了/ule 个人/n 的/ude1 支付宝/nz 账号/n ，/w 称/v 每张/r 票/n [100/m 元/q]/mq 手续费/n ，/w “/w 打/v 款/q 快/a 的/ude1 有/vyou 票/n ，/w 挑/v 票/n 买/v 的/ude1 没/d 票/n ”/w 。/w 
+多/a 名/q 黄牛/n 证实/v ，/w 购买/v 车票/n 需要/v 提前/vn 支付/v 手续费/n ，/w 一般/ad 价格/n 为/p [100/m 元/q]/mq 一张/mq ，/w 而/cc 热门/a 线路/n 的/ude1 手续费/n 则/d 为/p [200/m 元/q]/mq 一张/mq 。/w 
+回应/vn 
+12306/m 称/v [采取/v 措施/n]/nz 封堵/v 网络/n 黄牛/n 倒票/v 
+据/p 新华社/nt 电/n 12306/m 网站/n 表示/v ，/w 网络/n “/w 黄牛/n ”/w 恶意/n 囤/ng 票/n 倒票/v ，/w 严重/a 损害/v 广大/b 旅客/n 的/ude1 切身利益/n ，/w 影响/v 网站/n 运行/vn 安全/an 。/w 针对/p 高频/b 访问/v 网站/n 、/w 高频/b 访问/v 余/ng 票/n 查询/v 网页/n 、/w 利用/v [45/m 分钟/qt]/mq 支付/v 期/qv 进行/vn 恶意/n 囤/ng 票/n 等/udeng 行为/n ，/w 12306/m 网站/n 已/d 针对性/n 地/ude2 采取/v 了/ule 防范/vn 和/cc 封堵/v 措施/n ，/w 坚决/ad 维护/v 正常/a 的/ude1 购票/vn 秩序/n 和/cc 网站/n 运行/vn 安全/an 。/w 
+另据/nz 记者/nnt 了解/v ，/w 铁路/n [公安/n 机关/n]/nz 已/d [采取/v 措施/n]/nz ，/w 严厉打击/v 网络/n “/w 黄牛/n ”/w 恶意/n 囤/ng 票/n 倒票/v 的/ude1 不法/b 行为/n 。/w 
+本/rz 版/n 采写/v //w 新京报/nz 记者/nnt 胡涵/nr 

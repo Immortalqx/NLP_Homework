@@ -1,0 +1,11 @@
+比特币/nz 近期/t 价格/n 走势/n 
+[北京/ns 时间/n]/nz 1月8日/t 早间/t 消息/n ，/w 淘宝/n [昨天/t 晚间/t]/nz 发布/v 公告/n ，/w 宣布/v 将/d 从/p 1月14日/t 起/vf 禁售/nz 比特币/nz 、/w 比特币/nz 矿机/nz 及/cc 挖/v 矿/n 教程/n 等/udeng 商品/n 。/w 
+根据/p 公告/n ，/w 遭到/v 淘宝/n 禁售/nz 的/ude1 商品/n 包括/v ：/w 
+—/w —/w 比特币/nz 、/w 莱特/nrf 币/ng 、/w 比奥/nrf 币/ng 、/w 夸克/gp 币/ng 、/w 无限/b 币/ng 、/w 可/v 可/v 币/ng 、/w 便士/q 币/ng 、/w PPCoin/x 、/w NameCoin/x 等/udeng 虚拟币/nz ；/w 
+—/w —/w 比特币/nz 挖/v 矿/n 教程/n 等/udeng 虚拟币/nz 的/ude1 教程/n 、/w 攻略/n ；/w 
+—/w —/w 比特币/nz 挖/v 矿机/nz 等/udeng 用于/v 获取/vn 相关/vn 虚拟币/nz 的/ude1 硬件/n 、/w 软件/n 。/w 
+淘宝/n 在/p 公告/n 中/f 声明/n ，/w 商家/n 应/v 遵守/vn 央行/n 、/w 工信部/nz 、/w 银监会/nz 、/w 保监会/nz 和/cc 证监会/n 《/w 关于/p 防范/v 比特币/nz 风险/n 的/ude1 通知/n 》/w 等/udeng 相关/vn [法律/n 法规/n]/nz 的/ude1 规定/n ，/w 并/cc 指出/v “/w 央行/n 明确/a 要求/n [第三/m 方/q 支付/v]/nz 机构/n 关闭/v 比特币/nz 、/w 莱特/nrf 币/ng 等/udeng 交易/v 通道/n ”/w 。/w 
+截至/v 目前/t ，/w 在/p [淘宝/n 搜索/vn]/nz “/w 比特币/nz ”/w 仍/d 可/v 返回/v 大量/m 结果/n ，/w 主要/b 以/p 矿机/nz 教程/n 为主/vi ，/w 价格/n 普遍/ad 不及/vi [1/m 元/q]/mq 。/w 
+[交易/vn 平台/n]/nz “/w 比特币/nz 中国/ns ”/w 的/ude1 [数据/n 显示/v]/nz ，/w 比特币/nz 在/p 去年/t 12月19日/t 下跌/vi 至/p [2752/m 元/q]/mq 的/ude1 近期/t 低点/n ，/w 随后/d 逐渐/d 反弹/vi ，/w 1月7日/t 触及/v [5660/m 元/q]/mq 。/w 在/p 淘宝/n 发出/v 公告/n 后/f ，/w 比特币/nz 价格/n 下跌/vi 至/p [4809/m 元/q]/mq ，/w 单/b 日/b 跌幅/n 达/v 15%/m 。/w 
+比特币/nz 交易/vn 主要/b 通过/p 各/rz 大/a [交易/vn 平台/n]/nz 展开/v ，/w 因此/c 淘宝/n 此次/rz 禁售/nz 预计/v 不会/v 对/p 其/rz 价格/n 产生/v 更大/d 影响/vn 。/w 专门/d 用于/v 生产/vn 比特币/nz 的/ude1 计算/vn 设备/n “/w 矿机/nz ”/w 则/d 会/v 受到/v 较大/d 影响/vn ，/w 许多/mq 产品/n 会/v 通过/p 淘宝/n 预售/vn 。/w 
+去年/t 12月/t ，/w 央行/n 要求/n 包括/v 支付宝/nz 在/p 内/f 的/ude1 [第三/m 方/q 支付/v]/nz 机构/n 关闭/v 比特币/nz 等/udeng [虚拟/vn 货币/n]/nz 的/ude1 充值/vi 通道/n ，/w 造成/v 比特币/nz 价格/n 暴跌/vi 。/w 但/c 在/p 游戏/n 公司/nis Zynga/x 宣布/v 接受/vn 比特币/nz 等/udeng 利好/a 的/ude1 推动/vn 下/f ，/w 比特币/nz 价格/n 一路/mq 回升/v ，/w 逼近/v [6000/m 元/q]/mq ，/w 今天/t 的/ude1 下跌/vn 属/v 近期/t 首次/m 。/w 

@@ -1,0 +1,14 @@
+孙杨/nr 无缘/vi 游泳/vn 奖项/n 
+[国际/n 泳联/nis]/nt 前天/n 公布/v 了/ule [2013/m 年年/d]/mq 度/qv 最佳/z 男女/n 运动员/nnt ，/w 中国/ns [跳水/vn 名将/n]/nz 何冲/nr 和/cc 何姿/nr 分别/d 荣膺/v 最佳/z 男女/n [跳水/vn 运动员/nnt]/nnd ，/w 这/rzv 是/vshi 继/vg 2011年/t 邱波/nr 和/cc 吴敏霞/nr 后/f ，/w [中国/ns 选手/n]/nz 第二次/mq 包揽/v 跳水/vn 男女/n 最佳/z 。/w 让/v 人/n 稍/d 感/vg 意外/a 的/ude1 是/vshi ，/w 中国/ns 游泳/vn 名将/n 孙杨/nr 无缘/vi 奖项/n 。/w 
+以下/f 是/vshi 各项/r 最佳/z 运动员/nnt ：/w 
+男子/n 游泳/vn ：/w 罗切特/nrf (/w 美国/nsf )/w 
+女子/n 游泳/vn ：/w 莱德基/nrf (/w 美国/nsf )/w 
+男子/n 跳水/vn ：/w 何冲/nr (/w 中国/ns )/w 
+女子/n 跳水/vn ：/w 何姿/nr (/w 中国/ns )/w 
+男子/n [高台/ns 跳水/vn]/nz ：/w 杜克/nrf (/w 哥伦比亚/nsf )/w 
+女子/n [高台/ns 跳水/vn]/nz ：/w 卡尔顿/nrf (/w 美国/nsf )/w 
+男子/n 水球/n ：/w 瓦尔加/ns (/w 匈牙利/nsf )/w 
+女子/n 水球/n ：/w 帕拉哈/nrf (/w 西班牙/nsf )/w 
+花样游泳/n ：/w 罗马什娜/nrf (/w 俄罗斯/nsf )/w 
+男子/n [公开/ad 水域/n]/nz ：/w 托马斯·鲁尔兹/nrf (/w 德国/nsf )/w 
+女子/n [公开/ad 水域/n]/nz ：/w 波莉亚娜·冲本/nrf (/w 巴西/nsf )/w 

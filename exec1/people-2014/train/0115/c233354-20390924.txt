@@ -1,0 +1,12 @@
+新京报/nz 讯/ng （/w 记者/nnt 邓琦/nr ）/w 昨天/t 京城/n 天气/n 不错/a ，/w 空气/n 良好/a ，/w 还有/v [蓝天/n 白云/n]/nz 相伴/vi ，/w 但是/c 最/d 小/a 相对湿度/n 只有/c 20%/m ，/w 很/d 干燥/a 。/w 今天/t [最高/a 气温/n]/nz [3/m ℃/w]/mq ，/w [空气/n 质量/n]/nz 不如/v 昨天/t ，/w 有/vyou 轻度/b 至/p 中度/b 污染/vn ，/w 大家/rr 外出/vi 要/v 注意/vn 防护/vn 。/w 
+昨天/t 白天/t ，/w 京城/n [空气/n 质量/n]/nz 还/d 不错/a ，/w 主要/b 在/p 二级/b 良/ag 水平/n ，/w 气温/n 也/d 不是/c 很低/d ，/w [最高/a 气温/n]/nz 在/p [4/m ℃/w]/mq 左右/f 。/w 随后/d ，/w 污染物/n 开始/v 聚集/vn ，/w 并且/c 呈现/v 西北/ns 低/a 、/w 东南/f 高/a 的/ude1 分布/vn 形势/n ，/w 北部/f 郊区县/n 接近/v 一级/b 优/ag ，/w 但是/c 南部/f 大兴/v 、/w 亦庄/nz 和/cc 通州/ns 等/udeng 地/ude2 已/d 达/v 重度/b 污染/vn 。/w 
+[今/tg 明/ag 两天/mq]/nz 扩散/v 条件/n 比较/d 不利/a ，/w 以/p 偏南/nz 风/n 为主/vi ，/w 今天/t 白天/t 城区/n 预计/v 为/p 中度/b 污染/vn ，/w [东南/f 地区/n]/nz 达到/v 重度/b 污染/v 水平/n ，/w 大家/rr 要/v 尽量/d 减少/v [户外/s 活动/vn]/nz ，/w 注意/v 有所/v 防护/vn 。/w 
+今天/t 白天/t 仍/d 以/p 晴/vi 转/v 阴/a 为主/vi 的/ude1 天气/n ，/w [最高/a 气温/n]/nz [3/m ℃/w]/mq 。/w 最近/t 昼夜/n 温差/n 大/a ，/w 室内/s 外/f 的/ude1 温差/n 也/d 不/d 小/a ，/w 大家/rr 要/v 注意/vn 随机/b 增减/v 衣物/n ，/w 以免/c 感冒/vi 。/w 
+北京/ns 部分/n 景点/n 天气/n 
+[八达/nz 岭/ng 长城/nz]/nz [晴/vi 转/v 多/a 云/vg]/nz -/w [14/m ℃/w]/mq 至/p [0/m ℃/w]/mq 
+[延庆/ns 龙庆峡/ns]/nz [晴/vi 转/v 多/a 云/vg]/nz -/w [14/m ℃/w]/mq 至/p [0/m ℃/w]/mq 
+昌平/ns 十三陵/ns [晴/vi 转/v 多/a 云/vg]/nz -/w [9/m ℃/w]/mq 至/p [2/m ℃/w]/mq 
+[怀柔/ns 红螺寺/nz]/nz [晴/vi 转/v 多/a 云/vg]/nz -/w [12/m ℃/w]/mq 至/p [1/m ℃/w]/mq 
+平谷/ns 金海湖/ns [晴/vi 转/v 多/a 云/vg]/nz -/w [13/m ℃/w]/mq 至/p [1/m ℃/w]/mq 
+[门头沟/nz 妙峰山/nz]/nz [晴/vi 转/v 多/a 云/vg]/nz -/w [15/m ℃/w]/mq 至/p -/w [2/m ℃/w]/mq 
+气象/n 信息/n 由/p [北京市/ns 专业/n 气象台/nis]/nt 1月14日18时/t 提供/v 

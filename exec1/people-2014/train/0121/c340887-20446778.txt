@@ -1,0 +1,11 @@
+2014年1月21日/t 下午/t 15时/t 左右/f ，/w 多/a 名/q 网友/n 在/p 微博/n 上/f 反应/vn 根/n [域/ng 服务器/n]/nz 出现/v 故障/n ，/w 导致/v 一些/mq 网站/n 无法/v 访问/vn 。/w 
+据/p 了解/v ，/w [根/n 服务器/n]/nz 主要/b 用来/v 管理/vn 互联网/n 的/ude1 主/ag 目录/n ，/w 全世界/n 只有/c [13/m 台/q]/mq 。/w [1/m 个/q]/mq 为主/vi [根/n 服务器/n]/nz ，/w 放置/v 在/p 美国/nsf 。/w 其余/rz [12/m 个/q]/mq 均/d 为辅/vi [根/n 服务器/n]/nz ，/w 其中/rz [9/m 个/q]/mq 放置/v 在/p 美国/nsf ，/w 欧洲/ns [2/m 个/q]/mq ，/w 位于/v 英国/ns 和/cc 瑞典/nsf ，/w 亚洲/ns [1/m 个/q]/mq ，/w 位于/v 日本/ns 。/w 所有/b [根/n 服务器/n]/nz 均/d 由/p [美国/nsf 政府/nis]/nt 授权/v 的/ude1 [互联网/n 域名/n]/nz 与/cc 号码/n 分配/v 机构/n ICANN/x [统一/vn 管理/vn]/nz ，/w 负责/v 全球/n [互联网/n 域名/n]/nz [根/n 服务器/n]/nz 、/w [域名/n 体系/n]/nz 和/cc IP/x 地址/n 等/udeng 的/ude1 管理/vn 。/w 
+有/vyou 网友/n 称/v ，/w 今天/t 对于/p 互联网/n 来讲/uls 不/d 太/d 平静/a ，/w 上午/t 腾讯/ntc 即/v 出现/vn 一系列/b 故障/n ，/w 导致/v 部分/n 腾讯/ntc 的/ude1 功能/n 无法/v 访问/vn 。/w 
+微博/n 网友/n 吐槽/nz 
+@/w 张立坤/nr 的/ude1 微博/n ：/w 多个/mq 递归/gm 服务器/n (/w 1.2.4.8,8.8.8.8,114.114.114.114/m )/w 竟然/d 同时/c 把/pba 某某/r 域名解析/gi 到/v 65.49.2.178/m !/w 首先/d 排除/v DNSPOD/x 的/ude1 问题/n ，/w 竟然/d 发现/v L/x 根/n 直接/ad 回复/v 的/ude1 A/x 记录/v 。/w 这次/r 问题/n 搞/v 大/a 了/ule !/w 不是/c GW/x 的/ude1 问题/n ，/w 就是/v 根/n 域名服务器/gi 的/ude1 问题/n 啊/y 
+@/w 资/ng 同/p 阿杰/nz ：/w 根据/p 大量/m [用户/n 反馈/vn]/nz ，/w 从/p [15/m ：/w 20/m 左右/f]/mq ，/w 全国/n 出现/v 大/a 范围/n DNS/x 故障/n ，/w 包括/v weibo/x 等/udeng 很多/m 网站/n 被/pbei 解析/v 到/v 65.49.2.178/m 上/f 。/w 
+@/w 王岩/nr _/w [超级/b 苍蝇/n]/nz ：/w 貌似/v 发生/vn 大事件/nz 了/ule ?/w 大量/m 域名/n (/w 有效/a 的/ude1 和/cc 无效/vi 的/ude1 )/w 被/pbei 解析/v 到/v 65.49.2.178/m ./w ./w ./w 诡异/a 
+@/w wis/x _/w ：/w 所有/b 不能/v 正常/a 访问/vn 的/ude1 域名/n 都/d 被/pbei 指向/v 65.49.2.178/m 了/ule 
+@/w 已/d 停/vi 药/n 已/d 放弃/v 治疗/vn ：/w 国内/s DNS/x 全/a 挂/v 了/ule ,/w 很多/m 域名/n 都/d 被/pbei 解析/v 为/p :/w [65/m ./w 49/m ./w 2/m ./w 178/m 连/ulian]/mq qq/x 和/cc 360/m 也/d 被/pbei 解析/v 成/v 这个/rz IP/x 了/ule 
+@/w 互联网/n 的/ude1 一些/mq 事/n ：/w 全国/n 出现/v 大/a 范围/n DNS/x 故障/n ，/w 用/p Google8/x ./w 8.8.8/m 的/ude1 都/d 出现/v 了/ule 无法/v 打开/v 网页/n 的/ude1 情况/n 。/w 
+@/w 枯木/nz -/w Linux/x [微博/n 达人/nz]/nz ：/w //w //w @/w aullik5/x :/w 比/p 上次/t cn/x 域名/n 被/pbei 攻击/vn 更/d 恶劣/a 的/ude1 事情/n 发生/v 了/ule !/w 没有/v 最坏/gi ，/w 只有/c 更坏/nz !/w //w //w @/w 安全宝/nr :/w 国内/s 所有/b 通用/vn 的/ude1 [顶级/b 域名/n]/nz ，/w 包括/v ./w com/x 、/w ./w cn/x 部分/n DNS/x 解析/v 被/pbei 污染/vn ，/w 解析/v 到/v 65.49.2.178/m 

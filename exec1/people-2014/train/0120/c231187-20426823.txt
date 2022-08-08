@@ -1,0 +1,9 @@
+全国/n 降水量/n 预报图/nz 
+
+全国/n [最低/a 气温/n]/nz 预报图/nz 
+[中央/n 气象台/nis]/nt 发布/v 最新/a [天气/n 预报/vn]/nz ，/w 预计/v 20/m ～/w 21日/t ，/w 受/v 中等/b 强度/n 冷空气/n 影响/vn ，/w 中/f 东部/f 大部/n 地区/n 有/vyou 4/m ～/w [8/m ℃/w]/mq 、/w 局/n 地/ude2 [10/m ℃/w]/mq 降温/vi ，/w 淮河/ns 以北/f 地区/n 并/cc 伴有/v 有/vyou 4/m ～/w [6/m 级/q]/mq 偏/d 北风/n 。/w 
+此外/c ，/w 东部/f 南部/f 海区/n 有/vyou 大风/n 。/w 受冷/nz 空气/n 影响/vn ，/w 预计/v [未来/t 三/m 天/qt]/nz ，/w 黄海/ns 大部/n 海域/n 将/d 有/vyou 7/m ～/w [8/m 级/q]/mq 、/w 阵风/n [9/m 级/q]/mq 的/ude1 西北风/n ，/w 东海/ns 南部/f 海域/n 、/w [台湾/ns 海峡/n]/ns 、/w 台湾/ns 以东/f 洋面/n 、/w 巴士海峡/nsf 、/w 南海/ns 东北部/f 和/cc 中/f 东部/f 海域/n 、/w 南海/ns 西南部/f 海域/n 将/d 有/vyou 7/m ～/w [8/m 级/q]/mq 、/w 阵风/n [9/m 级/q]/mq 的/ude1 东北风/n 。/w 
+[未来/t 三/m 天/qt]/nz 具体/a 预报/vn 
+20日08时/t 至/p 21日08时/t ，/w 西藏/ns 东部/f 、/w [川西/ns 高原/n]/nz 、/w 云南/ns 北部/f 、/w 贵州/ns 西北部/f 、/w 吉林/ns 中/f 东部/f 、/w 辽宁/ns 东部/f 、/w [山东/ns 半岛/n]/ns 北部/f 等/udeng 地/ude2 有/vyou 小到中雪/n 或/c 雨夹雪/n ；/w 云南/ns 中南部/f 、/w 贵州/ns 大部/n 、/w 广西/ns 西北部/f 及/cc 台湾/ns 等/udeng 地/ude2 有/vyou 小到中雨/n 。/w 淮河/ns 以北/f 大部/n 地区/n 有/vyou 4/m ～/w [6/m 级/q]/mq 偏/d 北风/n 。/w 黄海/ns 、/w 东海/ns 南部/f 、/w 南海/ns 西南部/f 有/vyou 7/m ～/w [8/m 级/q]/mq 风/n 。/w 
+21日08时/t 至/p 22日08时/t ，/w 新疆/ns 西北部/f 有/vyou 小到中雪/n ；/w 云南/ns 南部/f 、/w 台湾/ns 东部/f 等/udeng 地/ude2 有/vyou 小雨/n 或/c 阵雨/n 。/w [山东/ns 半岛/n]/ns 等/udeng 地/ude2 有/vyou 4/m ～/w [5/m 级/q]/mq 风/n 。/w 东海/ns 南部/f 、/w 南海/ns 大部/n 有/vyou 7/m ～/w [8/m 级/q]/mq 风/n 。/w 
+22日08时/t 至/p 23日08时/t ，/w 新疆/ns 北部/f 、/w 西藏/ns 西南部/f 等/udeng 地/ude2 有/vyou 小到中雪/n ，/w 其中/rz 西藏/ns 西南部/f 局/n 地/ude2 有/vyou 大雪/n 。/w 南海/ns 大部/n 有/vyou 7/m ～/w [8/m 级/q]/mq 风/n 。/w 

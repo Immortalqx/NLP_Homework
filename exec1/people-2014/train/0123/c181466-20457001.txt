@@ -1,0 +1,98 @@
+一/m 、/w 热点/n 舆情/n 数据/n 
+[热点/n 新闻/n]/nz 
+题目/n 
+来源/n //w 首发/v 媒体/n 
+参与/v 数/n 
+地域/n 
+无/v 座/q 有/vyou 座/q 一个/mq 价/n 公民/n 起诉/v 铁路/n 获/v 立案/vn 
+搜狐/ntc //w 新京报/nz 
+71241/m 
+广东/ns 
+洛阳/ns “/w 囚禁/v 性奴/nz ”/w 案/ng 主犯/n 李浩/nr 伏法/vi 
+搜狐/ntc //w 人民网/nz 
+57501/m 
+河南/ns 
+中国/ns 海外/s 移民/n 存量/n 近/a 千万/m 环境/n 医疗系/nit 重要/a 原因/n 
+网易/ntc //w [第一/m 财经/n 日报/n]/nz 
+50060/m 
+国际/n 
+国内/s [顶级/b 域名/n]/nz [根/n 服务器/n]/nz 故障/n 大部分/n 网站/n 受/v 影响/vn 
+新浪/ntc //w [环球/n 时报/n]/nz 
+30280/m 
+全国/n 
+[安徽/ns 阜阳/ns 市委/nis]/nt 书记/nnt 乘/v 公交/b 被/pbei 认出/v 回应/vn ：/w 经常/d 坐/v 
+网易/ntc //w 人民网/nz 
+23143/m 
+安徽/ns 
+热门/a 微博/n 
+题目/n 
+来源/n 
+讨论/v 数/n 
+地域/n 
+网民/gi 热/a 议/v 站票/n 该/rz 不/d 该/rz 半价/n 
+[腾讯/ntc 微博/n]/nz 
+1300000/m 
+全国/n 
+全国/n DNS/x 首/q 遭/v 大规模/b 故障/n 
+[新浪/ntc 微博/n]/nz 
+268279/m 
+全国/n 
+[国家/n 统计局/nis]/nto ：/w 年/qt 赚/v [5/m ./w 6/m 万元/q]/mq 属/v 高收入者/n 
+[新浪/ntc 微博/n]/nz 
+124193/m 
+全国/n 
+明天/t 小/a 年/qt 网民/gi 互/d 问/v 家乡/n 习俗/n 
+[腾讯/ntc 微博/n]/nz 
+90000/m 
+全国/n 
+论坛/n 热/a 帖/ng 
+题目/n 
+来源/n 
+点击量/nz //w 回帖/n 量/n 
+地域/n 
+为/p 叫吼/nz 的/ude1 干部/nnt 上/f 一堂/mq “/w 服务/v 百姓/n ”/w 之/uzhi 课/n 
+新华网/nz 发展/v 论坛/n 
+156651/3/m 
+吉林/ns 
+基层/n 是/vshi 培养/v [优秀/a 干部/nnt]/nz 的/ude1 大/a 熔炉/n 
+新华网/nz 发展/v 论坛/n 
+83782/3/m 
+全国/n 
+中央/n 禁令/n 高温/n “/w 烤/v ”/w 出/vf 公仆/n 型/k 
+凤凰/ns 论坛/n 
+42701/0/m 
+全国/n 
+保安/b 与/cc [数百/m 女/b]/mq 网友/n [发生/v 关系/n]/nz 何以/d 得手/vi ？/w 
+网易/ntc 论坛/n 
+19086/16/m 
+安徽/ns 
+武汉/ns 居民/n 腊肉/nf 铺/v 窗/ng 网友/n 戏称/v 民间/n 真/a “/w 土豪/n ”/w 
+网易/ntc 论坛/n 
+13524/47/m 
+湖北/ns 
+热点/n 博文/nz 
+作者/nnt //w 标题/n 
+来源/n 
+点击量/nz //w 评论/n 数/n 
+地域/n 
+至/p 诚/dg 大兵/nnd ：/w 合肥/ns 保安/b 性/ng 侵/vg [数百/m 女/b]/mq 网友/n 被判/v 无期/n 
+凤凰/ns 博客/n 
+407226/38/m 
+安徽/ns 
+石毓智/nr ：/w 为何/ryv “/w 特异功能/n ”/w 在/p 中国/ns 层出不穷/vl ？/w 
+[搜狐/ntc 博客/n]/nz 
+128852/219/m 
+江苏/ns 
+汪华斌/nr ：/w 我们/rr 的/ude1 公务员/nnt 为什么/ryv 开始/v 辞职/vn 了/ule ？/w 
+凤凰/ns 博客/n 
+112011/249/m 
+全国/n 
+邱林/nr ：/w 百姓/n 收入/n 没/d 增加/v ，/w GDP/x 增长/v 有/vyou 何/ry 意义/n ？/w 
+凤凰/ns 博客/n 
+17560/22/m 
+全国/n 
+欧爱民/nr ：/w 起诉/v 邹恒甫/nr ，/w 北大/n 有/vyou 四处/d 法律/n 硬伤/nz 
+凤凰/ns 博客/n 
+11157/7/m 
+北京/ns 
+

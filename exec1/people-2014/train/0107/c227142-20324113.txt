@@ -1,0 +1,7 @@
+[单兵/nr 武器/n]/nz 越来越/d 科幻/b 了/ule 
+一/m 、/w 雷达/n 头盔/n 
+对于/p 投入/v 战场/n 的/ude1 士兵/nnt 来说/uls ，/w “/w [战争/n 迷雾/n]/nz ”/w 这个/rz 词/n 有时/d 并非/v 只是/d 比喻/n 。/w 烟雾/n 、/w 黑暗/a 、/w 灌木/n 、/w 墙壁/n 和/cc 沙尘暴/n 都会/n 阻碍/v 部队/nis 的/ude1 视野/n ，/w 一系列/b 潜在/b 的/ude1 危险/an 由此/d 诞生/vi 。/w 敌军/n ，/w 尤其/d 是/vshi 那些/rz 隐藏/v 在/p 城市/n 丛林/n 中/f 的/ude1 敌军/n ，/w 可能/v 隐藏/v 在/p 任何/rz 角落/n 。/w 
+但/c 倘若/c 士兵/nnt 能够/v 探测/vn 出/vf 穿行/vi 在/p 烟雾/n 里/f 或者/c 水泥/n 墙/n 后面/f 的/ude1 敌人/n 呢/y ?/w 这/rzv 就是/v 目前/t 正在/d 开发/vn 研制/v 中/f 的/ude1 雷达/n 头盔/n 要/v 解决/vn 的/ude1 问题/n 。/w 
+雷达/n 头盔/n 项目/n 希望/v 通过/p 运动/vn 传感器/n ，/w 让/v 士兵/nnt 看到/v 半径/n [25/m 米/q]/mq 内/f 的/ude1 “/w 运动/vn ”/w 情况/n 。/w 整套/b 系统/n 重量/n 不/d 超过/v [1/m ./w 1/m 公斤/q]/mq ，/w 大约/d 不到/v 一半/m 的/ude1 重量/n 附着/v 在/p 头盔/n 上/f 。/w 有/vyou 了/ule 这样/rzv 的/ude1 装备/n ，/w 士兵们/nz 就/d 可以/v 提前/vn 发现/v 潜在/b 的/ude1 伏击/vn 。/w 
+由于/p 在/p 撰写/v 本文/r 时/ng ，/w 此/rzs 产品/n 仍然/d 在/p 研制/v 中/f ，/w 所以/c 很难说/vl 清/tg 它/rr 是/vshi 如何/ryv 利用/v 图像/n 、/w 声音/n 和/cc 其他/rzv 警告/vn 提示/v 。/w 可能/v 雷达/n 头盔/n 将/d 与/cc 士兵/nnt 目前/t 携带/v 的/ude1 其他/rzv 装备/n 协同/vd 使用/v 。/w 
+虽然/c 还有/v 很多/m 问题/n 尚待/nz 解决/v ，/w 比如/v 对于/p 佩戴/v 者/k 的/ude1 辐射/vn 大小/n ，/w 或/c 是/vshi 由/p 战友/n 或/c 野狗/nz 造成/v 的/ude1 的/ude1 错误/n 警报/n 。/w 但/c 毫无疑问/dl ，/w 一套/mq 精准/nz 的/ude1 雷达系统/gp 将/d 方便/a 士兵/nnt 寻找/v 可能/v 潜藏/v 在/p 任何/rz 地方/n 的/ude1 敌人/n 。/w 

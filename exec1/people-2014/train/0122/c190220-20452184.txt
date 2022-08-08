@@ -1,0 +1,6 @@
+据/p 日本/ns MyNaviNews/x 网站/n 1月21日/t 报道/v ，/w iOS/x 版/n VLC/x [视频/n 播放器/n]/nz “/w VLCforiOS/x ”/w 2.2/m 新版本/nz 日前/t 与/cc 公众/n 见面/vi 。/w 
+
+资料/n 图/n 
+据/p 了解/v ，/w 新版本/nz 采用/v 了/ule iOS7/x 的/ude1 扁平化/nz 设计/vn ，/w 并/cc 增加/v 了/ule 原生/b iOS7/x 界面/n 。/w 用户/n 可以/v 通过/p 侧边栏/gi 导航/vn 菜单/n 方便/a 地/ude2 管理/vn Wi/x -/w Fi/x 上/f 传/v ，/w 与/cc 密码/n 锁定/v 系统/n 的/ude1 结合/vn 也/d 得到/v 了/ule 进一步/d 的/ude1 强化/vn 。/w 
+此外/c ，/w “/w VLCforiOS/x ”/w 2.2/m 还/d 加强/v 了/ule [网络/n 存储/vn]/nz 功能/n ，/w 同时/c [支持/v 多/a 点触/nz 控/v]/nz 播放/v 视频/n 。/w 视频/n 播放/v 过程/n 中/f ，/w 用户/n 用/p 单指/nz 轻触/nz 屏幕/n 左右/f 移动/vn 即可/v 控制/vn [播放/v 时间/n]/nz ，/w 上下/f 移动/vn 则/d 可/v 调节/vn 播放/v 音量/n 和/cc [屏幕/n 亮度/n]/nz 。/w 两根/mq 手指/n 同时/c 触摸/v 屏幕/n 时/ng ，/w 视频/n 则/d 将/d 暂停/v 播放/vn ，/w 缩放/gi 界面/n 则/d 为/p 关闭/v 画面/n 。/w 
+另一方面/c ，/w 新版本/nz 还/d 支持/v 本地/rzs 访问/vn Dropbox/x 及/cc GoogleDrive/x 。/w 对于/p Dropbox/x ，/w 用户/n 登陆/vi 后/f 可/v 读写/gi Dropbox/x 内/f 的/ude1 文件/n 目录/n ，/w 并/cc 支持/v 文件/n 流媒体/nz 播放/v ，/w 对于/p GoogleDrive/x 的/ude1 访问/vn 则/d 仅限/nz 于/p 读写/gi 。/w 同时/c ，/w 新版本/nz 还/d 支持/v 从/p UPnP/x [多媒体/n 服务器/n]/nz 上/f 下载/v 文件/n 。/w (/w 实习/vn 编译/v ：/w 夏毅敏/nr 审稿/vi ：/w 柴梦成/nr 、/w 关超/nr )/w 

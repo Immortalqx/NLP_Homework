@@ -1,0 +1,2 @@
+[定安县/ns 气象台/nis]/nt 2014年01月08日07时14分/t 发布/v [大雾/n 黄色/n 预警/vn 信号/n]/nz ：/w 定安县/ns 定/v 城/n 地区/n 有些/rz 地方/n 已经/d 出现/v 能见度/n 小于/v [500/m 米/q]/mq 、/w 大于/v 等于/v [200/m 米/q]/mq 的/ude1 雾/n ，/w 预计/v [12/m 小时/n]/mq 内/f 雾/n 的/ude1 范围/n 将/d 扩大/v 并/cc 将/d 持续/vd ，/w 请/v 交通/n 等/udeng 部门/n 注意/v 做好/v 防范/vn 措施/n 。/w 
+[海口市/ns 气象台/nis]/nt 2014年01月08日07时45分/t 发布/v [大雾/n 黄色/n 预警/vn 信号/n]/nz ：/w 海口/ns 已经/d 出现/v 能见度/n 小于/v [500/m 米/q]/mq 、/w 大于/v 等于/v [200/m 米/q]/mq 的/ude1 雾/n 并/cc 将/d 持续/vd ，/w 请/v 交通/n 、/w 航运/n 等/udeng 部门/n 注意/v 做好/v 防范/vn 措施/n 。/w 

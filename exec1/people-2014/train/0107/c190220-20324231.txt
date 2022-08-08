@@ -1,0 +1,5 @@
+据/p 香港/ns 《/w 文汇报/nz 》/w 7日/t 报道/v ，/w 科技/n 巨头/n 雅虎/gi 欧洲/ns 网站/n 部分/n 广告/n 3日/t 被/pbei [病毒/n 入侵/v]/nz ，/w [荷兰/nsf 计算机/n 保安/b 公司/nis]/nt Fox/x -/w IT/x 估计/v ，/w 恶意软件/gi 当日/t 以/p 每小时/mq 约/d [30/m 万名/q]/mq 用户/n 的/ude1 速度/n 散播/v 。/w 
+报道/v 指出/v ，/w 受/v 此/rzs 影响/vn ，/w 每小时/mq [2/m ./w 7/m 万/d 部/q]/mq 计算机/n 中毒/vi ，/w 英国/ns 、/w 法国/nsf 及/cc 罗马尼亚/nsf 是/vshi 重灾区/n ，/w 亚太/b 、/w 北美洲/nsf 及/cc 拉美/n 不/d 受/v 影响/vn 。/w 目前/t ，/w 雅虎/gi 已/d 清除/v 问题/n 广告/n 。/w 
+黑客/n 在/p 雅虎/gi 广告/n 中/f 植入/v 恶意软件/gi ，/w 用户/n 浏览/v 时/ng ，/w 病毒/n 通过/p Java/x 系统/n 的/ude1 弱点/n 强行/d 上/f 载/v 到/v 私人/n 计算机/n ，/w 但/c 不/d 影响/v 苹果/nf 计算机/n 及/cc 流动/v 装置/n 。/w 
+Fox/x -/w IT/x 调查/vn 后/f 发现/v 早/a 在/p 2013年12月30日/t 已有/v 入侵/vn 迹象/n ，/w 认为/v 动机/n 或/c 与/cc 金钱/n 有关/vn ，/w 估计/v 黑客/n 受雇/nz 于/p 第三者/n 。/w 
+据/p 报道/v ，/w 恶意软件/gi 通常/d 用于/v 窃取/v 数据/n ，/w 黑客/n 也/d 可/v 通过/p 中毒/vi [计算机/n 上网/v]/nz 时/ng ，/w 入侵/v 其他/rzv 联机系统/gi 。/w 

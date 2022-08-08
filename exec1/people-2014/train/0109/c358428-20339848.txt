@@ -1,0 +1,110 @@
+市民/n 生病/vi 后/f 爱/v 去/vf 哪家/r 医院/nis 就诊/vi ?/w 在/p 哪里/rys 看病/vi 效果/n 好/a 费用/n 低/a ?/w [市场/n 星报/nz]/nz 记者/nnt 昨日/t 获悉/v ，/w [安徽省/ns 卫生厅/nis]/nto 日前/t 晒/v 出/vf 全省/n [41/m 家/q]/mq [三级/b 医院/nis]/nz [8/m 项/q]/mq 与/cc 群众/n 看病/vi 就医/vi 相关/vn 的/ude1 运行/vn 指标/n ，/w 对/p 医院/nis 的/ude1 管理/vn 水平/n 进行/vn 了/ule 量化/vn 排队/vi ，/w 其中/rz 位于/v 合肥市/ns 的/ude1 医院/nis 共有/v [11/m 家/q]/mq 。/w 
+“/w 不比/p 不/d 知道/v ，/w 一/m 比/p 吓一跳/nz ”/w ，/w [41/m 家/q]/mq [三级/b 医院/nis]/nz 同台/vd 比较/d 比/p 出/vf 了/ule 明显/a 的/ude1 差距/n 。/w “/w 我们/rr 就是/v 想/v 通过/p 公开/ad 这些/rz 数据/n ，/w 让/v 一些/mq 医院/nis 领导/n 出/vf ‘/w 一身/n 冷汗/nhd ’/w ，/w 起到/v 强化/vn 监管/vn 、/w 改进/v 服务/vn 、/w 引导/v 就医/vn [3/m 个/q]/mq 层面/n 的/ude1 效果/n 。/w ”/w [安徽省/ns 卫生厅/nis]/nto 厅长/nnt 于德志/nr 说/v 。/w 
+看病/vi 贵/a 不/d 贵/a ?/w 
+次/qv 均/d 门/n 急诊/n 花费/v 差距/n 相差/v [数十/m 倍/q]/mq 
+在/p “/w 次/qv 均/d 门/n 急诊/n 医药/n 费用/n ”/w 的/ude1 PK/x 中/f ，/w “/w 最/d 实惠/an ”/w 称号/n 被/pbei [安徽/ns 中医/nnd 学院/nis 附属/vn 针灸/n 医院/nis]/nth 摘/v 得/ude3 ，/w 这家/r 医院/nis 的/ude1 次/qv 均/d 门/n 急诊/n 医药/n 费用/n 只需/v [101/m ./w 37/m 元/q]/mq 。/w 
+次/qv 均/d 门/n 急诊/n 医药费/n 同样/d 在/p [100/m 至/p 200/m 元/q]/mq 区间/n 的/ude1 医院/nis 还有/v [28/m 家/q]/mq ，/w [200/m 至/p 300/m 元/q]/mq 区间/n 的/ude1 有/vyou [9/m 家/q]/mq ，/w [300/m 至/p 400/m 元/q]/mq 区间/n 的/ude1 有/vyou [2/m 家/q]/mq 医院/nis 。/w 次/qv 均/d 门/n 急诊/n 医药/n 费用/n 最/d 昂贵/a 的/ude1 是/vshi [安徽省/ns 胸/ng 科/n 医院/nis]/nth ，/w 花费/v 高达/v [1041/m ./w 47/m 元/q]/mq ，/w 足足/d 是/vshi 针灸/n 医院/nis 的/ude1 [10/m 倍/q]/mq 之/uzhi 多/a 。/w 
+此外/c ，/w [省立/b 医院/nis]/nth 、/w 安/ag 医大/nis 一/m 附/v 院/n 和/cc [安徽/ns 医科/n 大学/nis 附属/vn 巢湖/ns 医院/nis]/nt 的/ude1 次/qv 均/d 门/n 急诊/n 医药/n 费用/n 也/d 比较/d 高/a ，/w 分别/d 达到/v 了/ule [260/m ./w 62/m 元/q]/mq 、/w [264/m ./w 47/m 元/q]/mq 和/cc [268/m ./w 2/m 元/q]/mq 。/w 
+在/p [3/m 种/q]/mq 典型/n 的/ude1 单病种/nz 费用/n 方面/n 同样/d 差距/n 明显/a ，/w 如/v 单纯性/nz 阑尾炎/nhd 费用/n 差距/n [3/m ./w 9/m 倍/q]/mq ，/w [小儿/n 疝气/nhd]/nz 费用/n 差距/n [4/m ./w 3/m 倍/q]/mq ，/w 食管癌/nhd 费用/n 差距/n 更/d 高达/v [12/m ./w 4/m 倍/q]/mq —/w —/w 在/p [阜阳市/ns 人民/n 医院/nis]/nth 治疗/v 食管癌/nhd 仅/d 需/v 花费/vn [6590/m ./w 06/m 元/q]/mq ，/w 同样/d 的/ude1 病/n 在/p [皖南/ns 医学院/nis 第二/m 附属/vn 医院/nis]/nth 治疗/vn 则/d 需/v 花费/vn 了/ule [81490/m ./w 8/m 元/q]/mq 。/w 
+哪里/rys 病人/n 多/a ?/w 
+有的/rz 医生/nnt 半天/mq 看/v [50/m 多个/mq]/mq 病人/n ，/w 有的/rz 只/d 看/v [3/m 个/q]/mq 半/m 
+早晨/t [7/m 点/qt]/mq 就/d 去/vf 排队/vi 挂号/vi ，/w 却/d 发现/v 前面/f 早已/d 站/vi 了/ule [几十/m 号/q]/mq 人/n ，/w 你/rr 是否/v 也/d 有/vyou 这样/rzv 看病/vi 难/a 的/ude1 经历/n ?/w 在/p “/w 专家/nnt 人均/a 每/rz 半日/m 担负/v [诊疗/vn 人次/qv]/nz ”/w 的/ude1 比拼/nz 中/f ，/w [淮北市/ns 人民/n 医院/nis]/nth 的/ude1 指标/n 最高/a ，/w 达到/v 了/ule [52/m ./w 9/m 人次/qv]/mq ;/w 最低/a 的/ude1 是/vshi [芜湖市/ns 第二/m 人民/n 医院/nis]/nth ，/w 只有/c [3/m ./w 55/m 人次/qv]/mq 。/w 
+在/p 排名/vi 前/f [20/m 位/q]/mq 的/ude1 医院/nis 中/f ，/w 合肥/ns 有/vyou [省/n 中医院/nis]/nt 、/w [省立/b 医院/nis]/nth 、/w 省立/b 儿童医院/nis 、/w 安/ag 医大/nis 二/m 附/v 院/n 、/w [合肥市/ns 一/d 院/n]/nt 和/cc 安/ag 医大/nis 一/m 附/v 院/n [6/m 家/q]/mq 医院/nis 上/f 榜/n ，/w 专家/nnt 人均/a 每/rz 半日/m 担负/v [诊疗/vn 人次/qv]/nz 分别为/v [51/m 人次/qv]/mq 、/w [42/m 人次/qv]/mq 、/w [37/m ./w 5/m 人次/qv]/mq 、/w [30/m ./w 6/m 人次/qv]/mq 、/w [28/m 人次/qv]/mq 和/cc [26/m 人次/qv]/mq 。/w 
+下次/t 再/d 去/vf 看病/vi 时/ng ，/w 你/rr 也/d 可以/v 找/v 个人/n 少/a 的/ude1 医院/nis ，/w 这样/rzv 可以/v 减少/vn 等候/v 的/ude1 时间/n ，/w 医生/nnt 也/d 有/vyou 更多/ad 的/ude1 耐心/a 和/cc 时间/n 为/p 你/rr 诊断/vn 。/w 
+医生/nnt 收入/n 高/a 不/d 高/a ?/w 
+最高/a 20多万元/m ，/w 最低/a 只有/c 3万/m 
+都/d 说/v 医生/nnt 收入/n 高/a ，/w 不过/c 不同/a 医院/nis 的/ude1 医生/nnt 收入/n 也/d 是/vshi 参差不齐/al 。/w 在/p 公开/ad 的/ude1 “/w [医务/b 人员/n]/nz 人均/a 基本/a 技术/n 劳务/n 收入/n ”/w 中/f ，/w 最高/a 的/ude1 [皖南/ns 医学院/nis 弋矶山/nz 医院/nis]/nth 为/p [224580/m ./w 75/m 元/q]/mq //w 年/qt ，/w 最低/a 的/ude1 [淮北/ns 矿工/nnt 总医院/nis]/nth 仅有/nz [38159/m ./w 03/m 元/q]/mq //w 年/qt ，/w 差距/n 近/a [6/m 倍/q]/mq 。/w 
+安/ag 医大/nis 一/m 附/v 院/n 和/cc 安/ag 医大/nis 二/m 附/v 院/n [医务/b 人员/n]/nz 的/ude1 人均/a 基本/a 技术/n 劳务/n 收入/n 在/p 合肥市/ns 的/ude1 医院/nis 里/f 属于/v 佼佼者/n ，/w 分别/d 达到/v 了/ule [168330/m ./w 71/m 元/q]/mq 和/cc [163119/m ./w 31/m 元/q]/mq ，/w 超过/v 了/ule [安徽/ns 省立/b 医院/nis]/nth 的/ude1 [131133/m ./w 2/m 元/q]/mq 和/cc [安徽/ns 省立/b 儿童/n 医院/nis]/nth 的/ude1 [125265/m ./w 54/m 元/q]/mq ，/w 这/rzv [4/m 家/q]/mq 医院/nis 冲进/vf 了/ule 指标/n 排名/vi 的/ude1 前/f 十/m 。/w 
+其他/rzv 一些/mq 指标/n 也/d 有/vyou 不/d 小/a 差距/n 。/w 如/v CT/x 检查/v 阳性/n 率/v ，/w 最高/a 96.00%/m ，/w 最低/a 61.20%/m ，/w 差距/n 36.25%/m ;/w [Ⅰ/m 类/q]/mq 切口/n 手术/n 患者/n 预防/v 使用/vn 抗菌药/nz 比例/n ，/w 最低/a 18.74%/m ，/w 最高/a 89.20%/m ，/w 差距/n [4/m ./w 8/m 倍/q]/mq 。/w 
+指标/n 大/a 公开/ad ?/w 
+要/v 让/v 医院/nis 领导/n 出/vf “/w 一身/n 冷汗/nhd ”/w 
+此次/rz 省卫生厅/nis 在/p 包括/v 省直/b [医疗/n 机构/n]/nz ，/w 市/n 、/w 县级/b 三级/b 以上/f 医院/nis 在/p 内/f 的/ude1 共/d [41/m 所/usuo]/mq [医疗/n 机构/n]/nz (/w 含/v 国企/n 所属/n 医院/nis 、/w 民营医院/nis )/w 中/f ，/w 选取/v 了/ule [8/m 项/q]/mq 医院/nis 运行/vn 管理/vn 相关/vn 指标/n 进行/vn 计算/v 分析/vn ，/w 分别/d 是/vshi 次/qv 均/d 门/n 急诊/n 医药/n 费用/n 、/w CT/x 检查/v 阳性/n 率/v 、/w [Ⅰ/m 类/q]/mq 切口/n 手术/n 患者/n 预防/v 使用/vn 抗菌药/nz 比例/n 、/w 专家/nnt 人均/a 每/rz 半日/m 担负/v [诊疗/vn 人次/qv]/nz 、/w 人均/a 基本/a 技术/n 劳务/n 收入/n 、/w [百/m 元/q]/mq 医疗/n 收入/n 能耗/n 、/w 人员/n 支出/n 占/v 业务/n 支出/n 比重/n 和/cc 典型/n 单病种/nz 例/n 均/d 费用/n (/w 单纯性/nz 阑尾炎/nhd 、/w [小儿/n 疝气/nhd]/nz 、/w 食管癌/nhd )/w ，/w 它们/rr 在/p [一定/b 程度/n]/nz 和/cc 角度/n 上/f 能够/v 反映/vn 相关/vn 医院/nis 现阶段/t 运行/vn 管理/v 状况/n 。/w 
+“/w 公开/ad 这些/rz 数据/n ，/w 就是/v 要/v 给/p 医院/nis 管理者/nnt 形成/v 更大/d 的/ude1 压力/n ，/w 逼着/v 他们/rr 审视/v 自己/rr 的/ude1 工作/vn ，/w [找到/v 自己/rr]/nz 的/ude1 弱项/n ，/w 提高/v 管理/vn 水平/n ，/w 从而/c 努力/ad 改进/v 自己/rr 的/ude1 工作/vn 。/w ”/w 于德志/nr 说/v ，/w 这/rzv 也/d 是/vshi 鼓励/v 群众/n “/w [用/p 脚/n 投票/vi]/nz ”/w ，/w 选择/v 质量/n 好/a 、/w 价格/n 低/a 、/w 管理/vn 优/ag 的/ude1 医院/nis 。/w 
+同时/c ，/w 针对/p 部分/n 群众/n 盲目/ad 就医/vi 、/w 扎堆/nz 就医/vi 的/ude1 情况/n ，/w 公开/ad 这些/rz 指标/n 也/d 意味着/v 明确/a 告诉/v 群众/n “/w 哪里/rys 看病/vi 比较/d 难/a ”/w ，/w 起到/v 分流/vn 患者/n 、/w 缓解/v 看病/vn 难/a 看病/vi 贵/a 的/ude1 作用/n 。/w 
+于德志/nr 透露/v ，/w 像/v 这样/rzv 群众/n 关注/v 的/ude1 管理/vn 信息/n ，/w 今后/t 将/d 定期/d 披露/v 。/w 
+次/qv 均/d 门/n 急诊/n 医药/n 费用/n 
+序号/n 省直/b [医疗/n 机构/n]/nz 和/cc [三级/b 医院/nis]/nz 次/qv 均/d 门/n 急诊/n 医药/n 费用/n (/w 元/q )/w 
+1/m [安徽/ns 中医/nnd 学院/nis 附属/vn 针灸/n 医院/nis]/nth 101.37/m 
+2/m [太和县/ns 中医院/nis]/nth 107.52/m 
+3/m [六安市/ns 中医院/nis]/nth 108.4/m 
+4/m [滁州市/ns 中西医/n 结合/v 医院/nis]/nth 113.13/m 
+5/m [淮南/ns 新华/n 医疗/n 集团/nis]/nt [新华/n 医院/nis]/nth 130.88/m 
+6/m [蚌埠/ns 医学院/nis 第二/m 附属/vn 医院/nis]/nth 135.87/m 
+7/m [宿州/ns 市立/b 医院/nis]/nth 138.91/m 
+8/m [蚌埠市/ns 第三/m 人民/n 医院/nis]/nth 139.73/m 
+9/m [安庆市/ns 第一/m 人民/n 医院/nis]/nth 149.78/m 
+10/m [合肥市/ns 第二/m 人民/n 医院/nis]/nth 156.55/m 
+11/m [芜湖市/ns 第一/m 人民/n 医院/nis]/nth 158/m 
+12/m [安徽/ns 省立/b 儿童/n 医院/nis]/nth 160.98/m 
+13/m [阜阳市/ns 第二/m 人民/n 医院/nis]/nth 162.88/m 
+14/m [池州市/ns 人民/n 医院/nis]/nth 163.56/m 
+15/m 安徽省/ns 第二/m [人民/n 医院/nis]/nth 165.61/m 
+16/m [阜阳市/ns 人民/n 医院/nis]/nth 168.44/m 
+17/m [六安市/ns 人民/n 医院/nis]/nth 171.42/m 
+18/m [宣城市/ns 人民/n 医院/nis]/nth 172.03/m 
+19/m [黄山市/ns 人民/n 医院/nis]/nth 173.12/m 
+20/m [合肥市/ns 第一/m 人民/n 医院/nis]/nth 175.79/m 
+21/m [芜湖市/ns 第二/m 人民/n 医院/nis]/nth 176.52/m 
+22/m [亳州市/ns 人民/n 医院/nis]/nth 178.38/m 
+23/m [蚌埠/ns 医学院/nis 附属/vn 医院/nis]/nth 180.92/m 
+24/m [安庆/ns 市立/b 医院/nis]/nth 188.19/m 
+25/m [淮北市/ns 人民/n 医院/nis]/nth 190.17/m 
+26/m [淮北/ns 矿工/nnt 总医院/nis]/nth 192.23/m 
+27/m [安徽/ns 中医/nnd 学院/nis 第一/m 附属/vn 医院/nis]/nth 195.31/m 
+28/m [芜湖市/ns 中医院/nis]/nth 196.13/m 
+29/m [安徽/ns 医科/n 大学/nis 第二/m 附属/vn 医院/nis]/nth 199.86/m 
+30/m [皖南/ns 医学院/nis 第二/m 附属/vn 医院/nis]/nth 214.64/m 
+31/m [铜陵市/ns 人民/n 医院/nis]/nth 215.15/m 
+32/m [滁州市/ns 第一/m 人民/n 医院/nis]/nth 233.14/m 
+33/m [马鞍山市/ns 人民/n 医院/nis]/nth 237.57/m 
+34/m [淮南市/ns 第一/m 人民/n 医院/nis]/nth 239.06/m 
+35/m [马鞍山市/ns 中心/nis 医院/nis]/nth 255/m 
+36/m [安徽/ns 省立/b 医院/nis]/nth 260.62/m 
+37/m [安徽/ns 医科/n 大学/nis 第一/m 附属/vn 医院/nis]/nth 264.47/m 
+38/m [安徽/ns 医科/n 大学/nis 附属/vn 巢湖/ns 医院/nis]/nt 268.2/m 
+39/m [皖南/ns 医学院/nis 弋矶山/nz 医院/nis]/nth 336.3/m 
+40/m [淮南/ns 朝阳/ns 医院/nis]/nth 342.58/m 
+41/m [安徽省/ns 胸/ng 科/n 医院/nis]/nth 1041.47/m 
+单纯性/nz 阑尾炎/nhd 治疗/v 费用/n 
+序号/n 省直/b [医疗/n 机构/n]/nz 和/cc [三级/b 医院/nis]/nz 单纯性/nz 阑尾炎/nhd (/w 元/q )/w 
+1/m [太和县/ns 中医院/nis]/nth 3260/m 
+2/m [黄山市/ns 人民/n 医院/nis]/nth 4098.45/m 
+3/m [淮北市/ns 人民/n 医院/nis]/nth 4434.81/m 
+4/m [马鞍山市/ns 人民/n 医院/nis]/nth 4947.2/m 
+5/m [铜陵市/ns 人民/n 医院/nis]/nth 5063.31/m 
+6/m [芜湖市/ns 中医院/nis]/nth 5095.82/m 
+7/m [马鞍山市/ns 中心/nis 医院/nis]/nth 5276.22/m 
+8/m [安庆市/ns 第一/m 人民/n 医院/nis]/nth 5278.82/m 
+9/m [蚌埠市/ns 第三/m 人民/n 医院/nis]/nth 5300/m 
+10/m [安徽省/ns 胸/ng 科/n 医院/nis]/nth 5456.53/m 
+11/m [淮南/ns 朝阳/ns 医院/nis]/nth 5522.58/m 
+12/m [阜阳市/ns 人民/n 医院/nis]/nth 5548.34/m 
+13/m [宣城市/ns 人民/n 医院/nis]/nth 5563/m 
+14/m [安徽/ns 医科/n 大学/nis 附属/vn 巢湖/ns 医院/nis]/nt 5574.58/m 
+15/m [滁州市/ns 中西医/n 结合/v 医院/nis]/nth 5900.07/m 
+16/m [宿州/ns 市立/b 医院/nis]/nth 5907.35/m 
+17/m [滁州市/ns 第一/m 人民/n 医院/nis]/nth 5939.67/m 
+18/m [池州市/ns 人民/n 医院/nis]/nth 6082.37/m 
+19/m [淮北/ns 矿工/nnt 总医院/nis]/nth 6166.77/m 
+20/m [皖南/ns 医学院/nis 第二/m 附属/vn 医院/nis]/nth 6412.76/m 
+21/m [亳州市/ns 人民/n 医院/nis]/nth 6519.9/m 
+22/m 安徽省/ns 第二/m [人民/n 医院/nis]/nth 6656.73/m 
+23/m [阜阳市/ns 第二/m 人民/n 医院/nis]/nth 7026.17/m 
+24/m [安徽/ns 中医/nnd 学院/nis 第一/m 附属/vn 医院/nis]/nth 7653.16/m 
+25/m [淮南/ns 新华/n 医疗/n 集团/nis]/nt [新华/n 医院/nis]/nth 7772.01/m 
+26/m [六安市/ns 人民/n 医院/nis]/nth 7772.99/m 
+27/m [芜湖市/ns 第二/m 人民/n 医院/nis]/nth 7894.42/m 
+28/m [安庆/ns 市立/b 医院/nis]/nth 8345.41/m 
+29/m [淮南市/ns 第一/m 人民/n 医院/nis]/nth 8610/m 
+30/m [蚌埠/ns 医学院/nis 第二/m 附属/vn 医院/nis]/nth 9194.75/m 
+31/m [蚌埠/ns 医学院/nis 附属/vn 医院/nis]/nth 9223.48/m 
+32/m [皖南/ns 医学院/nis 弋矶山/nz 医院/nis]/nth 9314.98/m 
+33/m [芜湖市/ns 第一/m 人民/n 医院/nis]/nth 9360.86/m 
+34/m [安徽/ns 省立/b 医院/nis]/nth 9437.21/m 
+35/m [合肥市/ns 第一/m 人民/n 医院/nis]/nth 11429.6/m 
+36/m [安徽/ns 医科/n 大学/nis 第一/m 附属/vn 医院/nis]/nth 11453.46/m 
+37/m [安徽/ns 医科/n 大学/nis 第二/m 附属/vn 医院/nis]/nth 11745.6/m 
+38/m [安徽/ns 省立/b 儿童/n 医院/nis]/nth 12694.53/m 
+39/m [安徽/ns 中医/nnd 学院/nis 附属/vn 针灸/n 医院/nis]/nth 
+40/m [合肥市/ns 第二/m 人民/n 医院/nis]/nth 
+41/m [六安市/ns 中医院/nis]/nth 

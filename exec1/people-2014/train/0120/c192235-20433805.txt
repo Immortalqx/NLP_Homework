@@ -1,0 +1,35 @@
+
+年份/n 
+2003/m 
+2004/m 
+2005/m 
+2006/m 
+2007/m 
+2008/m 
+2009/m 
+2010/m 
+2011/m 
+2012/m 
+2013/m 
+[基尼/nrf 系数/n]/nz 
+0.479/m 
+0.473/m 
+0.485/m 
+0.487/m 
+0.484/m 
+0.491/m 
+0.490/m 
+0.481/m 
+0.477/m 
+0.474/m 
+0.473/m 
+[国家/n 统计局/nis]/nto 20日/t 发布/v 数据/n ，/w 2013年/t 全国/n [居民/n 收入/n]/nz [基尼/nrf 系数/n]/nz 为/p 0.473/m ；/w 全年/n [城镇/n 居民/n 人均/a 可支配/nz 收入/n]/nz [26955/m 元/q]/mq ，/w [扣除/v 价格/n 因素/n]/nz [实际/n 增长/v]/nz 7.0%/m ，/w [农村/n 居民/n]/nz 人均/a 纯收入/n [8896/m 元/q]/mq ，/w [实际/n 增长/v]/nz 9.3%/m 。/w 
+[基尼/nrf 系数/n]/nz （/w Ginicoefficient/x ）/w ，/w 是/vshi [20/m 世纪/n]/mq 初/f 意大利/nsf 经济学家/nnt 基尼/nrf ，/w 根据/p [劳伦茨/nrf 曲线/n]/nz 所/usuo 定义/n 的/ude1 判断/vn 收入/n [分配/v 公平/a]/nz 程度/n 的/ude1 指标/n 。/w 是/vshi 比例/n 数值/n ，/w 在/p 0/m 和/cc 1/m 之间/f ，/w 是/vshi 国际上/nz 用来/v 综合/vn 考察/v 居民/n 内部/f 收入/n 分配/v 差异/n 状况/n 的/ude1 一个/mq 重要/a 分析/v 指标/n 。/w 按照/p 国际/n 一般/ad 标准/n ，/w [0/m ./w 4/m 以上/f]/mq 的/ude1 [基尼/nrf 系数/n]/nz 表示/v 收入/n 差距/n 较大/d ，/w 当/p [基尼/nrf 系数/n]/nz 达到/v 0.6以上时/t ，/w 则/d 表示/v 收入/n 差距/n 很大/d 。/w 
+[数据/n 显示/v]/nz ，/w 全年/n [城镇/n 居民/n]/nz 人均/a 总收入/n [29547/m 元/q]/mq 。/w 其中/rz ，/w [城镇/n 居民/n 人均/a 可支配/nz 收入/n]/nz [26955/m 元/q]/mq ，/w 比/p 上/f 年/qt 名义/n 增长/v 9.7%/m ，/w [扣除/v 价格/n 因素/n]/nz [实际/n 增长/v]/nz 7.0%/m 。/w 在/p [城镇/n 居民/n]/nz 人均/a 总收入/n 中/f ，/w [工资/n 性/ng 收入/n]/nz 比/p 上/f 年/qt 名义/n 增长/v 9.2%/m ，/w 经营/v 净收入/n 增长/v 9.8%/m ，/w [财产/n 性/ng 收入/n]/nz 增长/v 14.6%/m ，/w [转移性/nz 收入/n]/nz 增长/v 10.1%/m 。/w 全年/n [城镇/n 居民/n 人均/a 可支配/nz 收入/n]/nz 中位数/gm [24200/m 元/q]/mq ，/w 比/p 上/f 年/qt 名义/n 增长/v 10.1%/m 。/w 按/p [城镇/n 居民/n]/nz 五/m 等份/n 收入/n 分组/vn ，/w 低收入/n 组/n [人均/a 可支配/nz 收入/n]/nz [11434/m 元/q]/mq ，/w 中等/b 偏下/f 收入/n 组/n [人均/a 可支配/nz 收入/n]/nz [18483/m 元/q]/mq ，/w 中等/b 收入/n 组/n [人均/a 可支配/nz 收入/n]/nz [24518/m 元/q]/mq ，/w 中等/b 偏/d 上/f 收入/n 组/n [人均/a 可支配/nz 收入/n]/nz [32415/m 元/q]/mq ，/w 高/a 收入/n 组/n [人均/a 可支配/nz 收入/n]/nz [56389/m 元/q]/mq 。/w 
+全年/n [农村/n 居民/n]/nz 人均/a 纯收入/n [8896/m 元/q]/mq ，/w 比/p 上/f 年/qt 名义/n 增长/v 12.4%/m ，/w [扣除/v 价格/n 因素/n]/nz [实际/n 增长/v]/nz 9.3%/m 。/w 其中/rz ，/w [工资/n 性/ng 收入/n]/nz 比/p 上/f 年/qt 名义/n 增长/v 16.8%/m ，/w 家庭/n 经营/v 纯收入/n 增长/v 7.4%/m ，/w [财产/n 性/ng 收入/n]/nz 增长/v 17.7%/m ，/w [转移性/nz 收入/n]/nz 增长/v 14.2%/m 。/w [农村/n 居民/n]/nz 人均/a 纯收入/n 中位数/gm [7907/m 元/q]/mq ，/w 比/p 上/f 年/qt 名义/n 增长/v 12.7%/m 。/w 按/p [农村/n 居民/n]/nz 五/m 等份/n 收入/n 分组/vn ，/w 低收入/n 组/n 人均/a 纯收入/n [2583/m 元/q]/mq ，/w 中等/b 偏下/f 收入/n 组/n 人均/a 纯收入/n [5516/m 元/q]/mq ，/w 中等/b 收入/n 组/n 人均/a 纯收入/n [7942/m 元/q]/mq ，/w 中等/b 偏/d 上/f 收入/n 组/n 人均/a 纯收入/n [11373/m 元/q]/mq ，/w 高/a 收入/n 组/n 人均/a 纯收入/n [21273/m 元/q]/mq 。/w 2013年/t 全国/n [居民/n 收入/n]/nz [基尼/nrf 系数/n]/nz 为/p 0.473/m 。/w 全年/n 农民工/nnd 总量/n [26894/m 万/d 人/n]/mq ，/w 比/p 上/f 年/qt 增加/v [633/m 万/d 人/n]/mq ，/w 增长/v 2.4%/m ，/w 其中/rz ，/w 本地/rzs 农民工/nnd [10284/m 万/d 人/n]/mq ，/w 增长/v 3.6%/m ，/w 外出/vi 农民工/nnd [16610/m 万/d 人/n]/mq ，/w 增长/v 1.7%/m 。/w 外出/vi 农民工/nnd 月/n 均/d [收入/n 水平/n]/nz [2609/m 元/q]/mq ，/w 比/p 上/f 年/qt 增长/v 13.9%/m 。/w 
+相关/vn 阅读/v ：/w 
+统计局/nis 回应/v [基尼/nrf 系数/n]/nz 遭/v 质疑/vn ：/w 符合/v 中国/ns 实际/n 
+今日/t [国家/n 统计局/nis]/nto 召开/v [新闻/n 发布会/n]/nz 通报/v 2013年/t [经济/n 运行/vn]/nz 情况/n 。/w [统计/vn 局长/nnt]/nz 马建堂/nr 称/v ，/w 2013年/t [基尼/nrf 系数/n]/nz 为/p 0.473/m ，/w 虽然/c 部分/n 专家/nnt 计算/v 出/vf 的/ude1 数据/n 比/p 统计局/nis 要/v 高/a ，/w 但是/c 也/d 有/vyou 一部分/m [专家/nnt 学者/nnt]/nnt 计算/v 的/ude1 数据/n 与/cc [国家/n 统计局/nis]/nto 的/ude1 数据/n 非常/d 相近/a 。/w 而/cc 统计局/nis 的/ude1 数据/n ，/w 与/cc 世界银行/ntcb 的/ude1 数据/n 也/d 非常/d 一致/a 。/w 
+马建堂/nr 称/v ，/w 经过/p 仔细/ad 的/ude1 [对比/vn 研究/vn]/nz ，/w [国家/n 统计局/nis]/nto 认为/v ，/w 官方/n 的/ude1 [基尼/nrf 系数/n]/nz ，/w 是/vshi 符合/v 中国/ns 实际/n 的/ude1 。/w 
+统计局/nis ：/w 0.473/m [基尼/nrf 系数/n]/nz 不/d 低收入/n 分配/v 要/v 加/v 改革/vn 
+[统计/vn 局长/nnt]/nz 马建堂/nr 称/v ，/w 0.473/m 的/ude1 [基尼/nrf 系数/n]/nz 也/d 不是/c 很低/d 的/ude1 ，/w 按照/p [国际/n 标准/n]/nz 或者/c 世行/n 的/ude1 标准/n ，/w [基尼/nrf 系数/n]/nz [0/m ./w 4/m 以上/f]/mq 就/d 表明/v 这个/rz 经济体/n 的/ude1 收入/n 分配/v 还是/c 存在/v 着/uzhe 很大/d 的/ude1 改进/vn 余地/n 。/w 所以/c 我们/rr 还是/c 要/v 正视/vn [这个/rz 问题/n]/nz ，/w 进一步/d 加大/v [收入/n 分配/v 改革/vn]/nz 的/ude1 力度/n ，/w 更好/d 更快/d 地/ude2 提高/v 中低收入/n 阶层/n 的/ude1 收入/n ，/w 合理/a 地/ude2 规范/v [合法/a 收入/n]/nz ，/w 坚决/ad 打击/v [非法/b 收入/n]/nz 。/w 通过/p 这些/rz 措施/n ，/w 我/rr 想/v 我国/n [居民/n 收入/n]/nz 水平/n 在/p 不断/d 增长/v 的/ude1 同时/c ，/w 收入/n 分配/v 也/d 更加/d 合理/a ，/w 使/v [人民/n 群众/n]/nz 特别/d 是/vshi 中低收入/n 阶层/n 的/ude1 群众/n 更好/d 更多/ad 地/ude2 分享/v 祖国/n 发展/vn 改革/vn 的/ude1 成果/n 。/w 

@@ -1,0 +1,40 @@
+据/p [海南省/ns 气象/n 服务/vn 中心/nis]/nt 23日05时/t 提供/v 的/ude1 [天气/n 预报/vn]/nz 
+23日/t 白天/t 到/v 25日/t 夜间/n ：/w 北部湾/ns 海面/n ，/w [琼州/ns 海峡/n]/nz ，/w 本/rz 岛/n 西部/f 和/cc 南部/f 海面/n ，/w 多/a 云/vg ，/w 东/f 到/v 东北风/n [5/m 级/q]/mq ；/w 本/rz 岛/n 东部/f 海面/n ，/w 多/a 云/vg ，/w 东/f 到/v 东北风/n [5/m 级/q]/mq ，/w 阵风/n [6/m 级/q]/mq ；/w 本/rz 岛/n 四周/f 沿海/f 各/rz 港口/n 从/p 现在/t 起降/vi 下/f 所/usuo 挂/v 强风/n 一号/mq 风球/nz ；/w 西沙/ns 、/w [中/f 沙/n 群岛/n]/ns 附近/f 海面/n ，/w 多/a 云/vg ，/w 东北风/n [5/m -/w 6/m 级/q]/mq ；/w [南沙/ns 群岛/n]/ns 附近/f 海面/n ，/w 多/a 云/vg 有/vyou 阵雨/n ，/w 东北风/n [5/m -/w 6/m 级/q]/mq ，/w 阵风/n [7/m 级/q]/mq 。/w 
+寒冷/a [蓝色/n 预警/vn]/nz 
+受冷/nz 空气/n 影响/vn ，/w 预计/v 未来/t [24/m 小时/n]/mq 内/f ，/w 本/rz 岛/n [中部/f 地区/n]/nz ，/w 西部/f 内陆/s 和/cc [北部/f 地区/n]/ns [最低/a 温度/n]/nz 将/d 维持/v [10/m 度/qv]/mq 及/cc 以下/f 。/w 
+陆地/n [天气/n 预报/vn]/nz 
+23日/t 白天/t 到/v 夜间/n ：/w 
+北部/f ，/w 多/a 云/vg 间/f 晴/vi ，/w [最低/a 气温/n]/nz [9/m -/w 11/m 度/qv]/mq ，/w [最高/a 气温/n]/nz [20/m -/w 22/m 度/qv]/mq 
+中部/f ，/w 多/a 云/vg 间/f 晴/vi ，/w [最低/a 气温/n]/nz [8/m -/w 10/m 度/qv]/mq ，/w [最高/a 气温/n]/nz [21/m -/w 23/m 度/qv]/mq 
+东部/f ，/w 多/a 云/vg 间/f 晴/vi ，/w [最低/a 气温/n]/nz [12/m -/w 14/m 度/qv]/mq ，/w [最高/a 气温/n]/nz [21/m -/w 23/m 度/qv]/mq 
+西部/f ，/w 多/a 云/vg 间/f 晴/vi ，/w [最低/a 气温/n]/nz [9/m -/w 11/m 度/qv]/mq ，/w [最高/a 气温/n]/nz [21/m -/w 23/m 度/qv]/mq 
+南部/f ，/w 多/a 云/vg 间/f 晴/vi ，/w [最低/a 气温/n]/nz [13/m -/w 15/m 度/qv]/mq ，/w [最高/a 气温/n]/nz [23/m -/w 25/m 度/qv]/mq 。/w 
+[西沙/ns 永兴岛/ns]/nz ，/w 多/a 云/vg ，/w 东北风/n [5/m -/w 6/m 级/q]/mq ，/w [21/m -/w 24/m 度/qv]/mq 
+中/f 沙/n 黄岩岛/nr ，/w 多/a 云/vg ，/w 东北风/n [5/m -/w 6/m 级/q]/mq ，/w [21/m -/w 24/m 度/qv]/mq 
+南沙/ns 永暑礁/ns ，/w 多/a 云/vg 有/vyou 小/a 阵雨/n ，/w 东北风/n [6/m 级/q]/mq ，/w [25/m -/w 27/m 度/qv]/mq 
+24日/t 白天/t 到/v 夜间/n ：/w 
+北部/f ，/w 多/a 云/vg ，/w [最低/a 气温/n]/nz [11/m -/w 13/m 度/qv]/mq ，/w [最高/a 气温/n]/nz [22/m -/w 24/m 度/qv]/mq 
+中部/f ，/w 多/a 云/vg ，/w [最低/a 气温/n]/nz [11/m -/w 13/m 度/qv]/mq ，/w [最高/a 气温/n]/nz [23/m -/w 25/m 度/qv]/mq 
+东部/f ，/w 多/a 云/vg ，/w [最低/a 气温/n]/nz [15/m -/w 17/m 度/qv]/mq ，/w [最高/a 气温/n]/nz [22/m -/w 24/m 度/qv]/mq 
+西部/f ，/w 多/a 云/vg ，/w [最低/a 气温/n]/nz [11/m -/w 13/m 度/qv]/mq ，/w [最高/a 气温/n]/nz [24/m -/w 26/m 度/qv]/mq 
+南部/f ，/w 多/a 云/vg ，/w [最低/a 气温/n]/nz [14/m -/w 16/m 度/qv]/mq ，/w [最高/a 气温/n]/nz [25/m -/w 27/m 度/qv]/mq 。/w 
+[西沙/ns 永兴岛/ns]/nz ，/w 多/a 云/vg ，/w 东/f 到/v 东北风/n [5/m 级/q]/mq ，/w [22/m -/w 25/m 度/qv]/mq 
+中/f 沙/n 黄岩岛/nr ，/w 多/a 云/vg ，/w 东/f 到/v 东北风/n [5/m 级/q]/mq ，/w [22/m -/w 25/m 度/qv]/mq 
+南沙/ns 永暑礁/ns ，/w 多/a 云/vg 有/vyou 小/a 阵雨/n ，/w 东北风/n [6/m 级/q]/mq ，/w [25/m -/w 27/m 度/qv]/mq 
+25日/t 白天/t 到/v 夜间/n ：/w 
+北部/f ，/w 多/a 云/vg ，/w [最低/a 气温/n]/nz [15/m -/w 17/m 度/qv]/mq ，/w [最高/a 气温/n]/nz [23/m -/w 25/m 度/qv]/mq 
+中部/f ，/w 多/a 云/vg ，/w [最低/a 气温/n]/nz [13/m -/w 15/m 度/qv]/mq ，/w [最高/a 气温/n]/nz [24/m -/w 26/m 度/qv]/mq 
+东部/f ，/w 多/a 云/vg ，/w [最低/a 气温/n]/nz [16/m -/w 18/m 度/qv]/mq ，/w [最高/a 气温/n]/nz [24/m -/w 26/m 度/qv]/mq 
+西部/f ，/w 多/a 云/vg ，/w [最低/a 气温/n]/nz [14/m -/w 16/m 度/qv]/mq ，/w [最高/a 气温/n]/nz [25/m -/w 27/m 度/qv]/mq 
+南部/f ，/w 多/a 云/vg ，/w [最低/a 气温/n]/nz [16/m -/w 18/m 度/qv]/mq ，/w [最高/a 气温/n]/nz [26/m -/w 28/m 度/qv]/mq 。/w 
+[西沙/ns 永兴岛/ns]/nz ，/w 多/a 云/vg ，/w 东/f 到/v 东北风/n [5/m 级/q]/mq ，/w [22/m -/w 26/m 度/qv]/mq 
+中/f 沙/n 黄岩岛/nr ，/w 多/a 云/vg ，/w 东/f 到/v 东北风/n [5/m 级/q]/mq ，/w [22/m -/w 26/m 度/qv]/mq 
+南沙/ns 永暑礁/ns ，/w 多/a 云/vg 有/vyou 小/a 阵雨/n ，/w 东北风/n [6/m 级/q]/mq ，/w [25/m -/w 28/m 度/qv]/mq 
+海南/ns [热点/n 新闻/n]/nz 推荐/v ：/w 
+蒋定之/nr 考察/v 海口/ns 春节/t 市场/n 关注/v 舌尖/n 上/f 的/ude1 安全/an 
+海口/ns 2/m 医院/nis 院长/nnt 被/pbei 查处/v [2055/m 人/n]/mq 上缴/v [千/m 万元/q]/mq 回扣/n 款/q 
+政协/nis 调研/vn 指出/v ：/w [海南/ns 五星级/b 酒店/nis]/nt 供过于求/vl 
+海南/ns 规定/n 养老金/n 上限/n 不得/vi 超过/v 全省/n [平均/a 工资/n]/nz [3/m 倍/q]/mq 
+海口/ns 宝马女/nz 尚未/d 露面/vi 家属/n 代/q 其/rz 道歉/vi 身份/n 成/v 谜/ng 
+海口/ns 取缔/v [2/m 处/n]/mq “/w 黑/a 驾校/nis ”/w 违规/v 行为/n 举报/v 电话/n 公布/v 
+陵水/ns 桥山/ns 遗址/n 有望/v 求解/vi 海南/ns [三/m 大/a]/mq 未/d 破/v 之/uzhi 谜/ng 

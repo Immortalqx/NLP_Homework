@@ -1,0 +1,12 @@
+科室/n ：/w [安徽/ns 省立/b 医院/nis 妇产科/nit]/nt 
+职务/n ：/w [安徽省/ns 肿瘤/n 医院/nis 妇瘤科/nit]/nt 主任/nnt 
+[安徽/ns 省立/b 医院/nis 妇产科/nit]/nt 副主任/nnt 
+职称/n ：/w 主任医师/nnt 
+擅长/v ：/w [微创/nz 手术/n]/nz 治疗/v 卵巢/n 、/w 子宫/n 、/w 宫颈/n 良性/b 与/cc 恶性/b 疾患/n （/w 重点/n 为/p [子宫/n 内/f 膜/n 异位/gb 症/ng]/nhd 、/w 子宫肌瘤/nhd 、/w 宫颈癌/nhd ）/w ，/w 及/cc [妇科/nit 恶性肿瘤/n]/nz （/w 宫颈癌/nhd 、/w [子宫/n 内膜癌/nz]/nhd 、/w 卵巢癌/nhd 等/udeng ）/w 的/ude1 [综合/vn 治疗/vn]/nz 。/w 
+医生/nnt 简介/n ：/w 赵卫东/nr ，/w 男/b ，/w 主任医师/nnt ，/w [博士/nnt 研究生/nnt]/nnt ，/w [硕士生/nnt 导师/nnt]/nnt ，/w [中华/nz 妇产科/nit 学会/v]/nt 全国/n 委员/nnt ，/w 中华/nz [妇科/nit 肿瘤/n]/nz 学会/v 青年/n 委员/nnt ，/w [安徽/ns 医学会/nis]/nt 妇产科/nit 学会/v 委员/nnt 兼/v 秘书/nnt ，/w [安徽/ns 医学会/nis]/nt [妇科/nit 肿瘤/n]/nz 学会/v 常委/nnt 兼/v 秘书/nnt ，/w [安徽省/ns 抗癌/vn 协会/nis]/nt [妇科/nit 肿瘤/n]/nz 分会/nis 常委/nnt 。/w 主持/v 及/cc 参与/v [省部级/b 课题/n]/nz 达/v 10余项/m ，/w [发表/v 文章/n]/nz 50余篇/m ，/w [申请/v 专利/n]/nz [5/m 项/q]/mq 。/w 目前/t 毕业/v 、/w 在读/b 研究生/nnt 30余人/m 。/w 现/tg 每年/r 开展/v [微创/nz 手术/n]/nz 1000余台/m ，/w 其中/rz [妇科/nit 恶性肿瘤/n]/nz 手术/n 达/v 400余台/m 专注/vi 于/p [妇科/nit 微创/nz 手术/n]/nz 治疗/vn ，/w 擅长/v 腹腔镜/n [子宫/n 肿瘤/n]/nz 及/cc 卵巢肿瘤/nhd 的/ude1 [微创/nz 手术/n]/nz ；/w 对/p 腹腔镜/n 下/f 保留/v 子宫/n 的/ude1 [多发/b 性/ng 肌瘤/n]/nz 挖除/nz 手术/n 进行/vn 了/ule 深入/ad 的/ude1 研究/vn ，/w 并/cc 有/vyou 多/a 篇/q 相关/vn 的/ude1 [论文/n 发表/v]/nz 。/w 目前/t 以/p [妇科/nit 肿瘤/n]/nz 问题/n 治疗/v 宫颈癌/nhd 的/ude1 [微创/nz 手术/n]/nz 治疗/vn 及/cc [妇科/nit 肿瘤/n]/nz 的/ude1 生物/n 治疗/vn 为/p 重点/n 核心/n 发展/v 方向/n 。/w 
+1993年/t 起/vf 从事/vi 本/rz 专业/n 。/w 
+2004年/t 获得/v [妇科/nit 肿瘤/n]/nz [专业/n 硕士/nnt 学位/n]/nz 。/w 
+[2005/m 被/pbei]/mq 聘为/v [副/b 主任医师/nnt]/nnt 、/w 妇产科/nit 行政/n 副主任/nnt 。/w 
+2006年8月/t ，/w 获得/v 独立/a 研究生/nnt 招生/vn 资格/n 。/w 
+2009年2/t -/w 5月/t 赴/v 德国/nsf 学习/v [妇科/nit 微创/nz]/nz 技术/n 及/cc [妇科/nit 肿瘤/n]/nz 的/ude1 治疗/vn 。/w 
+2011年/t 被/pbei 聘为/v 主任医师/nnt 。/w 

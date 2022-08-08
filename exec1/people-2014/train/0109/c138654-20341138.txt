@@ -1,0 +1,20 @@
+原/b 标题/n ：/w 央视/j 昨/tg 曝光/vi 网络/n 黄牛/n 利用/v 抢/v 票/n 软件/n 疯狂/a 刷票/nz 加价/vi 倒卖/v 
+抢/v 票/n 软件/n 十分钟/mq 刷/v 走/v [1245/m 张/q]/mq 
+今天/t （/w 9日/t ）/w ，/w [腊月/t 二/m 十九/m]/nz 火车票/n 开/v 售/vn ，/w 网络/n 火车票/n 预售/vn 进入/v 白热化/vn 。/w 昨天/t ，/w 央视/j 记者/nnt 通过/p 与/cc [网络/n 工程师/nnt]/nz 的/ude1 联手/vn ，/w 曝光/vi 了/ule 网络/n 黄牛/n 集团/nis 背后/f 的/ude1 [黑色/n 产业链/n]/nz 。/w 同时/c ，/w 也/d 向/p 读者/n 揭示/v 了/ule 利用/v 付费/vn 抢/v 票/n 软件/n ，/w 十分钟/mq 刷/v 走/v [1245/m 张/q]/mq 火车票/n 的/ude1 惊人/a 过程/n 。/w 
+据/p 央视/j 报道/v ，/w 火车票/n [购票/v 实名制/nz]/nz ，/w 无论是/c 通过/p 窗口/s 电话/n 还是/c 网络/n 买票/nz ，/w 必须/d 输入/v 本人/rr 的/ude1 身份证/n 信息/n ，/w 进站/vi 的/ude1 乘客/n 也/d 要/v 车票/n 、/w 身份证/n 和/cc 本人/rr 必须/d 一致/a 。/w 这/rzv 就/d 使得/vi 以前/f 倒票/v 的/ude1 票贩子/nnd 和/cc 黄牛/n 们/k 的/ude1 利益/n 空间/n 几乎/d 不/d 存在/v 了/ule 。/w 但是/c 今年/t 春运/n 开始/v 前/f ，/w 记者/nnt 却/d 发现/v ，/w 有/vyou 一些/mq 黄牛/n 又/d 倒卖/v 起/vf 了/ule 车票/n ，/w 于是/cc 记者/nnt 和/cc 一家/n 公司/nis 的/ude1 [网络/n 工程师/nnt]/nz 一起/s 追踪/v 网络/n 黄牛/n 的/ude1 倒票/v 手段/n 。/w 
+企业/n 版/n 抢/v 票/n 软件/n 包月/nz 至少/d [两千/m 元/q]/mq 
+十分钟/mq 就/d 能/v 买/v 到/v 上/f 千张/n 车票/n 
+他们/rr 发现/v 网上/s 有人/r 叫卖/vi 一种/mq 抢/v 票/n 软件/n ，/w 黄牛/n 能/v 买/v 到/v 很多/m 车票/n ，/w 依靠/v 的/ude1 正是/v 这种/r 收费/vn 的/ude1 抢/v 票/n 软件/n 。/w 网上/s 叫卖/vi 的/ude1 这种/r 抢/v 票/n 软件/n ，/w 个人/n 版/n 每个/r 月/n [50/m 元/q]/mq ，/w 企业/n 版/n 每个/r 月/n [两千/m 到/v 三千/m 元/q]/mq ，/w 这些/rz 软件/n 都/d 号称/v 瞬间/n 就/d 能/v 抢/v 到/v 大量/m 的/ude1 车票/n 。/w 
+2013年12月25日/t ，/w [网络/n 工程师/nnt]/nz 从/p 黄牛/n 手中/s 高价/n 购买/v 了/ule 企业级/nz 抢/v 票/n 软件/n ，/w 并用/vi 它/rr 尝试/v 购买/vn 2013年12月29日/t 广州/ns 到/v 北京/ns 的/ude1 车票/n 。/w G80/x 次/qv 、/w T16/x 次/qv …/w …/w [10/m 分钟/qt]/mq 就/d 买/v 到/v 了/ule [1245/m 张/q]/mq 车票/n 。/w 
+抢/v 票/n 软件/n 速度/n 达到/v 毫秒/q 
+还/d 可/v 多/a 账户/n 挂机/nz 刷票/nz 
+业内人士/n 告诉/v 记者/nnt ，/w 黄牛/n 使用/v 的/ude1 抢/v 票/n 软件/n 打破/v 了/ule 12306/m 网站/n 购票/v 规则/n ，/w 能/v 以/p 毫秒/q 速度/n [自动/d 识别/vn]/nz 验证码/nz ，/w 打破/v 了/ule 每个/r 验证码/nz 必须/d 手动输入/gi 的/ude1 规则/n ，/w 比/p 人/n 手快/v 百倍/mq 。/w 打破/v 12306/m 网站/n 每/rz [5/m 秒钟/qt]/mq 抢/v 一次/mq 的/ude1 限制/vn ，/w 黄牛/n 软件/n 能/v 以/p 毫秒/q 速度/n 实时/n 刷票/nz ，/w 变成/v 自动/d 刷票机/nz 。/w 
+还/d 可/v 多/a 账户/n 挂机/nz 刷票/nz ，/w 黄牛/n 的/ude1 抢/v 票/n 软件/n 在/p 前期/f 利用/v 假/a 身份证/n 在/p 12306/m 网站/n 注册/vn [几百/m 个/q]/mq 甚至/d 更多/ad 账号/n ，/w 批量/d 刷票/nz ，/w 完全/ad 不/d 受/v 12306/m 网站/n 对/p [普通/a 用户/n]/nz 每次/r 可/v 买/v [5/m 张/q]/mq 车票/n 的/ude1 限制/vn ，/w 造成/v 票源/nz 垄断/vn 。/w 
+黄牛/n 从/p 12306/m 网站/n 上/f 买/v 到/v 大量/m 车票/n 囤积/v 起来/vf ，/w 然后/c 采用/v 类似/a [股票/n 对/p 倒/vi]/nz 的/ude1 方式/n ，/w 再/d 把/pba 车票/n 卖给/v 真正/d 的/ude1 买家/n 。/w 
+利用/v [45/m 分钟/qt]/mq 的/ude1 支付/vn 期/qv 
+黄牛/n 寻找/v 买家/n 加价/vi 倒卖/v 
+[网络/n 工程师/nnt]/nz 告诉/v 记者/nnt ，/w [12306/m 对/p]/mq 抢/v 到/v 的/ude1 票/n 有/vyou 个/q [45/m 分钟/qt]/mq 的/ude1 支付/vn 期/qv ，/w 就是/v 在/p [45/m 分钟/qt]/mq 内/f 不/d 支付/v ，/w 这个/rz 票/n ，/w 是/vshi 一直/d 会/v 保留/vn 的/ude1 ，/w 那么/c 他们/rr 在/p 这段/r 时间/n 内/f ，/w 就/d 去/vf 找到/v 相应/vn 的/ude1 买家/n ，/w 真实/a 的/ude1 买家/n 去/vf 付款/vi ，/w 去/vf 购买/v 这/rzv 张/q 票/n ，/w 如果/c 有人/r 买/v 的话/udh ，/w 他/rr 就/d 把/pba 这边/rzs 的/ude1 票/n 放出/v 来/vf ，/w 然后/c 再/d 用/p 真实/a 买家/n 的/ude1 信息/n 去/vf 买/v 到/v 这/rzv 张/q 票/n 。/w 
+由于/p 12306/m 实行/v 的/ude1 是/vshi [实名制/nz 售票/vn]/nz ，/w 购票/v 人/n 必须/d 要/v 输入/vn [身份证/n 号码/n]/nz ，/w 才能/n 在/p 网上/s 买/v 上/f 车票/n ，/w 黄牛/n 如果/c 要/v [大量/m 地/ude2]/mq 囤积/v 车票/n ，/w 就/d 需要/v 有/vyou 足够/v 的/ude1 身份证/n 信息/n 。/w 记者/nnt 发现/v 他们/rr 使用/v 了/ule 一种/mq 自动/d 生成/v 身份/n 号码/n 的/ude1 软件/n ，/w 黄牛/n 利用/v 它/rr 生成/v 大批量/d 假/a 的/ude1 [身份证/n 号/q]/nz 和/cc 姓名/n ，/w 因为/c 12306/m 无法/v 辨别/vn 身份证/n 信息/n 的/ude1 真假/n ，/w 他们/rr 因此/c 才/d 可以/v 用/p 假/a 信息/n 大量/m 囤/ng 票/n ，/w 然后/c 加价/vi 倒卖/v 。/w 
+[官方/n 说法/n]/nz 
+用/p 假/a 身份证/n 网上/s 购票/v 无法/v 取出/v 火车票/n 
+此前/t ，/w [中国/ns 铁路/n 总公司/nis]/nt 回应/vn 假/a [身份证/n 号/q]/nz 可/v 购买/vn 火车票/n 一事时/t 曾/d 表示/v ，/w 使用/v 假/a 身份证/n 是/vshi 无法/v 取出/v 网络/n 或/c 电话/n 购买/v 的/ude1 火车票/n 的/ude1 。/w 同时/c ，/w 12306/m 网站/n 对/p 退回/v 的/ude1 车票/n ，/w 均/d 采取/v 计算机/n 随机/b 处理/vn 的/ude1 方式/n 进行/vn 处理/vn ，/w 系统/n 会/v 根据/p 距离/n 车票/n 开车/vi 时间/n 的/ude1 远近/n ，/w 在/p 确保/v 每/rz 一张/mq 车票/n 都/d 有/vyou 充足/a 时间/n 再次/d 售出/v 的/ude1 前提/n 下/f ，/w 自动/d 随机/b 地/ude2 将/d 退回/v 的/ude1 车票/n 再次/d 放出/v ，/w 供/vi 旅客/n 购买/v 。/w （/w 记者/nnt 王薇/nr ）/w 

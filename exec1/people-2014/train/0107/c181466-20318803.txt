@@ -1,0 +1,3 @@
+司机/nnt 打开/v 后备箱/nz 逃/v 罚单/nz 
+[北京/ns 街头/s]/nz 怪相/n ：/w 司机/nnt 为/p 逃/v 罚单/nz 开/v 后备箱/nz 挡/v 车牌/n 
+“/w 路边/s 上/f 的/ude1 车/n 都/d 开/v 着/uzhe 后备/b 厢/ng 停着/v ，/w 不怕/v 丢/v 东西/n 吗/y ？/w ”/w 近日/t ，/w 在/p 朝阳区/ns 恒惠/ntc 路/n 南口/ns 写字楼/n 下/f 出现/v 一个/mq 怪现象/nz ：/w 多/a 辆/q 停放/v 在/p 路边/s 的/ude1 车/n 都/d 打开/v 着/uzhe 后备/b 厢/ng (/w 右/f 图/n )/w ，/w 司机/nnt 却/d 不/d 在/p 附近/f 。/w 奇怪/v 的/ude1 是/vshi ，/w 这些/rz 车/n 都/d 没有/v 被/pbei [交通/n 协管员/nz]/nz 贴/v 违法/vn 停车/vi 告知/v 单/b ，/w 而/cc 盖/v 着/uzhe 后备/b 厢/ng 的/ude1 车/n 都/d 被/pbei 贴/v 了/ule 。/w 附近/f 的/ude1 [交通/n 协管员/nz]/nz 也/d 对此/d 深表/v 无奈/d ，/w [朝阳/ns 交通/n 支队/nis]/nto 昨天/t 则/d 向/p 记者/nnt 表示/v ，/w 希望/v 车主/n 不要/d 抱有/v [侥幸/ad 心理/n]/nz ，/w 按规定/nz 停车/vi 。/w 

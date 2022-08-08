@@ -1,0 +1,6 @@
+２１日/t 下午/t ，/w 有/vyou 网友/n 反映/v 一些/mq 网站/n 无法/v 正常/a 访问/vn 。/w 对此/d ，/w [中国/ns 互联网络/n 信息/n 中心/nis]/nt （/w ＣＮＮＩＣ/x ）/w 官方/n 微博/n 称/v ，/w 经/p 初步/d 评估/vn ，/w 这/rzv 是/vshi 国内/s [通用/vn 顶级/b 域名/n]/nz 的/ude1 根/n 解析/v 出现/vn 问题/n 所致/nz 。/w 截至/v 目前/t ，/w 已经/d 恢复/v 了/ule 正常/a 服务/vn 。/w 
+２１日１５时/t 左右/f ，/w 中国/ns [顶级/b 域名/n]/nz [根/n 服务器/n]/nz 出现/v 故障/n ，/w 大部分/n 网站/n 受/v 影响/vn 。/w ＣＮＮＩＣ/x 的/ude1 微博/n 显示/v ，/w 经/p 初步/d 评估/vn ，/w 此/rzs 故障/n 是/vshi 因/p 国内/s [通用/vn 顶级/b 域名/n]/nz 的/ude1 根/n 解析/v 出现/vn 问题/n 所致/nz 。/w 此次/rz 故障/n 未/d 对/p [国家/n 顶级/b 域名/n]/nz ．/w ＣＮ/x 造成/v 影响/vn ，/w 所有/b 运行/vn 服务/vn 正常/a 。/w 
+据/p 了解/v ，/w [根/n 服务器/n]/nz 主要/b 用来/v 管理/vn 互联网/n 的/ude1 主/ag 目录/n 。/w 全球/n 共有/v [１３/m 台/q]/mq 根/n 域名服务器/gi ，/w [１/m 个/q]/mq 为主/vi [根/n 服务器/n]/nz ，/w 放置/v 在/p 美国/nsf 。/w 其余/rz [１２/m 个/q]/mq 均/d 为辅/vi [根/n 服务器/n]/nz ，/w 其中/rz [９/m 个/q]/mq 放置/v 在/p 美国/nsf ；/w 欧洲/ns [２/m 个/q]/mq ，/w 位于/v 英国/ns 和/cc 瑞典/nsf ；/w 亚洲/ns [１/m 个/q]/mq ，/w 位于/v 日本/ns 。/w 
+ＣＮＮＩＣ/x 表示/v ，/w 将/d 继续/v 对/p 此事/r 进行/vn 监测/vn 。/w 
+相关/vn 新闻/n ：/w 
+国内/s 访问/v [通用/vn 顶级/b 域名/n]/nz 现/tg 大/a 范围/n 故障/n 或/c 遭/v 攻击/vn 

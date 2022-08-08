@@ -1,0 +1,14 @@
+自/p 《/w [工人/nnt 物语/nz]/nz OL/x 》/w 推出/v “/w 超度/v 之/uzhi 神/n ”/w 将军/nnt 以来/f ，/w 收集/v “/w 将军/nnt 之/uzhi 魂/n ”/w 已经/d 成为/v 众/ag 玩家/n 的/ude1 [首要/b 任务/n]/nz ，/w 而/cc 近期/t 推出/v 的/ude1 精英/n 冒险/vi 副本/n 就/d 为/p 玩家/n 准备/v 了/ule 大量/m 的/ude1 “/w 将军/nnt 之/uzhi 魂/n ”/w 掉落/v ，/w 如何/ryv 能/v 用/p 最少/d 的/ude1 兵/n 在/p 最/d 短/a 的/ude1 时间/n 内/f 获取/v 将军/nnt 之/uzhi 魂/n 呢/y ？/w 
+《/w [工人/nnt 物语/nz]/nz OL/x 》/w 的/ude1 玩家/n “/w 星恋/nz 影/ng ”/w 自制/v “/w 精英/n 海盗/n ！/w ”/w 攻略/n 分享/v ，/w 如果/c 你/rr 有/vyou 更好/d 的/ude1 经验/n 心得/n 可以/v 发布/vn 到/v [官方/n 论坛/n]/nz ：/w http/x :/w //w //w bbs/x ./w upaidui/x ./w com/x //w forums/x //w 48/m 
+以下/f 为/p 玩家/n 模拟/v 攻略/n ，/w 仅/d 攻/v 参考/vn ：/w 
+总共/d 派出/v 兵力/n ：/w 1800/m 士兵/nnt 、/w 1200/m 新兵/n 、/w 600/m 骑兵/nnt 、/w 500/m 民兵/n 、/w 400/m 精英/n 士兵/nnt 、/w 150/m 炮兵/nnd 。/w 
+攻击/v 营地/n 1/m ：/w 【/w 300/m 铁蒺藜/n 、/w 100/m 甲板/n 水/n 、/w 15/m 疯子/n 船/n 厨/ng 】/w 派出/v 兵力/n ：/w [第一/m 波/n]/mq 250/m 士兵/nnt ；/w [第二/m 波/n]/mq 200/m 新兵/n ；/w 第三波/nz 100/m 士兵/nnt 50/m 精英/n 士兵/nnt 100/m 炮兵/nnd 。/w 
+攻击/v 营地/n 2/m ：/w 【/w 300/m 铁蒺藜/n 、/w 20/m 疯子/n 船/n 厨/ng 】/w 派出/v 兵力/n ：/w [第一/m 波/n]/mq 250/m 士兵/nnt ；/w [第二/m 波/n]/mq 250/m 士兵/nnt ；/w 第三波/nz 140/m 精英/n 士兵/nnt 110/m 炮兵/nnd 。/w 
+攻击/v 营地/n 3/m ：/w 【/w 300/m 铁蒺藜/n 、/w 10/m 疯子/n 船/n 厨/ng 、/w 30/m 小气/a 的/ude1 二级/b 军官/nnt 】/w 派出/v 兵力/n ：/w [第一/m 波/n]/mq 250/m 士兵/nnt 、/w [第二/m 波/n]/mq 200/m 骑兵/nnt 、/w 第三波/nz 100/m 民兵/n 150/m 炮兵/nnd 。/w 
+攻击/v 营地/n 4/m ：/w 【/w 100/m 铁蒺藜/n 、/w 2/m 疯子/n 船/n 厨/ng 、/w 250/m 小气/a 的/ude1 二级/b 军官/nnt 】/w 派出/v 兵力/n ：/w [第一/m 波/n]/mq 140/m 新兵/n 、/w [第二/m 波/n]/mq 200/m 士兵/nnt 、/w 第三波/nz 200/m 新兵/n 、/w [第四/m 波/n]/mq 200/m 新兵/n 、/w [第五/m 波/n]/mq 250/m 士兵/nnt 。/w 
+攻击/v 陷阱/n ：/w 【/w 400/m 小气/a 军官/nnt 】/w 派出/v 兵力/n ：/w [第一/m 波/n]/mq 200/m 新兵/n 、/w [第二/m 波/n]/mq 200/m 新兵/n 、/w 第三波/nz 200/m 新兵/n 、/w [第四/m 波/n]/mq 250/m 民兵/n 。/w 
+攻击/v 营地/n 5/m ：/w 【/w 10/m 疯子/n 船/n 厨/ng 、/w 60/m 小气/a 的/ude1 二级/b 军官/nnt 】/w 派出/v 兵力/n ：/w [第一/m 波/n]/mq 200/m 骑兵/nnt 、/w [第二/m 波/n]/mq 200/m 骑兵/nnt 、/w 第三波/nz 150/m 民兵/n 100/m 炮兵/nnd 。/w 
+攻击/v 营地/n 6/m ：/w 【/w 300/m 铁蒺藜/n 、/w 20/m 疯子/n 船/n 厨/ng 】/w 派出/v 兵力/n ：/w [第一/m 波/n]/mq 200/m 士兵/nnt 50/m 精英/n 士兵/nnt 、/w [第二/m 波/n]/mq 250/m 士兵/nnt 、/w 150/m 精英/n 士兵/nnt 100/m 炮兵/nnd 。/w 
+关于/p 《/w [工人/nnt 物语/nz]/nz OL/x 》/w ：/w 
+《/w [工人/nnt 物语/nz]/nz OL/x 》/w 是/vshi 与/cc 《/w [帝国/n 时代/n]/nz 》/w 和/cc 《/w 文明/n 》/w 并列/v 的/ude1 经典/n [策略/n 游戏/n]/nz 品牌/n 《/w [工人/nnt 物语/nz]/nz 》/w 的/ude1 网络/n 版本/n ，/w 由/p 世界/n 领先/vi 的/ude1 游戏/n 厂商/nnd [育碧/ntc 软件/n]/nz 出品/vi 。/w 游戏/n 拥有/v 惊人/a 的/ude1 细腻/a 画风/n 和/cc 卓越/a 的/ude1 经济/n 系统/n ，/w 玩家/n 将/d 在/p 栩栩如生/al 的/ude1 中世纪/t 欧洲/ns ，/w 采集/v 资源/n ，/w 发展/v 经济/n ，/w 训练/v 士兵/nnt 开拓/v 疆土/n ，/w 体验/v 从小/d 村庄/n 到/v 繁荣/an 强大/a 帝国/n 的/ude1 蜕变/vn 乐趣/n 。/w 
+

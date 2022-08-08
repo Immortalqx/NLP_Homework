@@ -1,0 +1,55 @@
+[第/m 71/m 届/q]/mq [美国/nsf 电影/n 电视/n 金球奖/nz]/nz [颁奖/vn 典礼/n]/nz 于/p [北京/ns 时间/n]/nz 1月13日/t 上午/t (/w 美国/nsf 时间/n 1月12日/t 晚/tg )/w ，/w 在/p 好莱坞/nsf 举行/v 。/w 电影/n 、/w 电视/n 两/m 大板块/nz 奖项/n 将/d 分别/d 按照/p 剧情/n 类/q 和/cc 喜剧/n 音乐/n 类/q 逐一/d 揭晓/vi ，/w 美国/nsf [电影/n 导演/nnt]/nnt 伍迪-艾伦/nrf (/w WoodyAllen/x )/w 荣获/v 终身/n 成就/n 获/v ，/w 具体/a 获奖/vn 名单/n 如下/vi ：/w 
+电影/n 类/q 
+[最佳/z 导演/nnt]/nz (/w BESTDIRECTOR/x -/w MOTIONPICTURE/x )/w 
+阿方索-卡隆/nrf 《/w 地心引力/gg 》/w 
+最佳/z 剧情片/nz (/w BESTMOTIONPICTURE/x -/w DRAMA/x )/w 
+《/w [为奴/nz 十二/m 年/qt]/nz 》/w 
+最佳/z 剧情片/nz 男主角/nnt (/w BESTPERFORMANCEBYANACTORINAMOTIONPICTURE/x -/w DRAMA/x )/w 
+马修-麦康纳/nrf 《/w [达拉斯/nsf 买家/n 俱乐部/nis]/nt 》/w 
+最佳/z 剧情片/nz 女主角/nnt (/w BESTPERFORMANCEBYANACTRESSINAMOTIONPICTURE/x -/w DRAMA/x )/w 
+凯特-布兰切特/nrf 《/w 蓝色/n 茉莉/n 》/w 
+最佳/z 音乐/n //w 喜剧片/n (/w BESTMOTIONPICTURE/x -/w MUSICALORCOMEDY/x )/w 
+《/w 美国/nsf 骗局/n 》/w 
+最佳/z 音乐/n //w 喜剧片/n 女主角/nnt (/w BESTPERFORMANCEBYANACTRESSINAMOTIONPICTURE/x -/w MUSICALORCOMEDY/x )/w 
+艾米-亚当斯/nrf 《/w 美国/nsf 骗局/n 》/w 
+最佳/z 音乐/n //w 喜剧片/n 男主角/nnt (/w BESTPERFORMANCEBYANACTORINAMOTIONPICTURE/x -/w MUSICALORCOMEDY/x )/w 
+莱昂纳多-迪卡普里奥/nrf 《/w [华尔街/nsf 之/uzhi 狼/n]/nz 》/w 
+[最佳/z 女/b 配角/nnt]/nz (/w BESTPERFORMANCEBYANACTRESSINASUPPORTINGROLEINAMOTIONPICTURE/x )/w 
+詹妮弗-劳伦斯/nrf 《/w 美国/nsf 骗局/n 》/w 
+[最佳/z 男/b 配角/nnt]/nz (/w BESTPERFORMANCEBYANACTORINASUPPORTINGROLEINAMOTIONPICTURE/x )/w 
+杰瑞德-莱托/nrf 《/w [达拉斯/nsf 买家/n 俱乐部/nis]/nt 》/w 
+最佳/z 外语/n 片/q (/w BESTFOREIGNLANGUAGEFILM/x )/w 
+《/w 绝美/nz 之/uzhi 城/n 》/w 
+最佳/z 编剧/nnt (/w BESTSCREENPLAY/x -/w MOTIONPICTURE/x )/w 
+斯派克-琼斯/nrf 《/w 她/rr 》/w 
+最佳/z [原创/b 音乐/n]/nz (/w BESTORIGINALSCORE/x -/w MOTIONPICTURE/x )/w 
+《/w 一切/rz 尽失/nz 》/w 
+最佳/z [原创/b 歌曲/n]/nz (/w BESTORIGINALSONG/x -/w MOTIONPICTURE/x )/w 
+U2/x 《/w OrdinaryLove/x 》/w 
+最佳/z 动画片/n (/w ANIMATEDFILM/x )/w 
+《/w 冰雪/n 奇缘/nz 》/w 
+电视/n 类/q 
+剧情/n 类/q 最佳/z 系列剧/n 集/q (/w BESTTELEVISIONSERIES/x -/w DRAMA/x )/w 
+《/w [绝命/nz 毒/n 师/ng]/nz 》/w 
+剧情/n 类/q 系列剧/n 最佳/z 女演员/nnd (/w BESTPERFORMANCEBYANACTRESSINATELEVISIONSERIES/x -/w DRAMA/x )/w 
+罗宾-怀特/nrf 《/w 纸牌屋/nz 》/w 
+剧情/n 类/q 系列剧/n 最佳/z 男演员/nnd (/w BESTPERFORMANCEBYANACTORINATELEVISIONSERIES/x -/w DRAMA/x )/w 
+布莱恩-克兰斯顿/nrf 《/w [绝命/nz 毒/n 师/ng]/nz 》/w 
+音乐/n //w 喜剧/n 类/q 最佳/z 系列剧/n (/w BESTTELEVISIONSERIES/x -/w MUSICALORCOMEDY/x )/w 
+《/w 这个/rz 警察/nnt 有点/d 烦/v 》/w 
+音乐/n //w 喜剧/n 类/q 最佳/z 系列剧/n 女演员/nnd (/w BESTPERFORMANCEBYANACTRESSINATELEVISIONSERIES/x -/w MUSICALORCOMEDY/x )/w 
+艾米-波勒/nrf 《/w 公园/n 与/cc 休憩/vi 》/w 
+音乐/n //w 喜剧/n 类/q 最佳/z 系列剧/n 男演员/nnd (/w BESTPERFORMANCEBYANACTORINATELEVISIONSERIES/x -/w MUSICALORCOMEDY/x )/w 
+安迪-萨姆博格/nrf 《/w 这个/rz 警察/nnt 有点/d 烦/v 》/w 
+最佳/z [电视剧/n 集/q]/nz 女/b 配角/nnt (/w BESTPERFORMANCEBYANACTRESSINASUPPORTINGROLEINASERIES/x ,/w MINI/x -/w SERIESORMOTIONPICTUREMADEFORTELEVISION/x )/w 
+杰奎琳-比塞特/nrf 《/w 边缘/n 之/uzhi 舞/v 》/w 
+最佳/z [电视剧/n 集/q]/nz 男/b 配角/nnt (/w BESTPERFORMANCEBYANACTORINASUPPORTINGROLEINASERIES/x ,/w MINI/x -/w SERIESORMOTIONPICTUREMADEFORTELEVISION/x )/w 
+强-沃特/nrf 《/w 清道夫/nnd 》/w 
+迷你/b 剧/n 或/c [电视/n 电影/n]/nz 类/q 最佳/z 电视剧/n 男主角/nnt (/w BESTPERFORMANCEBYANACTORINAMINI/x -/w SERIESORAMOTIONPICTUREMADEFORTELEVISION/x )/w 
+迈克尔-道格拉斯/nrf 《/w 烛台/n 之后/f 》/w 
+迷你/b 剧/n 或/c [电视/n 电影/n]/nz 类/q 最佳/z 电视剧/n 女主角/nnt (/w BESTPERFORMANCEBYANACTRESSINAMINI/x -/w SERIESORAMOTIONPICTUREMADEFORTELEVISION/x )/w 
+伊丽莎白-莫斯/nrf 《/w 谜/ng 湖/n 之/uzhi 巅/ng 》/w 
+最佳/z [电视/n 电影/n]/nz 系列/n 短剧/nz (/w BESTMINI/x -/w SERIESORMOTIONPICTUREMADEFORTELEVISION/x )/w 
+《/w 烛台/n 之后/f 》/w 
+[终身/n 成就奖/n]/nz 
+伍迪-艾伦/nrf (/w WoodyAllen/x )/w 

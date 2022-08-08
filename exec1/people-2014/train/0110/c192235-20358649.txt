@@ -1,0 +1,5 @@
+抓捕/v 嫌疑人/n 。/w 
+时间/n ：/w 昨日/t 上午/t 
+地点/n ：/w 运河桥/nz 客运站/nis 附近/f 
+事件/n ：/w [10/m 个/q]/mq 外地人/n 盘踞/v 在/p 这里/rzs 的/ude1 [3/m 个/q]/mq 黑/a 超市/nis ，/w 碰瓷儿/nz 敲诈/v 外地/s 旅客/n ，/w 警方/n 将/d 他们/rr 全部/m 抓获/v 。/w 
+在/p 运河桥/nz 客运站/nis 的/ude1 北侧/f ，/w 有/vyou [三/m 家/q]/mq 小/a 超市/nis ，/w 分别为/v 好/a 的/ude1 超市/nis 、/w [四方/n 客/ng 超市/nis]/nt 及/cc 万家福/nr 超市/nis 。/w 过往/vn 的/ude1 旅客/n 怎么/ryv 也/d 不会/v 想到/v ，/w 这/rzv [三/m 家/q]/mq 超市/nis 不但/c 在/p 结账/vi 处/n 设/v 机关/n ，/w 碰瓷/nz 敲诈/v 消费者/n ，/w 还/d 会/v 上演/vn “/w 找/v 零/m 骗钱/v ”/w 的/ude1 骗局/n 。/w 通常/d ，/w 他们/rr 有/vyou 专人/n 在/p 客运站/nis 寻找/v 作案/vn 目标/n ，/w 然后/c 以/p 碰/v 掉/v 了/ule 手里/s 的/ude1 瓶装水/nz 或/c 是/vshi 香肠/nf 为/p 由/p ，/w 让/v 旅客/n 到/v 超市/nis 给/p 买/v 新的/a 。/w 当/p 旅客/n 进入/v 超市/nis ，/w 骗局/n 就/d 开始/v 了/ule 。/w 据/p [办案/vn 人员/n]/nz 连日/d 蹲守/nz 发现/v ，/w 这/rzv [三/m 家/q]/mq 小/a 超市/nis 每天/r 作案/vi 最多/ad 时/ng 竟/d 高达/v [三/m 四十/m 起/vf]/mq ，/w 每天/r 的/ude1 [涉案/vn 金额/n]/nz 总计/v 在/p 万余元/m 。/w 

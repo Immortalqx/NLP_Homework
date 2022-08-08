@@ -1,0 +1,6 @@
+一/m 、/w 新建/v [商品/n 住宅/n]/nz （/w 不/d 含/v [保障性/n 住房/n]/nz ）/w 价格/n 变动/v 情况/n 
+（/w 一/m ）/w 与/cc 上月/t 相比/vi ，/w [70/m 个/q]/mq 大中城市/n 中/f ，/w 价格/n 下降/vi 的/ude1 城市/n 有/vyou [2/m 个/q]/mq ，/w 持平/vi 的/ude1 城市/n 有/vyou [3/m 个/q]/mq ，/w 上涨/vi 的/ude1 城市/n 有/vyou [65/m 个/q]/mq 。/w [环比/nz 价格/n]/nz 变动/vn 中/f ，/w 最高/a 涨幅/n 为/p 1.1%/m ，/w 最低/a 为/p 下降/vi 1.7%/m 。/w 
+（/w 二/m ）/w 与/cc 上/f 年/qt 同月/d 相比/vi ，/w [70/m 个/q]/mq 大中城市/n 中/f ，/w 价格/n 下降/vi 的/ude1 城市/n 有/vyou [1/m 个/q]/mq ，/w 上涨/vi 的/ude1 城市/n 有/vyou [69/m 个/q]/mq 。/w [12/m 月份/n]/mq ，/w 同比/n 价格/n 变动/vn 中/f ，/w 最高/a 涨幅/n 为/p 21.9%/m ，/w 最低/a 为/p 下降/vi 2.8%/m 。/w 
+二/m 、/w 二手/b 住宅/n 价格/n 变动/v 情况/n 
+（/w 一/m ）/w 与/cc 上月/t 相比/vi ，/w [70/m 个/q]/mq 大中城市/n 中/f ，/w 价格/n 下降/vi 的/ude1 城市/n 有/vyou [5/m 个/q]/mq ，/w 持平/vi 的/ude1 城市/n 有/vyou [1/m 个/q]/mq ，/w 上涨/vi 的/ude1 城市/n 有/vyou [64/m 个/q]/mq 。/w [环比/nz 价格/n]/nz 变动/vn 中/f ，/w 最高/a 涨幅/n 为/p 0.8%/m ，/w 最低/a 为/p 下降/vi 1.8%/m 。/w 
+（/w 二/m ）/w 与/cc 上/f 年/qt 同月/d 相比/vi ，/w [70/m 个/q]/mq 大中城市/n 中/f ，/w 价格/n 下降/vi 的/ude1 城市/n 有/vyou [1/m 个/q]/mq ，/w 上涨/vi 的/ude1 城市/n 有/vyou [69/m 个/q]/mq 。/w [12/m 月份/n]/mq ，/w 同比/n 价格/n 变动/vn 中/f ，/w 最高/a 涨幅/n 为/p 19.7%/m ，/w 最低/a 为/p 下降/vi 7.2%/m 。/w 

@@ -1,0 +1,33 @@
+[海南省/ns 气象/n 服务/vn 中心/nis]/nt [18/m 号/q]/mq 11时/t 提供/v 的/ude1 [天气/n 预报/vn]/nz 
+海上/s 大风/n [蓝色/n 预警/vn]/nz 
+18日/t 下午/t 到/v 20日/t 夜间/n ：/w 本/rz 岛/n 文昌/ns 、/w 琼海/ns 到/v 陵水/ns 一带/n 海面/n ，/w 多/a 云/vg ，/w 东北风/n [6/m 级/q]/mq ，/w 阵风/n [7/m 级/q]/mq ；/w 北部湾/ns 海面/n ，/w 本/rz 岛/n 三亚/ns 、/w 乐东/nz 到/v 海口/ns 一带/n 海面/n ，/w 多/a 云/vg ，/w 东北风/n [5/m -/w 6/m 级/q]/mq ，/w 明天/t 白天/t 起/vf 减弱/v 为/p [5/m 级/q]/mq ，/w 阵风/n [6/m 级/q]/mq ，/w 本/rz 岛/n 四周/f 沿海/f 各/rz 港口/n 所/usuo 挂/v 强风/n 一号/mq 风球/nz 不/d 改变/v ；/w [西沙/ns 群岛/n]/ns 附近/f 海面/n ，/w 多/a 云/vg 有/vyou 阵雨/n ,/w 东北风/n [5/m -/w 6/m 级/q]/mq ，/w 阵风/n [7/m 级/q]/mq 。/w 中/f 沙/n 、/w [南沙/ns 群岛/n]/ns 附近/f 海面/n ，/w 多/a 云/vg ,/w 东北风/n [6/m 级/q]/mq ，/w 阵风/n [7/m 级/q]/mq 。/w 
+寒冷/a [蓝色/n 预警/vn]/nz 
+受冷/nz 空气/n 影响/vn ，/w 预计/v 未来/t [24/m 小时/n]/mq 内/f 本/rz 岛/n 中部/f 山区/n 、/w 西北部/f 内陆/s 地区/n 温度/n 将/d 降/v 到/v [10/m 度/qv]/mq 及/cc 以下/f 。/w 
+陆地/n [天气/n 预报/vn]/nz 
+18日/t 下午/t 到/v 夜间/n ：/w 
+北部/f ,/w 多/a 云/vg ,/w [最低/a 气温/n]/nz [9/m -/w 11/m 度/qv]/mq ,/w [最高/a 气温/n]/nz [19/m -/w 21/m 度/qv]/mq 
+中部/f ,/w 多/a 云/vg ,/w [最低/a 气温/n]/nz [9/m -/w 11/m 度/qv]/mq ,/w [最高/a 气温/n]/nz [20/m -/w 22/m 度/qv]/mq 
+东部/f ,/w 多/a 云/vg ,/w [最低/a 气温/n]/nz [13/m -/w 15/m 度/qv]/mq ,/w [最高/a 气温/n]/nz [21/m -/w 23/m 度/qv]/mq 
+西部/f ,/w 多/a 云/vg ,/w [最低/a 气温/n]/nz [10/m -/w 12/m 度/qv]/mq ,/w [最高/a 气温/n]/nz [22/m -/w 24/m 度/qv]/mq 
+南部/f ,/w 多/a 云/vg ,/w [最低/a 气温/n]/nz [14/m -/w 16/m 度/qv]/mq ,/w [最高/a 气温/n]/nz [24/m -/w 26/m 度/qv]/mq 。/w 
+[西沙/ns 永兴岛/ns]/nz ,/w 多/a 云/vg ,/w 东北风/n [5/m -/w 6/m 级/q]/mq ,/w [21/m -/w 25/m 度/qv]/mq 
+中/f 沙/n 黄岩岛/nr ,/w 多/a 云/vg ,/w 东北风/n [6/m 级/q]/mq ,/w [21/m -/w 26/m 度/qv]/mq 
+南沙/ns 永暑礁/ns ,/w 多/a 云/vg ,/w 东北风/n [6/m 级/q]/mq ,/w [24/m -/w 28/m 度/qv]/mq 
+19日/t 白天/t 到/v 夜间/n ：/w 
+北部/f ,/w 多/a 云/vg ,/w [最低/a 气温/n]/nz [9/m -/w 11/m 度/qv]/mq ,/w [最高/a 气温/n]/nz [19/m -/w 21/m 度/qv]/mq 
+中部/f ,/w 多/a 云/vg ,/w [最低/a 气温/n]/nz [9/m -/w 11/m 度/qv]/mq ,/w [最高/a 气温/n]/nz [20/m -/w 22/m 度/qv]/mq 
+东部/f ,/w 多/a 云/vg ,/w [最低/a 气温/n]/nz [13/m -/w 15/m 度/qv]/mq ,/w [最高/a 气温/n]/nz [21/m -/w 23/m 度/qv]/mq 
+西部/f ,/w 多/a 云/vg ,/w [最低/a 气温/n]/nz [10/m -/w 12/m 度/qv]/mq ,/w [最高/a 气温/n]/nz [22/m -/w 24/m 度/qv]/mq 
+南部/f ,/w 多/a 云/vg ,/w [最低/a 气温/n]/nz [14/m -/w 16/m 度/qv]/mq ,/w [最高/a 气温/n]/nz [24/m -/w 26/m 度/qv]/mq 。/w 
+[西沙/ns 永兴岛/ns]/nz ,/w 多/a 云/vg ,/w 东北风/n [5/m -/w 6/m 级/q]/mq ,/w [21/m -/w 25/m 度/qv]/mq 
+中/f 沙/n 黄岩岛/nr ,/w 多/a 云/vg ,/w 东北风/n [6/m 级/q]/mq ,/w [21/m -/w 26/m 度/qv]/mq 
+南沙/ns 永暑礁/ns ,/w 多/a 云/vg ,/w 东北风/n [6/m 级/q]/mq ,/w [24/m -/w 28/m 度/qv]/mq 
+20日/t 白天/t 到/v 夜间/n ：/w 
+北部/f ,/w 多/a 云/vg ,/w [最低/a 气温/n]/nz [10/m -/w 12/m 度/qv]/mq ,/w [最高/a 气温/n]/nz [18/m -/w 20/m 度/qv]/mq 
+中部/f ,/w 多/a 云/vg ,/w [最低/a 气温/n]/nz [8/m -/w 10/m 度/qv]/mq ,/w [最高/a 气温/n]/nz [20/m -/w 22/m 度/qv]/mq 
+东部/f ,/w 多/a 云/vg ,/w [最低/a 气温/n]/nz [13/m -/w 15/m 度/qv]/mq ,/w [最高/a 气温/n]/nz [20/m -/w 22/m 度/qv]/mq 
+西部/f ,/w 多/a 云/vg ,/w [最低/a 气温/n]/nz [11/m -/w 13/m 度/qv]/mq ,/w [最高/a 气温/n]/nz [20/m -/w 22/m 度/qv]/mq 
+南部/f ,/w 多/a 云/vg ,/w [最低/a 气温/n]/nz [13/m -/w 15/m 度/qv]/mq ,/w [最高/a 气温/n]/nz [24/m -/w 26/m 度/qv]/mq 。/w 
+[西沙/ns 永兴岛/ns]/nz ,/w 多/a 云/vg ,/w 东北风/n [5/m -/w 6/m 级/q]/mq ,/w [21/m -/w 25/m 度/qv]/mq 
+中/f 沙/n 黄岩岛/nr ,/w 多/a 云/vg ,/w 东北风/n [5/m -/w 6/m 级/q]/mq ,/w [21/m -/w 25/m 度/qv]/mq 
+南沙/ns 永暑礁/ns ,/w 多/a 云/vg ,/w 东北风/n [6/m 级/q]/mq ,/w [25/m -/w 28/m 度/qv]/mq 

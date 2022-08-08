@@ -1,0 +1,14 @@
+[中国/ns 人民/n 政治/n 协商/vn 会议/n]/nz [第/m 十一届/n]/nz [安徽省/ns 委员会/nis]/nt 人事/n 任免/v 名单/n 
+(/w 2014年1月16日/t 省政协/n 十一届/n [五/m 次/qv]/mq 常委/nnt 会议/n 通过/p )/w 
+任命/v ：/w 
+沈性善/nr 同志/n 为/p 省政协/n [副/b 秘书长/nnt]/nnt ；/w 
+韦伟/nr 同志/n 为/p 省/n [政协/nis 提案/n]/nz 委员会/nis 副主任/nnt ；/w 
+魏志光/nr 同志/n 为/p 省政协/n [经济/n 委员会/nis]/nis 副主任/nnt ；/w 
+刘振宏/nr 同志/n 为/p 省政协/n 港澳台侨/n 和/cc [外事/n 委员会/nis]/nt 副主任/nnt 。/w 
+免去/v ：/w 
+魏志光/nr 同志/n 的/ude1 省政协/n [副/b 秘书长/nnt]/nnt 职务/n ；/w 
+刘健/nr 同志/n 的/ude1 省/n [政协/nis 提案/n]/nz 委员会/nis 副主任/nnt 职务/n ；/w 
+韦伟/nr 同志/n 的/ude1 省政协/n [文史/n 资料/n 委员会/nis]/nt 副主任/nnt 职务/n ；/w 
+周明洁/nr 同志/n 的/ude1 省政协/n 港澳台侨/n 和/cc [外事/n 委员会/nis]/nt 专职/b 副主任/nnt 职务/n ；/w 
+康晓萍/nr 同志/n 的/ude1 省政协/n 港澳台侨/n 和/cc [外事/n 委员会/nis]/nt 副主任/nnt 职务/n ；/w 
+翟庆党/nr 同志/n 的/ude1 省政协/n 港澳台侨/n 和/cc [外事/n 委员会/nis]/nt 副主任/nnt 职务/n 。/w 

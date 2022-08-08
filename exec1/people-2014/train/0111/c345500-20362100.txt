@@ -1,0 +1,23 @@
+
+年度/n 进口/vn 全/a 路况/n SUV/x 盘点/vn 
+车型/n 
+厂家/n 指导价/n （/w 万元/q ）/w 
+Jeep/x 大切诺基/nrf 
+57.99-89/m ./w 99/m 
+奔驰/vi M/x 级/q 
+80.80-99/m ./w 80/m 
+路虎/nr 全新/b 揽胜/nz 
+149.80-279/m ./w 80/m 
+雷克萨斯/nrf GX/x 
+92.30-92/m ./w 30/m 
+腾讯/ntc 汽车/n 制表/vn 
+推荐/v 车型/n ：/w Jeep/x 大切诺基/nrf 
+[厂商/nnd 指导价/n]/nz ：/w 57.99-89/m ./w [99/m 万元/q]/mq 
+新款/b Jeep/x 大切诺基/nrf 推出/v 了/ule [一/d 款/q]/mq 基于/p [3/m ./w 6/m L/x]/mq 豪华/a 导航/vn 版/n 换装/nz [3/m ./w 0/m L/x]/mq 发动机/n 的/ude1 车型/n ，/w 同时/c [3/m ./w 6/m L/x]/mq 豪华/a 导航/vn 版/n 车型/n 也/d 被/pbei 正式/ad 取消/v ，/w 新/a 车/n 的/ude1 官方/n 指导/v 售价/n 为/p [57/m ./w 99/m 万元/q]/mq 。/w 这个/rz 更/d 低/a 的/ude1 售价/n 不仅/c 拉/v 低/a 了/ule 该车/r 的/ude1 销售/vn 门槛/n ，/w 同时/c 也/d 提升/v 了/ule Jeep/x 大切诺基/nrf 的/ude1 整体/n 竞争力/n 。/w 
+新款/b Jeep/x 大切诺基/nrf 
+外观/n 方面/n ，/w Jeep/x 大切诺基/nrf [3/m ./w 0/m L/x]/mq 舒享/nr 导航/vn 版/n 与/cc 在/p 售/v 车型/n 基本/a [保持/v 一致/a]/nz ，/w 前/f 脸/n 是/vshi Jeep/x 标志性/n 的/ude1 [7/m 个/q]/mq 竖直/nz 排列/v 的/ude1 进气/nz 格栅/nz ，/w 看上去/v 充满/v 力量感/nz ，/w 但/c 细节/n 上/f [3/m ./w 0/m L/x]/mq 车型/n 进行/vn 了/ule 调整/vn ，/w 其中/rz 包括/v 经过/p 微调/vn 的/ude1 前大灯/nz 灯/n 组/n 以及/cc 下/f 进气口/n 。/w 此外/c ，/w 新/a 车/n 还/d 将/d 采用/v 全新/b 的/ude1 轮毂/nz 样式/n 。/w 
+新款/b Jeep/x 大切诺基/nrf 
+内饰/nz 部分/n ，/w Jeep/x 大切诺基/nrf [3/m ./w 0/m L/x]/mq 舒享/nr 导航/vn 版/n 搭载/v 了/ule 双/q 液晶/n [人/n 机/ng 交互/b 系统/n]/nz ，/w 配备/v 了/ule [8/m ./w 4/m 英寸/q]/mq 液晶/n 触摸式/b [中控/nz 系统/n]/nz 、/w [7/m 英寸/q]/mq 客户/n 自定义/nz 式/k 液晶/n 仪表/n 系统/n 、/w 以及/cc Uconnect/x 蓝牙/n [声控/v 技术/n]/nz 等/udeng [人/n 机/ng 互动/vn]/nz 技术/n 。/w 只是/d 与/cc [3/m ./w 6/m L/x]/mq 车型/n 相比/vi 少/a 了/ule 前排/s 座椅/n 通风/vi 功能/n 、/w [空气/n 悬架/nz]/nz 系统/n 等/udeng 一些/mq 更/d 高级/a 的/ude1 配置/vn 。/w 
+新款/b Jeep/x 大切诺基/nrf 
+新款/b Jeep/x 大切诺基/nrf 
+动力/n 方面/n ，/w Jeep/x 大切诺基/nrf [3/m ./w 0/m L/x]/mq 舒享/nr 导航/vn 版/n 搭载/v 的/ude1 是/vshi 一台/mq 全新/b 的/ude1 Pentastar3/x ./w [0/m LV6/x]/mq 发动机/n ，/w 并/cc 与/cc 8/m 速/ag [自动/d 变速器/n]/nz 相/d 匹配/vi 。/w 其中/rz 该/rz 发动/v 机能/n 提供/v 最大/gm [172/m kW/x]/mq 的/ude1 动力/n 输出/vn ，/w 以及/cc [285/m Nm/x]/mq 的/ude1 最大/gm 峰值/n 扭矩/gp 。/w 另外/c ，/w 这/rzv 款/q [3/m ./w 0/m L/x]/mq 车型/n 也/d 配备/v 了/ule 包括/v 经济/n 、/w 自动/d 、/w 运动/vn 、/w 雪地/n 、/w 沙地/n 、/w 泥地/nz 和/cc 岩石/n 在/p 内/f 的/ude1 [7/m 大/a]/mq 驾驶/v 模式/n 。/w 

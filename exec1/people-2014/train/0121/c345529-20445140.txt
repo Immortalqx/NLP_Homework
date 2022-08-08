@@ -1,0 +1,35 @@
+[北京/ns 时间/n]/nz 1月21日/t 早间/t 消息/n ，/w [市场/n 研究/vn 公司/nis]/nis SplashData/x 分析/vn 了/ule 2013年/t [数百/m 万/d 个/q]/mq 被盗/v 的/ude1 密码/n 。/w 结果/n 显示/v ，/w “/w 123456/m ”/w 已/d 取代/v “/w password/x ”/w 成为/v 最/d 常见/a 的/ude1 不/d 安全/an 密码/n 。/w 
+自/p SplashData/x 公布/v 这/rzv 一/m [年度/n 报告/n]/nz 以来/f ，/w 这/rzv 是/vshi “/w password/x ”/w 密码/n 首次/m 未/d 获得/v 第一/m 的/ude1 排名/vn ，/w 而是/c 下降/vi 一位/mq 排名/vi 第二/m 。/w “/w 123456/m ”/w 此前/t 两年/mq 排名/vi 第二/m ，/w 而/cc 今年/t 最终/d 成为/v 第一/m 。/w 
+SplashData/x 表示/v ，/w 基于/p Adobe/x 被/pbei 曝光/vi 的/ude1 一个/mq 信息/n [安全/an 漏洞/n]/nz ，/w 信息安全/gi 咨询公司/nis StrictureConsultingGroup/x 公布/v 了/ule 大量/m Adobe/x 用户/n 的/ude1 密码/n ，/w 这/rzv 对/p 今年/t 的/ude1 排名/vn 产生/v 了/ule 较大/d 影响/vn 。/w 
+SplashDataCEO/x 摩根·斯兰/nrf (/w MorganSlain/x )/w 表示/v ：/w “/w 看到/v 诸如/v ‘/w adobe123/x ’/w 和/cc ‘/w photoshop/x ’/w 之类/rz 的/ude1 密码/n 提醒/v 我们/rr ，/w 不要/d 使用/v 正在/d 访问/vn 的/ude1 网站/n 或/c 应用/vn 的/ude1 名称/n 作为/p 密码/n 。/w ”/w 
+2013年/t 其他/rzv 排名/vi 前/f 10/m 的/ude1 不/d 安全/an 密码/n 还包括/nz “/w qwerty/x ”/w 、/w “/w abc123/x ”/w 、/w “/w 111111/m ”/w 和/cc “/w iloveyou/x ”/w 。/w 
+斯兰/nr 表示/v ：/w “/w 今年/t 排名/vi 另一个/mq 有趣/a 的/ude1 方面/n 在于/v ，/w 即使/c 许多/mq 网站/n 开始/v 执行/vn 更/d 严格/ad 的/ude1 密码/n 策略/n ，/w 但/c 仍/d 有/vyou 许多/mq 短/a [数字/n 密码/n]/nz 出现/v 。/w ”/w 例如/v 在/p 今年/t 的/ude1 榜/n 单/b 上/f ，/w “/w 1234/m ”/w 排名/vi 第16/m 、/w “/w 12345/m ”/w 排名/vi 第20/m ，/w “/w 000000/m ”/w 排名/vi 第25/m 。/w 
+SplashData/x 表示/v ，/w 每年/r 发布/v 这/rzv 一/m 榜/n 单/b 是/vshi 为了/p 提醒/v 人们/n 修改/v 不/d 安全/an 的/ude1 密码/n 。/w 该/rz 公司/nis 表示/v ：/w “/w 与/cc 以往/t 一样/uyy ，/w 我们/rr 希望/v 使/v 更多/ad 人/n 了解/v ，/w 使用/v 较弱/d 的/ude1 密码/n 会/v 带来/v 什么样/ryv 的/ude1 风险/n 。/w 更多/ad 人/n 将/d 可以/v 采取/v 简单/a 的/ude1 措施/n 来/vf 保护/vn 自己/rr ，/w 包括/v 使用/vn 更/d 强/a 的/ude1 密码/n ，/w 以及/cc 在/p 不同/a 网站/n 使用/v 不同/a 密码/n 。/w ”/w 
+该/rz 公司/nis 呼吁/v ，/w 使用/v 榜/n 单/b 上/f 密码/n 的/ude1 个人/n 或/c 企业/n 应/v 立即/d 修改/v 密码/n 。/w 该/rz 公司/nis 的/ude1 建议/n 是/vshi ：/w “/w 使用/v [8/m 位/q]/mq 或/c 更多/ad 位/q 的/ude1 密码/n ，/w 其中/rz 混合/vn 各种/rz 类型/n 字符/n 。/w ”/w 
+最/d 常见/a 的/ude1 不/d 安全/an 密码/n 榜/n 单/b 如下/vi ：/w 
+1/m 、/w 123456/m 
+2/m 、/w password/x 
+3/m 、/w 12345678/m 
+4/m 、/w qwerty/x 
+5/m 、/w abc123/x 
+6/m 、/w 123456789/m 
+7/m 、/w 111111/m 
+8/m 、/w 1234567/m 
+9/m 、/w iloveyou/x 
+10/m 、/w adobe123/x 
+11/m 、/w 123123/m 
+12/m 、/w admin/x 
+13/m 、/w 1234567890/m 
+14/m 、/w letmein/x 
+15/m 、/w photoshop/x 
+16/m 、/w 1234/m 
+17/m 、/w monkey/x 
+18/m 、/w shadow/x 
+19/m 、/w sunshine/x 
+20/m 、/w 12345/m 
+21/m 、/w password1/x 
+22/m 、/w princess/x 
+23/m 、/w azerty/x 
+24/m 、/w trustno1/x 
+25/m 、/w 000000/m 
+(/w 李丽/nr )/w 

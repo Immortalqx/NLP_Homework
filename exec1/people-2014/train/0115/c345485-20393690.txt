@@ -1,0 +1,7 @@
+造型/n 1/m ：/w 文艺/n 工人/nnt 
+1/m ，/w Zara/x 补丁/n 牛仔布/n 衬衫/n ，/w 售价/n 约/d [329/m 元/q]/mq 
+2/m ，/w Mdernaked/x 深蓝/b 印花/n 鸭舌帽/n ，/w 售价/n 约/d [187/m 元/q]/mq 
+3/m ，/w Monki/x 工装/n 蓝/a 纯棉/nz T/x 恤/n ，/w 售价/n 约/d [123/m 元/q]/mq 
+4/m ，/w Topshop/x 薄荷绿/nz 绸缎/n 短裙/n ，/w 售价/n 约/d [1028/m 元/q]/mq 
+5/m ，/w Hershell/x 棉布/n 仿皮/b 背包/n ，/w 售价/n 约/d [329/m 元/q]/mq 
+6/m ，/w NastyGal/x 全息/n 印花/n 德比鞋/nz ，/w 售价/n 约/d [1110/m 元/q]/mq 

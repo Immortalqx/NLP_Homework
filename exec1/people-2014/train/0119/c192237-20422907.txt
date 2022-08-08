@@ -1,0 +1,6 @@
+原/b 标题/n ：/w 食疗/n ：/w [10/m 种/q]/mq 食物/nf 搭配/v 有毒/vn 最好/d 少/a 吃/v 
+原/b 标题/n ：/w 食疗/n ：/w [10/m 种/q]/mq 食物/nf 搭配/v 有毒/vn 最好/d 少/a 吃/v 
+
+[食疗/n 养生/vn]/nz 提醒/v ：/w [日常/b 生活/vn]/nz 中/f [10/m 种/q]/mq 食物/nf 的/ude1 有毒/vn 搭配/v 最好/d 少/a 吃/v 为/p 妙/a 
+1/m 。/w [土豆/n 烧牛肉/nz]/nf ：/w 由于/p 土豆/n 和/cc 牛肉/nf 在/p 被/pbei 消化/v 时/ng 所需/nz 的/ude1 胃酸/n 的/ude1 浓度/n 不同/a ，/w 就/d 势必/d 延长/v 食物/nf 在/p 胃/n 中/f 的/ude1 [滞留/v 时间/n]/nz ，/w 从而/c 引起/v 胃肠/n [消化/v 吸收/v]/nz 时间/n 的/ude1 延长/vn ，/w 久而久之/dl ，/w 必然/d 导致/v 肠胃/n 功能/n 的/ude1 紊乱/an 。/w 
+2/m 。/w [小葱/n 拌豆腐/nf]/nf ：/w 豆腐/nf 中/f 的/ude1 钙/nf 与/cc 葱/nf 中/f 的/ude1 草酸/n ，/w 会/v 结合/vn 成/v 白色/n 沉淀物/n ―/w ―/w 草酸钙/nmc ，/w 同样/d 造成/v 人体/n 对/p 钙/nf 的/ude1 吸收/vn 困难/an 。/w 

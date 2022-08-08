@@ -1,0 +1,17 @@
+[龙岩/ns 高速公路/n 支队/nis]/nt 提醒/v 广大/b 司机/nnt 朋友们/nz ，/w 春运/n 期间/f ，/w 在/p 经过/p 龙岩/ns 高速公路/n 辖区/n 一些/mq 路况/n 较为/d 复杂/a 的/ude1 路段/n 时/ng ，/w 要/v 谨慎/a 驾驶/v 、/w 减速/vi 慢行/v 。/w 路段/n [具体/a 情况/n]/nz 如下/vi ：/w 
+易/ad 结冰/vi 、/w 积水/n 路段/n ：/w 
+1/m 、/w [厦/b 蓉/ng 高速/b]/nz B/x 线/n （/w 龙岩/ns 往/p 漳州/ns 方向/n ）/w [121/m km/x]/mq +/w [418/m m/x]/mq （/w 乌石山/nz 隧道/n ）/w -/w [112/m km/x]/mq +/w [180/m m/x]/mq （/w 建安/t 隧道/n ）/w （/w 长/a 下坡/vi 、/w 易/ad 结冰/vi ）/w 
+2/m 、/w [厦/b 蓉/ng 高速/b]/nz A/x 线/n （/w 漳州/ns 往/p 龙岩/ns 方向/n ）/w [122/m km/x]/mq （/w 乌石山/nz 隧道/n ）/w -/w [130/m km/x]/mq （/w 合/v 溪/ng 隧道/n ）/w （/w 易/ad 结冰/vi ）/w 
+3/m 、/w [厦/b 蓉/ng 高速/b]/nz A/x 线/n （/w 龙岩/ns 往/p 古田/ns 方向/n ）/w [173/m km/x]/mq +/w [200/m m/x]/mq （/w 郭车/nr 隧道/n ）/w -/w [173/m km/x]/mq +/w [900/m m/x]/mq （/w 易/ad 结冰/vi ）/w 
+4/m 、/w [厦/b 蓉/ng 高速/b]/nz B/x 线/n （/w 新泉/nz 往/p 古田/ns 方向/n ）/w [185/m km/x]/mq +/w [600/m m/x]/mq （/w 豪/ag 岭/ng 隧道/n ）/w -/w [184/m km/x]/mq +/w [600/m m/x]/mq （/w 易/ad 结冰/vi ）/w 
+5/m 、/w [厦/b 蓉/ng 高速/b]/nz B/x 线/n （/w 古田/ns 往/p 龙岩/ns 方向/n ）/w [166/m km/x]/mq +/w [700/m m/x]/mq （/w 田心/nr 隧道/n ）/w -/w [159/m km/x]/mq +/w [220/m m/x]/mq （/w 京/b 源/ng 口/n 隧道/n ）/w （/w 易/ad 结冰/vi ）/w 
+6/m 、/w [长/a 深高速/nz]/nz A/x 线/n （/w 才/d 溪/ng 往/p 上杭/ns 方向/n ）/w [3188/m km/x]/mq -/w [3201/m km/x]/mq （/w 雨天/n 易/ad 积水/n ）/w 
+易/ad 拥堵/v 路段/n ：/w 
+1/m 、/w [厦/b 蓉/ng 高速/b]/nz B/x 线/n （/w 龙岩/ns 往/p 适中/a 方向/n ）/w [127/m km/x]/mq +/w [470/m km/x]/mq （/w 后/f 祠/ng 隧道/n ）/w -/w [124/m km/x]/mq （/w 适中/a 服务区/nz ）/w （/w 易/ad 拥堵/v 路段/n ）/w 
+2/m 、/w [厦/b 蓉/ng 高速/b]/nz B/x 线/n （/w 龙岩/ns 往/p 漳州/ns 方向/n ）/w [121/m km/x]/mq +/w [418/m m/x]/mq （/w 乌石山/nz 隧道/n ）/w -/w [112/m km/x]/mq +/w [180/m m/x]/mq （/w 建安/t 隧道/n ）/w （/w 易/ad 拥堵/v 路段/n ）/w 
+易/ad 发/v 团雾/nz 路段/n ：/w 
+1/m 、/w [厦/b 蓉/ng 高速/b]/nz （/w 龙岩/ns 漳州/ns 段/q ）/w [112/m km/x]/mq （/w 建安/t 隧道/n ）/w -/w [115/m km/x]/mq （/w 乌石山/nz 隧道/n ）/w （/w 多发/b 时间/n ：/w 凌晨/t 04：00/m -/w 6：00/m ，/w 夜间/n 10：00/m -/w 12：00/m ）/w 
+2/m 、/w [厦/b 蓉/ng 高速/b]/nz （/w 龙岩/ns 适中/a 段/q ）/w [131/m km/x]/mq -/w [134/m km/x]/mq （/w 多发/b 时间/n ：/w 凌晨/t 04：00/m -/w 06：00/m ，/w 夜间/n 10：00/m -/w 12：00/m ）/w 
+3/m 、/w [厦/b 蓉/ng 高速/b]/nz （/w 龙岩/ns 长汀/ns 段/q ）/w [216/m km/x]/mq -/w [226/m km/x]/mq （/w 船龄/n 岽/n 隧道群/nz ）/w （/w 多发/b 时间/n ：/w 凌晨/t 00：00/m -/w 07：00/m ）/w 
+4/m 、/w [长/a 深高速/nz]/nz （/w 十方/n 闽粤/nz 段/q ）/w [3231/m km/x]/mq -/w [3243/m km/x]/mq （/w 多发/b 时间/n ：/w 凌晨/t 04：00/m -/w 07：00/m ）/w 
+5/m 、/w 上/f 蛟/ng 高速/b （/w 上杭/ns 蛟洋/nz 段/q ）/w [18/m km/x]/mq -/w [36/m km/x]/mq （/w 多发/b 时间/n ：/w 凌晨/t 04：00/m -/w 07：00/m ）/w 
